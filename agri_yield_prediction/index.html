@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgriYield Predictor - Forecasting Crop Yield</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome for Agriculture Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-overlay"></div>
+    <main class="container">
+        <header class="header">
+            <div class="logo-container">
+                <i class="fas fa-seedling fa-3x logo-icon"></i>
+                <h1 class="title">AgriYield Predictor</h1>
+            </div>
+            <p class="subtitle">Forecast Crop Yield Using Environmental and Soil Data</p>
+        </header>
+
+        <section class="card">
+            <header class="prediction-header">
+                <h2 class="prediction-title">Top Yield Prediction</h2>
+                <p class="prediction-subtitle">Enter soil and environmental parameters to predict yield.</p>
+            </header>
+
+            <div class="prediction-main-layout">
+                <form id="predictionForm" class="prediction-form">
+                    <h3 class="section-title">Input Parameters</h3>
+                    <div class="slider-grid">
+                        <!-- Nitrogen -->
+                        <div class="form-group slider-group">
+                            <label for="nitrogen"><i class="fas fa-leaf color-green"></i> Nitrogen (N) <span class="unit-text">(kg/ha)</span></label>
+                            <div class="slider-container">
+                                <span class="slider-val">20</span>
+                                <input type="range" id="nitrogen" name="nitrogen" min="0" max="150" value="20" class="custom-range">
+                                <div class="range-labels"><span>0</span><span>150</span></div>
+                            </div>
+                        </div>
+
+                        <!-- Phosphorus -->
+                        <div class="form-group slider-group">
+                            <label for="phosphorus"><i class="fas fa-vial color-green"></i> Phosphorus (P) <span class="unit-text">(kg/ha)</span></label>
+                            <div class="slider-container">
+                                <span class="slider-val">10</span>
+                                <input type="range" id="phosphorus" name="phosphorus" min="0" max="80" value="10" class="custom-range">
+                                <div class="range-labels"><span>0</span><span>80</span></div>
+                            </div>
+                        </div>
+
+                        <!-- Potassium -->
+                        <div class="form-group slider-group">
+                            <label for="potassium"><i class="fas fa-flask color-green"></i> Potassium (K) <span class="unit-text">(kg/ha)</span></label>
+                            <div class="slider-container">
+                                <span class="slider-val">18</span>
+                                <input type="range" id="potassium" name="potassium" min="0" max="150" value="18" class="custom-range">
+                                <div class="range-labels"><span>0</span><span>150</span></div>
+                            </div>
+                        </div>
+
+                        <!-- Temperature -->
+                        <div class="form-group slider-group">
+                            <label for="temperature"><i class="fas fa-thermometer-half color-red"></i> Temperature <span class="unit-text">(°C)</span></label>
+                            <div class="slider-container">
+                                <span class="slider-val">25</span>
+                                <input type="range" id="temperature" name="temperature" min="0" max="45" value="25" class="custom-range">
+                                <div class="range-labels"><span>0</span><span>45</span></div>
+                            </div>
+                        </div>
+
+                        <!-- Humidity -->
+                        <div class="form-group slider-group">
+                            <label for="humidity"><i class="fas fa-tint color-blue"></i> Humidity <span class="unit-text">(%)</span></label>
+                            <div class="slider-container">
+                                <span class="slider-val">80</span>
+                                <input type="range" id="humidity" name="humidity" min="0" max="100" value="80" class="custom-range">
+                                <div class="range-labels"><span>0</span><span>100</span></div>
+                            </div>
+                        </div>
+
+                        <!-- Soil pH -->
+                        <div class="form-group slider-group">
+                            <label for="soilPh"><i class="fas fa-vial color-purple"></i> Soil pH</label>
+                            <div class="slider-container">
+                                <span class="slider-val">6.5</span>
+                                <input type="range" id="soilPh" name="soilPh" min="0" max="14" step="0.1" value="6.5" class="custom-range">
+                                <div class="range-labels"><span>0</span><span>14</span></div>
+                            </div>
+                        </div>
+
+                        <!-- Rainfall -->
+                        <div class="form-group slider-group full-width">
+                            <label for="rainfall"><i class="fas fa-cloud-showers-heavy color-blue"></i> Rainfall <span class="unit-text">(mm)</span></label>
+                            <div class="slider-container">
+                                <span class="slider-val">1200</span>
+                                <input type="range" id="rainfall" name="rainfall" min="300" max="3500" value="1200" class="custom-range">
+                                <div class="range-labels"><span>300</span><span>3500</span></div>
+                            </div>
+                        </div>
+
+                        <!-- Soil Type Dropdown -->
+                        <div class="form-group">
+                            <label for="soilType"><i class="fas fa-mountain color-blue"></i> Soil Type</label>
+                            <select id="soilType" name="soilType" required>
+                                <option value="Loamy">Loamy</option>
+                                <option value="Red">Red</option>
+                                <option value="Alluvial">Alluvial</option>
+                                <option value="Black">Black</option>
+                                <option value="Laterite">Laterite</option>
+                            </select>
+                        </div>
+
+                        <!-- Crop Dropdown -->
+                        <div class="form-group">
+                            <label for="crop"><i class="fas fa-seedling color-green"></i> Crop</label>
+                            <select id="crop" name="crop" required>
+                                <option value="Rice">Rice</option>
+                                <option value="Paddy">Paddy</option>
+                                <option value="Wheat">Wheat</option>
+                                <option value="Cotton">Cotton</option>
+                                <option value="Sugarcane">Sugarcane</option>
+                                <option value="Soybean">Soybean</option>
+                                <option value="Groundnut">Groundnut</option>
+                                <option value="Millets">Millets</option>
+                                <option value="Maize">Maize</option>
+                                <option value="Pulses">Pulses</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="button-container">
+                        <button type="submit" id="predictBtn" class="predict-button-large">
+                            <i class="fas fa-bolt"></i> Predict Yield
+                        </button>
+                    </div>
+                </form>
+
+                <!-- Tips Sidebar -->
+                <aside class="tips-sidebar">
+                    <div class="tips-box">
+                        <h4><i class="fas fa-lightbulb color-yellow"></i> Tips</h4>
+                        <ul>
+                            <li><strong>NPK:</strong> Keep Nitrogen (N), Phosphorus (P), and Potassium (K) in optimal ranges for specific crops.</li>
+                            <li><strong>Soil pH:</strong> Most crops grow best in slightly acidic to neutral soil (6.0 - 7.5).</li>
+                            <li><strong>Rainfall:</strong> Rice and Sugarcane require high rainfall, while Millets need less.</li>
+                        </ul>
+                    </div>
+                </aside>
+            </div>
+
+            <div id="resultContainer" class="result-container hidden">
+                <h3 id="resultTitle">Predicted Crop Yield</h3>
+                <div id="singleResult" class="result-box">
+                    <span id="yieldValue">0.00</span> <span class="unit">kg/ha</span>
+                </div>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <p>&copy; 2026 AgriYield Predictor. Empowering Agriculture with AI.</p>
+        </footer>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,1761 @@
+State,District,Year,Crop,Yield_kg_per_ha,Soil_Type,Soil_pH,Nitrogen,Phosphorus,Potassium,Min_Temp_C,Max_Temp_C,Rainfall_mm,Humidity_percent,Mean_Temp_C
+Andhra Pradesh,Guntur,2010,Rice,2854,Red,7.6,329,41,349,22,30,1347,74,26
+Andhra Pradesh,Kurnool,2010,Groundnut,3332,Red,7.6,233,41,343,22,32,1347,57,27
+Telangana,Warangal,2010,Cotton,3910,Red,7.1,311,36,281,17,34,1102,70,25.5
+Telangana,Nizamabad,2010,Rice,2793,Red,7.1,312,36,362,17,29,1102,78,23
+Tamil Nadu,Thanjavur,2010,Rice,3242,Red,7.1,235,36,325,19,38,684,62,28.5
+Tamil Nadu,Madurai,2010,Millets,3462,Red,7.1,292,36,352,19,34,684,72,26.5
+Karnataka,Mandya,2010,Rice,4416,Red,7.7,233,42,283,17,32,1442,51,24.5
+Karnataka,Raichur,2010,Paddy,3052,Red,7.7,299,42,319,17,32,1442,67,24.5
+Maharashtra,Pune,2010,Sugarcane,3238,Red,7.3,251,38,301,20,34,1075,78,27
+Maharashtra,Nagpur,2010,Soybean,2645,Red,7.3,313,38,323,20,29,1075,80,24.5
+Punjab,Ludhiana,2010,Wheat,2973,Alluvial,7.4,287,39,297,21,29,1006,68,25
+Punjab,Patiala,2010,Rice,3722,Alluvial,7.4,258,39,338,21,30,1006,57,25.5
+Haryana,Hisar,2010,Wheat,4417,Red,7.5,243,40,293,21,37,1236,57,29
+Haryana,Karnal,2010,Rice,3914,Red,7.5,305,40,365,21,38,1236,84,29.5
+Uttar Pradesh,Meerut,2010,Wheat,4094,Alluvial,7.1,273,36,343,23,38,728,74,30.5
+Uttar Pradesh,Varanasi,2010,Rice,3214,Alluvial,7.1,277,36,317,23,34,728,79,28.5
+Bihar,Patna,2010,Rice,4407,Alluvial,7.4,287,39,367,15,31,1080,77,23
+Bihar,Bhagalpur,2010,Maize,2608,Alluvial,7.4,280,39,350,15,28,1080,53,21.5
+West Bengal,Burdwan,2010,Rice,3155,Alluvial,6.5,262,30,312,22,39,727,65,30.5
+West Bengal,Cooch Behar,2010,Jute,4350,Alluvial,6.5,264,30,344,22,38,727,75,30
+Odisha,Cuttack,2010,Rice,4305,Red,6.6,256,31,346,21,29,876,65,25
+Odisha,Sambalpur,2010,Pulses,2714,Red,6.6,242,31,322,21,38,876,54,29.5
+Rajasthan,Jaipur,2010,Bajra,2646,Red,7.5,272,40,322,17,38,842,76,27.5
+Rajasthan,Kota,2010,Wheat,3193,Red,7.5,310,40,300,17,33,842,68,25
+Madhya Pradesh,Bhopal,2010,Soybean,3636,Red,7.5,287,40,357,17,32,1372,71,24.5
+Madhya Pradesh,Indore,2010,Wheat,2870,Red,7.5,309,40,359,17,38,1372,55,27.5
+Chhattisgarh,Raipur,2010,Rice,3335,Red,7.1,240,36,340,18,39,1263,60,28.5
+Jharkhand,Ranchi,2010,Maize,3502,Red,7.7,311,42,351,20,38,1175,82,29
+Assam,Jorhat,2010,Tea,4234,Red,6.3,279,28,309,17,30,1442,69,23.5
+Assam,Silchar,2010,Rice,4403,Red,6.3,262,28,342,17,39,1442,78,28
+Kerala,Thrissur,2010,Coconut,4045,Red,6.8,298,33,288,17,29,1102,70,23
+Kerala,Palakkad,2010,Rice,3990,Red,6.8,272,33,342,17,30,1102,75,23.5
+Gujarat,Anand,2010,Cotton,3692,Red,7.2,285,37,305,22,28,1347,67,25
+Gujarat,Rajkot,2010,Groundnut,3628,Red,7.2,233,37,353,22,32,1347,83,27
+Himachal Pradesh,Shimla,2010,Apple,3130,Red,7.3,296,38,356,20,34,1145,70,27
+Andhra Pradesh,Guntur,2011,Rice,3385,Red,7.6,329,41,349,18,29,653,80,23.5
+Andhra Pradesh,Kurnool,2011,Groundnut,3382,Red,7.6,233,41,343,18,34,653,77,26
+Telangana,Warangal,2011,Cotton,3863,Red,7.1,311,36,281,23,35,1388,68,29
+Telangana,Nizamabad,2011,Rice,3123,Red,7.1,312,36,362,23,35,1388,58,29
+Tamil Nadu,Thanjavur,2011,Rice,4328,Red,7.1,235,36,325,19,36,1154,63,27.5
+Tamil Nadu,Madurai,2011,Millets,4124,Red,7.1,292,36,352,19,36,1154,84,27.5
+Karnataka,Mandya,2011,Rice,3669,Red,7.7,233,42,283,18,33,883,59,25.5
+Karnataka,Raichur,2011,Paddy,3483,Red,7.7,299,42,319,18,31,883,63,24.5
+Maharashtra,Pune,2011,Sugarcane,4055,Red,7.3,251,38,301,16,39,1181,80,27.5
+Maharashtra,Nagpur,2011,Soybean,3672,Red,7.3,313,38,323,16,36,1181,72,26
+Punjab,Ludhiana,2011,Wheat,4095,Alluvial,7.4,287,39,297,17,31,932,50,24
+Punjab,Patiala,2011,Rice,4157,Alluvial,7.4,258,39,338,17,33,932,77,25
+Haryana,Hisar,2011,Wheat,4286,Red,7.5,243,40,293,23,34,1158,81,28.5
+Haryana,Karnal,2011,Rice,3861,Red,7.5,305,40,365,23,33,1158,81,28
+Uttar Pradesh,Meerut,2011,Wheat,2849,Alluvial,7.1,273,36,343,18,37,1223,54,27.5
+Uttar Pradesh,Varanasi,2011,Rice,3506,Alluvial,7.1,277,36,317,18,30,1223,81,24
+Bihar,Patna,2011,Rice,3609,Alluvial,7.4,287,39,367,24,37,1359,64,30.5
+Bihar,Bhagalpur,2011,Maize,3692,Alluvial,7.4,280,39,350,24,28,1359,77,26
+West Bengal,Burdwan,2011,Rice,3127,Alluvial,6.5,262,30,312,21,39,926,77,30
+West Bengal,Cooch Behar,2011,Jute,3746,Alluvial,6.5,264,30,344,21,34,926,51,27.5
+Odisha,Cuttack,2011,Rice,3229,Red,6.6,256,31,346,23,37,958,69,30
+Odisha,Sambalpur,2011,Pulses,2517,Red,6.6,242,31,322,23,29,958,82,26
+Rajasthan,Jaipur,2011,Bajra,4496,Red,7.5,272,40,322,16,28,771,56,22
+Rajasthan,Kota,2011,Wheat,4025,Red,7.5,310,40,300,16,33,771,50,24.5
+Madhya Pradesh,Bhopal,2011,Soybean,2968,Red,7.5,287,40,357,21,32,1006,68,26.5
+Madhya Pradesh,Indore,2011,Wheat,3515,Red,7.5,309,40,359,21,35,1006,80,28
+Chhattisgarh,Raipur,2011,Rice,3337,Red,7.1,240,36,340,20,29,675,62,24.5
+Jharkhand,Ranchi,2011,Maize,2981,Red,7.7,311,42,351,22,33,917,71,27.5
+Assam,Jorhat,2011,Tea,3442,Red,6.3,279,28,309,20,38,665,77,29
+Assam,Silchar,2011,Rice,3748,Red,6.3,262,28,342,20,32,665,83,26
+Kerala,Thrissur,2011,Coconut,2833,Red,6.8,298,33,288,24,29,1399,53,26.5
+Kerala,Palakkad,2011,Rice,4121,Red,6.8,272,33,342,24,37,1399,76,30.5
+Gujarat,Anand,2011,Cotton,2871,Red,7.2,285,37,305,20,39,745,61,29.5
+Gujarat,Rajkot,2011,Groundnut,4061,Red,7.2,233,37,353,20,33,745,81,26.5
+Himachal Pradesh,Shimla,2011,Apple,3359,Red,7.3,296,38,356,18,39,1343,69,28.5
+Andhra Pradesh,Guntur,2012,Rice,2667,Red,7.6,329,41,349,20,39,785,57,29.5
+Andhra Pradesh,Kurnool,2012,Groundnut,3796,Red,7.6,233,41,343,20,32,785,51,26
+Telangana,Warangal,2012,Cotton,3808,Red,7.1,311,36,281,23,28,838,53,25.5
+Telangana,Nizamabad,2012,Rice,3858,Red,7.1,312,36,362,23,38,838,63,30.5
+Tamil Nadu,Thanjavur,2012,Rice,3829,Red,7.1,235,36,325,21,37,1046,69,29
+Tamil Nadu,Madurai,2012,Millets,2534,Red,7.1,292,36,352,21,38,1046,79,29.5
+Karnataka,Mandya,2012,Rice,3711,Red,7.7,233,42,283,18,31,883,76,24.5
+Karnataka,Raichur,2012,Paddy,3716,Red,7.7,299,42,319,18,32,883,56,25
+Maharashtra,Pune,2012,Sugarcane,2521,Red,7.3,251,38,301,23,29,1348,81,26
+Maharashtra,Nagpur,2012,Soybean,3845,Red,7.3,313,38,323,23,37,1348,70,30
+Punjab,Ludhiana,2012,Wheat,3481,Alluvial,7.4,287,39,297,23,33,1268,56,28
+Punjab,Patiala,2012,Rice,2515,Alluvial,7.4,258,39,338,23,35,1268,65,29
+Haryana,Hisar,2012,Wheat,2683,Red,7.5,243,40,293,19,39,1274,73,29
+Haryana,Karnal,2012,Rice,2849,Red,7.5,305,40,365,19,33,1274,54,26
+Uttar Pradesh,Meerut,2012,Wheat,2734,Alluvial,7.1,273,36,343,22,30,807,54,26
+Uttar Pradesh,Varanasi,2012,Rice,3883,Alluvial,7.1,277,36,317,22,35,807,73,28.5
+Bihar,Patna,2012,Rice,3688,Alluvial,7.4,287,39,367,24,32,1099,73,28
+Bihar,Bhagalpur,2012,Maize,3375,Alluvial,7.4,280,39,350,24,39,1099,65,31.5
+West Bengal,Burdwan,2012,Rice,3217,Alluvial,6.5,262,30,312,22,33,807,77,27.5
+West Bengal,Cooch Behar,2012,Jute,2551,Alluvial,6.5,264,30,344,22,31,807,51,26.5
+Odisha,Cuttack,2012,Rice,3498,Red,6.6,256,31,346,23,34,948,78,28.5
+Odisha,Sambalpur,2012,Pulses,3068,Red,6.6,242,31,322,23,28,948,78,25.5
+Rajasthan,Jaipur,2012,Bajra,3275,Red,7.5,272,40,322,16,31,1261,65,23.5
+Rajasthan,Kota,2012,Wheat,3393,Red,7.5,310,40,300,16,29,1261,53,22.5
+Madhya Pradesh,Bhopal,2012,Soybean,3542,Red,7.5,287,40,357,18,30,1133,62,24
+Madhya Pradesh,Indore,2012,Wheat,2570,Red,7.5,309,40,359,18,30,1133,65,24
+Chhattisgarh,Raipur,2012,Rice,3650,Red,7.1,240,36,340,17,38,1032,55,27.5
+Jharkhand,Ranchi,2012,Maize,3978,Red,7.7,311,42,351,23,38,1058,73,30.5
+Assam,Jorhat,2012,Tea,2748,Red,6.3,279,28,309,20,28,1315,78,24
+Assam,Silchar,2012,Rice,3873,Red,6.3,262,28,342,20,33,1315,73,26.5
+Kerala,Thrissur,2012,Coconut,3856,Red,6.8,298,33,288,23,32,908,81,27.5
+Kerala,Palakkad,2012,Rice,4350,Red,6.8,272,33,342,23,30,908,75,26.5
+Gujarat,Anand,2012,Cotton,4257,Red,7.2,285,37,305,18,29,1183,57,23.5
+Gujarat,Rajkot,2012,Groundnut,2721,Red,7.2,233,37,353,18,33,1183,61,25.5
+Himachal Pradesh,Shimla,2012,Apple,2945,Red,7.3,296,38,356,17,29,702,55,23
+Andhra Pradesh,Guntur,2013,Rice,3043,Red,7.6,329,41,349,20,31,1355,68,25.5
+Andhra Pradesh,Kurnool,2013,Groundnut,3079,Red,7.6,233,41,343,20,31,1355,84,25.5
+Telangana,Warangal,2013,Cotton,3863,Red,7.1,311,36,281,21,31,966,58,26
+Telangana,Nizamabad,2013,Rice,3338,Red,7.1,312,36,362,21,34,966,58,27.5
+Tamil Nadu,Thanjavur,2013,Rice,3037,Red,7.1,235,36,325,17,37,912,57,27
+Tamil Nadu,Madurai,2013,Millets,2723,Red,7.1,292,36,352,17,31,912,53,24
+Karnataka,Mandya,2013,Rice,3887,Red,7.7,233,42,283,24,31,1299,62,27.5
+Karnataka,Raichur,2013,Paddy,3995,Red,7.7,299,42,319,24,31,1299,65,27.5
+Maharashtra,Pune,2013,Sugarcane,3920,Red,7.3,251,38,301,16,28,1271,55,22
+Maharashtra,Nagpur,2013,Soybean,4431,Red,7.3,313,38,323,16,31,1271,81,23.5
+Punjab,Ludhiana,2013,Wheat,3114,Alluvial,7.4,287,39,297,23,30,1068,69,26.5
+Punjab,Patiala,2013,Rice,3989,Alluvial,7.4,258,39,338,23,29,1068,59,26
+Haryana,Hisar,2013,Wheat,2672,Red,7.5,243,40,293,15,28,970,52,21.5
+Haryana,Karnal,2013,Rice,2686,Red,7.5,305,40,365,15,34,970,61,24.5
+Uttar Pradesh,Meerut,2013,Wheat,3444,Alluvial,7.1,273,36,343,19,36,954,79,27.5
+Uttar Pradesh,Varanasi,2013,Rice,3931,Alluvial,7.1,277,36,317,19,31,954,51,25
+Bihar,Patna,2013,Rice,3736,Alluvial,7.4,287,39,367,18,28,1413,61,23
+Bihar,Bhagalpur,2013,Maize,4446,Alluvial,7.4,280,39,350,18,34,1413,76,26
+West Bengal,Burdwan,2013,Rice,3226,Alluvial,6.5,262,30,312,18,30,1233,81,24
+West Bengal,Cooch Behar,2013,Jute,4453,Alluvial,6.5,264,30,344,18,29,1233,83,23.5
+Odisha,Cuttack,2013,Rice,3232,Red,6.6,256,31,346,18,32,1103,57,25
+Odisha,Sambalpur,2013,Pulses,3209,Red,6.6,242,31,322,18,29,1103,64,23.5
+Rajasthan,Jaipur,2013,Bajra,3369,Red,7.5,272,40,322,18,33,1103,74,25.5
+Rajasthan,Kota,2013,Wheat,4008,Red,7.5,310,40,300,18,36,1103,73,27
+Madhya Pradesh,Bhopal,2013,Soybean,2831,Red,7.5,287,40,357,17,31,1242,71,24
+Madhya Pradesh,Indore,2013,Wheat,2841,Red,7.5,309,40,359,17,37,1242,56,27
+Chhattisgarh,Raipur,2013,Rice,3993,Red,7.1,240,36,340,21,33,686,63,27
+Jharkhand,Ranchi,2013,Maize,2997,Red,7.7,311,42,351,18,33,873,62,25.5
+Assam,Jorhat,2013,Tea,4223,Red,6.3,279,28,309,23,35,758,83,29
+Assam,Silchar,2013,Rice,3791,Red,6.3,262,28,342,23,39,758,76,31
+Kerala,Thrissur,2013,Coconut,2722,Red,6.8,298,33,288,21,30,1246,77,25.5
+Kerala,Palakkad,2013,Rice,2785,Red,6.8,272,33,342,21,37,1246,70,29
+Gujarat,Anand,2013,Cotton,2834,Red,7.2,285,37,305,19,34,654,69,26.5
+Gujarat,Rajkot,2013,Groundnut,3626,Red,7.2,233,37,353,19,30,654,61,24.5
+Himachal Pradesh,Shimla,2013,Apple,4207,Red,7.3,296,38,356,23,35,1128,82,29
+Andhra Pradesh,Guntur,2014,Rice,4096,Red,7.6,329,41,349,17,32,1282,76,24.5
+Andhra Pradesh,Kurnool,2014,Groundnut,3899,Red,7.6,233,41,343,17,31,1282,69,24
+Telangana,Warangal,2014,Cotton,4128,Red,7.1,311,36,281,19,36,1264,63,27.5
+Telangana,Nizamabad,2014,Rice,3061,Red,7.1,312,36,362,19,33,1264,66,26
+Tamil Nadu,Thanjavur,2014,Rice,3245,Red,7.1,235,36,325,24,37,669,65,30.5
+Tamil Nadu,Madurai,2014,Millets,2797,Red,7.1,292,36,352,24,29,669,67,26.5
+Karnataka,Mandya,2014,Rice,3804,Red,7.7,233,42,283,22,32,937,79,27
+Karnataka,Raichur,2014,Paddy,3438,Red,7.7,299,42,319,22,34,937,78,28
+Maharashtra,Pune,2014,Sugarcane,3628,Red,7.3,251,38,301,23,36,1348,58,29.5
+Maharashtra,Nagpur,2014,Soybean,2558,Red,7.3,313,38,323,23,34,1348,83,28.5
+Punjab,Ludhiana,2014,Wheat,4040,Alluvial,7.4,287,39,297,20,32,1195,70,26
+Punjab,Patiala,2014,Rice,3978,Alluvial,7.4,258,39,338,20,34,1195,78,27
+Haryana,Hisar,2014,Wheat,3052,Red,7.5,243,40,293,20,32,1265,52,26
+Haryana,Karnal,2014,Rice,3596,Red,7.5,305,40,365,20,28,1265,66,24
+Uttar Pradesh,Meerut,2014,Wheat,3124,Alluvial,7.1,273,36,343,22,28,877,84,25
+Uttar Pradesh,Varanasi,2014,Rice,3293,Alluvial,7.1,277,36,317,22,29,877,83,25.5
+Bihar,Patna,2014,Rice,3077,Alluvial,7.4,287,39,367,19,37,824,72,28
+Bihar,Bhagalpur,2014,Maize,2810,Alluvial,7.4,280,39,350,19,38,824,70,28.5
+West Bengal,Burdwan,2014,Rice,3376,Alluvial,6.5,262,30,312,22,32,977,61,27
+West Bengal,Cooch Behar,2014,Jute,4354,Alluvial,6.5,264,30,344,22,30,977,69,26
+Odisha,Cuttack,2014,Rice,3439,Red,6.6,256,31,346,21,39,1256,84,30
+Odisha,Sambalpur,2014,Pulses,2558,Red,6.6,242,31,322,21,34,1256,83,27.5
+Rajasthan,Jaipur,2014,Bajra,3911,Red,7.5,272,40,322,18,35,813,81,26.5
+Rajasthan,Kota,2014,Wheat,3462,Red,7.5,310,40,300,18,30,813,67,24
+Madhya Pradesh,Bhopal,2014,Soybean,4275,Red,7.5,287,40,357,19,31,704,60,25
+Madhya Pradesh,Indore,2014,Wheat,3967,Red,7.5,309,40,359,19,39,704,82,29
+Chhattisgarh,Raipur,2014,Rice,3604,Red,7.1,240,36,340,15,28,990,74,21.5
+Jharkhand,Ranchi,2014,Maize,3819,Red,7.7,311,42,351,17,39,912,69,28
+Assam,Jorhat,2014,Tea,2978,Red,6.3,279,28,309,17,34,772,63,25.5
+Assam,Silchar,2014,Rice,4310,Red,6.3,262,28,342,17,38,772,50,27.5
+Kerala,Thrissur,2014,Coconut,3263,Red,6.8,298,33,288,23,39,1048,58,31
+Kerala,Palakkad,2014,Rice,3322,Red,6.8,272,33,342,23,38,1048,82,30.5
+Gujarat,Anand,2014,Cotton,4025,Red,7.2,285,37,305,16,33,1251,80,24.5
+Gujarat,Rajkot,2014,Groundnut,3869,Red,7.2,233,37,353,16,33,1251,64,24.5
+Himachal Pradesh,Shimla,2014,Apple,2710,Red,7.3,296,38,356,15,34,690,60,24.5
+Andhra Pradesh,Guntur,2015,Rice,3511,Red,7.6,329,41,349,16,35,1271,61,25.5
+Andhra Pradesh,Kurnool,2015,Groundnut,3752,Red,7.6,233,41,343,16,32,1271,57,24
+Telangana,Warangal,2015,Cotton,4499,Red,7.1,311,36,281,16,31,771,84,23.5
+Telangana,Nizamabad,2015,Rice,3477,Red,7.1,312,36,362,16,37,771,77,26.5
+Tamil Nadu,Thanjavur,2015,Rice,3474,Red,7.1,235,36,325,15,30,1020,79,22.5
+Tamil Nadu,Madurai,2015,Millets,4206,Red,7.1,292,36,352,15,34,1020,51,24.5
+Karnataka,Mandya,2015,Rice,4327,Red,7.7,233,42,283,21,39,1276,77,30
+Karnataka,Raichur,2015,Paddy,4166,Red,7.7,299,42,319,21,30,1276,56,25.5
+Maharashtra,Pune,2015,Sugarcane,3875,Red,7.3,251,38,301,23,31,818,65,27
+Maharashtra,Nagpur,2015,Soybean,3206,Red,7.3,313,38,323,23,34,818,71,28.5
+Punjab,Ludhiana,2015,Wheat,3956,Alluvial,7.4,287,39,297,22,32,1347,71,27
+Punjab,Patiala,2015,Rice,3792,Alluvial,7.4,258,39,338,22,28,1347,77,25
+Haryana,Hisar,2015,Wheat,2869,Red,7.5,243,40,293,16,33,681,54,24.5
+Haryana,Karnal,2015,Rice,3055,Red,7.5,305,40,365,16,31,681,60,23.5
+Uttar Pradesh,Meerut,2015,Wheat,2903,Alluvial,7.1,273,36,343,17,35,1152,63,26
+Uttar Pradesh,Varanasi,2015,Rice,3147,Alluvial,7.1,277,36,317,17,35,1152,72,26
+Bihar,Patna,2015,Rice,3538,Alluvial,7.4,287,39,367,17,30,1282,68,23.5
+Bihar,Bhagalpur,2015,Maize,2974,Alluvial,7.4,280,39,350,17,30,1282,79,23.5
+West Bengal,Burdwan,2015,Rice,3898,Alluvial,6.5,262,30,312,20,30,1415,83,25
+West Bengal,Cooch Behar,2015,Jute,2514,Alluvial,6.5,264,30,344,20,34,1415,74,27
+Odisha,Cuttack,2015,Rice,3823,Red,6.6,256,31,346,17,39,692,78,28
+Odisha,Sambalpur,2015,Pulses,4475,Red,6.6,242,31,322,17,31,692,55,24
+Rajasthan,Jaipur,2015,Bajra,2823,Red,7.5,272,40,322,20,39,1335,63,29.5
+Rajasthan,Kota,2015,Wheat,3951,Red,7.5,310,40,300,20,31,1335,51,25.5
+Madhya Pradesh,Bhopal,2015,Soybean,4383,Red,7.5,287,40,357,19,39,744,83,29
+Madhya Pradesh,Indore,2015,Wheat,3476,Red,7.5,309,40,359,19,28,744,56,23.5
+Chhattisgarh,Raipur,2015,Rice,3589,Red,7.1,240,36,340,15,29,1390,74,22
+Jharkhand,Ranchi,2015,Maize,2992,Red,7.7,311,42,351,15,28,990,82,21.5
+Assam,Jorhat,2015,Tea,3291,Red,6.3,279,28,309,24,39,1359,81,31.5
+Assam,Silchar,2015,Rice,3332,Red,6.3,262,28,342,24,28,1359,57,26
+Kerala,Thrissur,2015,Coconut,3452,Red,6.8,298,33,288,19,28,1314,72,23.5
+Kerala,Palakkad,2015,Rice,3796,Red,6.8,272,33,342,19,32,1314,56,25.5
+Gujarat,Anand,2015,Cotton,4463,Red,7.2,285,37,305,22,35,1277,58,28.5
+Gujarat,Rajkot,2015,Groundnut,3250,Red,7.2,233,37,353,22,38,1277,75,30
+Himachal Pradesh,Shimla,2015,Apple,4300,Red,7.3,296,38,356,23,28,1198,75,25.5
+Andhra Pradesh,Guntur,2016,Rice,3449,Red,7.6,329,41,349,17,29,1112,84,23
+Andhra Pradesh,Kurnool,2016,Groundnut,4367,Red,7.6,233,41,343,17,39,1112,52,28
+Telangana,Warangal,2016,Cotton,3459,Red,7.1,311,36,281,17,31,652,74,24
+Telangana,Nizamabad,2016,Rice,3492,Red,7.1,312,36,362,17,28,652,57,22.5
+Tamil Nadu,Thanjavur,2016,Rice,3715,Red,7.1,235,36,325,15,35,1310,55,25
+Tamil Nadu,Madurai,2016,Millets,3088,Red,7.1,292,36,352,15,36,1310,63,25.5
+Karnataka,Mandya,2016,Rice,2823,Red,7.7,233,42,283,21,35,986,73,28
+Karnataka,Raichur,2016,Paddy,3270,Red,7.7,299,42,319,21,34,986,60,27.5
+Maharashtra,Pune,2016,Sugarcane,4484,Red,7.3,251,38,301,23,36,1318,59,29.5
+Maharashtra,Nagpur,2016,Soybean,4060,Red,7.3,313,38,323,23,28,1318,50,25.5
+Punjab,Ludhiana,2016,Wheat,2979,Alluvial,7.4,287,39,297,17,31,1162,64,24
+Punjab,Patiala,2016,Rice,2550,Alluvial,7.4,258,39,338,17,34,1162,80,25.5
+Haryana,Hisar,2016,Wheat,3274,Red,7.5,243,40,293,22,34,727,64,28
+Haryana,Karnal,2016,Rice,2733,Red,7.5,305,40,365,22,33,727,78,27.5
+Uttar Pradesh,Meerut,2016,Wheat,3868,Alluvial,7.1,273,36,343,24,32,759,58,28
+Uttar Pradesh,Varanasi,2016,Rice,3361,Alluvial,7.1,277,36,317,24,29,759,81,26.5
+Bihar,Patna,2016,Rice,3223,Alluvial,7.4,287,39,367,22,31,697,68,26.5
+Bihar,Bhagalpur,2016,Maize,4429,Alluvial,7.4,280,39,350,22,37,697,74,29.5
+West Bengal,Burdwan,2016,Rice,4335,Alluvial,6.5,262,30,312,19,35,754,55,27
+West Bengal,Cooch Behar,2016,Jute,3009,Alluvial,6.5,264,30,344,19,33,754,79,26
+Odisha,Cuttack,2016,Rice,3705,Red,6.6,256,31,346,24,29,1019,65,26.5
+Odisha,Sambalpur,2016,Pulses,3632,Red,6.6,242,31,322,24,32,1019,57,28
+Rajasthan,Jaipur,2016,Bajra,3613,Red,7.5,272,40,322,18,33,1123,68,25.5
+Rajasthan,Kota,2016,Wheat,2631,Red,7.5,310,40,300,18,31,1123,61,24.5
+Madhya Pradesh,Bhopal,2016,Soybean,3828,Red,7.5,287,40,357,17,32,1332,68,24.5
+Madhya Pradesh,Indore,2016,Wheat,3742,Red,7.5,309,40,359,17,30,1332,72,23.5
+Chhattisgarh,Raipur,2016,Rice,3203,Red,7.1,240,36,340,22,39,1407,68,30.5
+Jharkhand,Ranchi,2016,Maize,3044,Red,7.7,311,42,351,22,36,927,69,29
+Assam,Jorhat,2016,Tea,4010,Red,6.3,279,28,309,20,34,815,70,27
+Assam,Silchar,2016,Rice,4490,Red,6.3,262,28,342,20,34,815,55,27
+Kerala,Thrissur,2016,Coconut,3800,Red,6.8,298,33,288,17,36,712,70,26.5
+Kerala,Palakkad,2016,Rice,3373,Red,6.8,272,33,342,17,37,712,83,27
+Gujarat,Anand,2016,Cotton,3818,Red,7.2,285,37,305,17,30,812,68,23.5
+Gujarat,Rajkot,2016,Groundnut,2908,Red,7.2,233,37,353,17,36,812,78,26.5
+Himachal Pradesh,Shimla,2016,Apple,2924,Red,7.3,296,38,356,16,36,1111,64,26
+Andhra Pradesh,Guntur,2017,Rice,2776,Red,7.6,329,41,349,18,32,1293,51,25
+Andhra Pradesh,Kurnool,2017,Groundnut,3515,Red,7.6,233,41,343,18,31,1293,80,24.5
+Telangana,Warangal,2017,Cotton,2848,Red,7.1,311,36,281,24,36,1109,63,30
+Telangana,Nizamabad,2017,Rice,4029,Red,7.1,312,36,362,24,37,1109,79,30.5
+Tamil Nadu,Thanjavur,2017,Rice,3074,Red,7.1,235,36,325,24,30,1249,79,27
+Tamil Nadu,Madurai,2017,Millets,3111,Red,7.1,292,36,352,24,31,1249,76,27.5
+Karnataka,Mandya,2017,Rice,3883,Red,7.7,233,42,283,17,39,1442,68,28
+Karnataka,Raichur,2017,Paddy,2521,Red,7.7,299,42,319,17,29,1442,71,23
+Maharashtra,Pune,2017,Sugarcane,3844,Red,7.3,251,38,301,16,36,671,84,26
+Maharashtra,Nagpur,2017,Soybean,4443,Red,7.3,313,38,323,16,31,671,73,23.5
+Punjab,Ludhiana,2017,Wheat,3282,Alluvial,7.4,287,39,297,19,30,704,62,24.5
+Punjab,Patiala,2017,Rice,3985,Alluvial,7.4,258,39,338,19,37,704,70,28
+Haryana,Hisar,2017,Wheat,4052,Red,7.5,243,40,293,17,32,1192,77,24.5
+Haryana,Karnal,2017,Rice,3589,Red,7.5,305,40,365,17,37,1192,69,27
+Uttar Pradesh,Meerut,2017,Wheat,3332,Alluvial,7.1,273,36,343,15,32,1080,62,23.5
+Uttar Pradesh,Varanasi,2017,Rice,3438,Alluvial,7.1,277,36,317,15,34,1080,78,24.5
+Bihar,Patna,2017,Rice,3247,Alluvial,7.4,287,39,367,18,31,943,57,24.5
+Bihar,Bhagalpur,2017,Maize,4097,Alluvial,7.4,280,39,350,18,29,943,77,23.5
+West Bengal,Burdwan,2017,Rice,3505,Alluvial,6.5,262,30,312,21,37,1336,50,29
+West Bengal,Cooch Behar,2017,Jute,2544,Alluvial,6.5,264,30,344,21,28,1336,64,24.5
+Odisha,Cuttack,2017,Rice,2522,Red,6.6,256,31,346,17,30,822,67,23.5
+Odisha,Sambalpur,2017,Pulses,4377,Red,6.6,242,31,322,17,33,822,62,25
+Rajasthan,Jaipur,2017,Bajra,3932,Red,7.5,272,40,322,22,32,1057,52,27
+Rajasthan,Kota,2017,Wheat,3527,Red,7.5,310,40,300,22,35,1057,57,28.5
+Madhya Pradesh,Bhopal,2017,Soybean,2968,Red,7.5,287,40,357,20,28,1165,63,24
+Madhya Pradesh,Indore,2017,Wheat,4147,Red,7.5,309,40,359,20,35,1165,57,27.5
+Chhattisgarh,Raipur,2017,Rice,2614,Red,7.1,240,36,340,22,34,767,74,28
+Jharkhand,Ranchi,2017,Maize,4269,Red,7.7,311,42,351,20,33,905,69,26.5
+Assam,Jorhat,2017,Tea,3414,Red,6.3,279,28,309,21,34,1076,54,27.5
+Assam,Silchar,2017,Rice,3540,Red,6.3,262,28,342,21,32,1076,80,26.5
+Kerala,Thrissur,2017,Coconut,3909,Red,6.8,298,33,288,15,33,850,69,24
+Kerala,Palakkad,2017,Rice,3094,Red,6.8,272,33,342,15,30,850,74,22.5
+Gujarat,Anand,2017,Cotton,3867,Red,7.2,285,37,305,23,39,1188,57,31
+Gujarat,Rajkot,2017,Groundnut,3423,Red,7.2,233,37,353,23,39,1188,78,31
+Himachal Pradesh,Shimla,2017,Apple,2651,Red,7.3,296,38,356,22,39,727,66,30.5
+Andhra Pradesh,Guntur,2018,Rice,3788,Red,7.6,329,41,349,23,32,928,58,27.5
+Andhra Pradesh,Kurnool,2018,Groundnut,3261,Red,7.6,233,41,343,23,33,928,51,28
+Telangana,Warangal,2018,Cotton,3982,Red,7.1,311,36,281,23,34,1098,57,28.5
+Telangana,Nizamabad,2018,Rice,2868,Red,7.1,312,36,362,23,28,1098,73,25.5
+Tamil Nadu,Thanjavur,2018,Rice,2797,Red,7.1,235,36,325,24,29,1389,77,26.5
+Tamil Nadu,Madurai,2018,Millets,3924,Red,7.1,292,36,352,24,32,1389,54,28
+Karnataka,Mandya,2018,Rice,4210,Red,7.7,233,42,283,24,30,919,60,27
+Karnataka,Raichur,2018,Paddy,4177,Red,7.7,299,42,319,24,37,919,52,30.5
+Maharashtra,Pune,2018,Sugarcane,4123,Red,7.3,251,38,301,23,35,838,53,29
+Maharashtra,Nagpur,2018,Soybean,3109,Red,7.3,313,38,323,23,33,838,64,28
+Punjab,Ludhiana,2018,Wheat,3522,Alluvial,7.4,287,39,297,18,34,1173,52,26
+Punjab,Patiala,2018,Rice,2615,Alluvial,7.4,258,39,338,18,35,1173,80,26.5
+Haryana,Hisar,2018,Wheat,3482,Red,7.5,243,40,293,17,30,652,67,23.5
+Haryana,Karnal,2018,Rice,3116,Red,7.5,305,40,365,17,32,652,76,24.5
+Uttar Pradesh,Meerut,2018,Wheat,4104,Alluvial,7.1,273,36,343,18,36,743,59,27
+Uttar Pradesh,Varanasi,2018,Rice,4424,Alluvial,7.1,277,36,317,18,36,743,84,27
+Bihar,Patna,2018,Rice,2587,Alluvial,7.4,287,39,367,21,31,1246,52,26
+Bihar,Bhagalpur,2018,Maize,3515,Alluvial,7.4,280,39,350,21,39,1246,70,30
+West Bengal,Burdwan,2018,Rice,3022,Alluvial,6.5,262,30,312,17,38,1182,82,27.5
+West Bengal,Cooch Behar,2018,Jute,3532,Alluvial,6.5,264,30,344,17,36,1182,62,26.5
+Odisha,Cuttack,2018,Rice,3570,Red,6.6,256,31,346,21,38,1426,80,29.5
+Odisha,Sambalpur,2018,Pulses,2627,Red,6.6,242,31,322,21,35,1426,62,28
+Rajasthan,Jaipur,2018,Bajra,3053,Red,7.5,272,40,322,22,29,1377,63,25.5
+Rajasthan,Kota,2018,Wheat,2661,Red,7.5,310,40,300,22,33,1377,56,27.5
+Madhya Pradesh,Bhopal,2018,Soybean,3154,Red,7.5,287,40,357,21,30,1016,69,25.5
+Madhya Pradesh,Indore,2018,Wheat,3327,Red,7.5,309,40,359,21,35,1016,77,28
+Chhattisgarh,Raipur,2018,Rice,3106,Red,7.1,240,36,340,23,30,1418,66,26.5
+Jharkhand,Ranchi,2018,Maize,3599,Red,7.7,311,42,351,23,31,728,79,27
+Assam,Jorhat,2018,Tea,2828,Red,6.3,279,28,309,21,36,1366,63,28.5
+Assam,Silchar,2018,Rice,4185,Red,6.3,262,28,342,21,29,1366,70,25
+Kerala,Thrissur,2018,Coconut,2654,Red,6.8,298,33,288,22,30,1417,84,26
+Kerala,Palakkad,2018,Rice,3859,Red,6.8,272,33,342,22,35,1417,69,28.5
+Gujarat,Anand,2018,Cotton,4028,Red,7.2,285,37,305,20,28,1175,78,24
+Gujarat,Rajkot,2018,Groundnut,3007,Red,7.2,233,37,353,20,35,1175,82,27.5
+Himachal Pradesh,Shimla,2018,Apple,2863,Red,7.3,296,38,356,23,39,1338,53,31
+Andhra Pradesh,Guntur,2019,Rice,4063,Red,7.6,329,41,349,24,39,669,58,31.5
+Andhra Pradesh,Kurnool,2019,Groundnut,4014,Red,7.6,233,41,343,24,38,669,64,31
+Telangana,Warangal,2019,Cotton,3914,Red,7.1,311,36,281,20,38,1035,74,29
+Telangana,Nizamabad,2019,Rice,3630,Red,7.1,312,36,362,20,30,1035,55,25
+Tamil Nadu,Thanjavur,2019,Rice,4461,Red,7.1,235,36,325,16,29,811,61,22.5
+Tamil Nadu,Madurai,2019,Millets,3854,Red,7.1,292,36,352,16,30,811,74,23
+Karnataka,Mandya,2019,Rice,4169,Red,7.7,233,42,283,24,37,739,54,30.5
+Karnataka,Raichur,2019,Paddy,4395,Red,7.7,299,42,319,24,39,739,80,31.5
+Maharashtra,Pune,2019,Sugarcane,2811,Red,7.3,251,38,301,24,39,669,81,31.5
+Maharashtra,Nagpur,2019,Soybean,3386,Red,7.3,313,38,323,24,30,669,61,27
+Punjab,Ludhiana,2019,Wheat,3017,Alluvial,7.4,287,39,297,15,33,1090,77,24
+Punjab,Patiala,2019,Rice,3962,Alluvial,7.4,258,39,338,15,34,1090,52,24.5
+Haryana,Hisar,2019,Wheat,3426,Red,7.5,243,40,293,16,38,781,66,27
+Haryana,Karnal,2019,Rice,4333,Red,7.5,305,40,365,16,33,781,83,24.5
+Uttar Pradesh,Meerut,2019,Wheat,4427,Alluvial,7.1,273,36,343,22,35,1337,72,28.5
+Uttar Pradesh,Varanasi,2019,Rice,3540,Alluvial,7.1,277,36,317,22,28,1337,50,25
+Bihar,Patna,2019,Rice,2578,Alluvial,7.4,287,39,367,15,30,850,58,22.5
+Bihar,Bhagalpur,2019,Maize,3335,Alluvial,7.4,280,39,350,15,39,850,50,27
+West Bengal,Burdwan,2019,Rice,3970,Alluvial,6.5,262,30,312,21,34,916,80,27.5
+West Bengal,Cooch Behar,2019,Jute,2846,Alluvial,6.5,264,30,344,21,34,916,71,27.5
+Odisha,Cuttack,2019,Rice,4358,Red,6.6,256,31,346,19,30,804,53,24.5
+Odisha,Sambalpur,2019,Pulses,3897,Red,6.6,242,31,322,19,33,804,72,26
+Rajasthan,Jaipur,2019,Bajra,3136,Red,7.5,272,40,322,15,32,860,56,23.5
+Rajasthan,Kota,2019,Wheat,4069,Red,7.5,310,40,300,15,29,860,74,22
+Madhya Pradesh,Bhopal,2019,Soybean,3114,Red,7.5,287,40,357,18,30,913,74,24
+Madhya Pradesh,Indore,2019,Wheat,3269,Red,7.5,309,40,359,18,29,913,69,23.5
+Chhattisgarh,Raipur,2019,Rice,4025,Red,7.1,240,36,340,23,33,1418,50,28
+Jharkhand,Ranchi,2019,Maize,3789,Red,7.7,311,42,351,20,33,745,54,26.5
+Assam,Jorhat,2019,Tea,2506,Red,6.3,279,28,309,21,30,906,51,25.5
+Assam,Silchar,2019,Rice,4350,Red,6.3,262,28,342,21,38,906,70,29.5
+Kerala,Thrissur,2019,Coconut,2809,Red,6.8,298,33,288,20,33,1305,69,26.5
+Kerala,Palakkad,2019,Rice,2757,Red,6.8,272,33,342,20,37,1305,62,28.5
+Gujarat,Anand,2019,Cotton,3737,Red,7.2,285,37,305,24,33,779,82,28.5
+Gujarat,Rajkot,2019,Groundnut,3069,Red,7.2,233,37,353,24,29,779,64,26.5
+Himachal Pradesh,Shimla,2019,Apple,3025,Red,7.3,296,38,356,23,37,1208,60,30
+Andhra Pradesh,Guntur,2020,Rice,3288,Red,7.6,329,41,349,21,36,1226,63,28.5
+Andhra Pradesh,Kurnool,2020,Groundnut,4082,Red,7.6,233,41,343,21,30,1226,62,25.5
+Telangana,Warangal,2020,Cotton,3928,Red,7.1,311,36,281,17,36,1072,68,26.5
+Telangana,Nizamabad,2020,Rice,3498,Red,7.1,312,36,362,17,38,1072,83,27.5
+Tamil Nadu,Thanjavur,2020,Rice,2628,Red,7.1,235,36,325,15,36,1220,63,25.5
+Tamil Nadu,Madurai,2020,Millets,2675,Red,7.1,292,36,352,15,31,1220,55,23
+Karnataka,Mandya,2020,Rice,3851,Red,7.7,233,42,283,23,31,988,51,27
+Karnataka,Raichur,2020,Paddy,3127,Red,7.7,299,42,319,23,31,988,67,27
+Maharashtra,Pune,2020,Sugarcane,4284,Red,7.3,251,38,301,20,32,995,69,26
+Maharashtra,Nagpur,2020,Soybean,4184,Red,7.3,313,38,323,20,28,995,59,24
+Punjab,Ludhiana,2020,Wheat,2533,Alluvial,7.4,287,39,297,24,33,709,78,28.5
+Punjab,Patiala,2020,Rice,3583,Alluvial,7.4,258,39,338,24,39,709,53,31.5
+Haryana,Hisar,2020,Wheat,3671,Red,7.5,243,40,293,23,35,808,61,29
+Haryana,Karnal,2020,Rice,3798,Red,7.5,305,40,365,23,34,808,63,28.5
+Uttar Pradesh,Meerut,2020,Wheat,2772,Alluvial,7.1,273,36,343,16,36,1341,57,26
+Uttar Pradesh,Varanasi,2020,Rice,3987,Alluvial,7.1,277,36,317,16,35,1341,82,25.5
+Bihar,Patna,2020,Rice,2889,Alluvial,7.4,287,39,367,18,37,843,74,27.5
+Bihar,Bhagalpur,2020,Maize,3044,Alluvial,7.4,280,39,350,18,36,843,79,27
+West Bengal,Burdwan,2020,Rice,4196,Alluvial,6.5,262,30,312,17,32,1392,76,24.5
+West Bengal,Cooch Behar,2020,Jute,2628,Alluvial,6.5,264,30,344,17,32,1392,58,24.5
+Odisha,Cuttack,2020,Rice,3842,Red,6.6,256,31,346,17,38,752,67,27.5
+Odisha,Sambalpur,2020,Pulses,3030,Red,6.6,242,31,322,17,38,752,75,27.5
+Rajasthan,Jaipur,2020,Bajra,2555,Red,7.5,272,40,322,17,39,1072,70,28
+Rajasthan,Kota,2020,Wheat,3156,Red,7.5,310,40,300,17,36,1072,76,26.5
+Madhya Pradesh,Bhopal,2020,Soybean,2800,Red,7.5,287,40,357,20,28,715,60,24
+Madhya Pradesh,Indore,2020,Wheat,3024,Red,7.5,309,40,359,20,36,715,69,28
+Chhattisgarh,Raipur,2020,Rice,2730,Red,7.1,240,36,340,17,34,902,75,25.5
+Jharkhand,Ranchi,2020,Maize,4469,Red,7.7,311,42,351,23,33,1038,79,28
+Assam,Jorhat,2020,Tea,3985,Red,6.3,279,28,309,22,29,1287,55,25.5
+Assam,Silchar,2020,Rice,4329,Red,6.3,262,28,342,22,29,1287,69,25.5
+Kerala,Thrissur,2020,Coconut,3639,Red,6.8,298,33,288,21,35,1046,69,28
+Kerala,Palakkad,2020,Rice,3133,Red,6.8,272,33,342,21,29,1046,68,25
+Gujarat,Anand,2020,Cotton,4238,Red,7.2,285,37,305,18,34,693,73,26
+Gujarat,Rajkot,2020,Groundnut,3705,Red,7.2,233,37,353,18,37,693,80,27.5
+Himachal Pradesh,Shimla,2020,Apple,3233,Red,7.3,296,38,356,16,37,861,58,26.5
+Andhra Pradesh,Guntur,2021,Rice,3005,Red,7.6,329,41,349,19,29,814,80,24
+Andhra Pradesh,Kurnool,2021,Groundnut,2779,Red,7.6,233,41,343,19,35,814,69,27
+Telangana,Warangal,2021,Cotton,3740,Red,7.1,311,36,281,24,36,1029,80,30
+Telangana,Nizamabad,2021,Rice,2544,Red,7.1,312,36,362,24,36,1029,59,30
+Tamil Nadu,Thanjavur,2021,Rice,4147,Red,7.1,235,36,325,23,39,1408,57,31
+Tamil Nadu,Madurai,2021,Millets,4187,Red,7.1,292,36,352,23,35,1408,67,29
+Karnataka,Mandya,2021,Rice,4195,Red,7.7,233,42,283,16,31,1371,80,23.5
+Karnataka,Raichur,2021,Paddy,2594,Red,7.7,299,42,319,16,38,1371,54,27
+Maharashtra,Pune,2021,Sugarcane,4435,Red,7.3,251,38,301,19,35,1294,50,27
+Maharashtra,Nagpur,2021,Soybean,3823,Red,7.3,313,38,323,19,31,1294,78,25
+Punjab,Ludhiana,2021,Wheat,3704,Alluvial,7.4,287,39,297,22,36,1097,74,29
+Punjab,Patiala,2021,Rice,3637,Alluvial,7.4,258,39,338,22,37,1097,62,29.5
+Haryana,Hisar,2021,Wheat,2879,Red,7.5,243,40,293,21,35,1316,84,28
+Haryana,Karnal,2021,Rice,3931,Red,7.5,305,40,365,21,35,1316,56,28
+Uttar Pradesh,Meerut,2021,Wheat,4414,Alluvial,7.1,273,36,343,24,38,1329,59,31
+Uttar Pradesh,Varanasi,2021,Rice,4201,Alluvial,7.1,277,36,317,24,29,1329,66,26.5
+Bihar,Patna,2021,Rice,4210,Alluvial,7.4,287,39,367,16,34,941,70,25
+Bihar,Bhagalpur,2021,Maize,3389,Alluvial,7.4,280,39,350,16,29,941,79,22.5
+West Bengal,Burdwan,2021,Rice,4187,Alluvial,6.5,262,30,312,16,39,1171,67,27.5
+West Bengal,Cooch Behar,2021,Jute,3030,Alluvial,6.5,264,30,344,16,30,1171,55,23
+Odisha,Cuttack,2021,Rice,3365,Red,6.6,256,31,346,22,33,927,80,27.5
+Odisha,Sambalpur,2021,Pulses,2684,Red,6.6,242,31,322,22,28,927,74,25
+Rajasthan,Jaipur,2021,Bajra,3114,Red,7.5,272,40,322,18,30,1303,64,24
+Rajasthan,Kota,2021,Wheat,3325,Red,7.5,310,40,300,18,29,1303,60,23.5
+Madhya Pradesh,Bhopal,2021,Soybean,3372,Red,7.5,287,40,357,19,36,794,57,27.5
+Madhya Pradesh,Indore,2021,Wheat,3906,Red,7.5,309,40,359,19,30,794,51,24.5
+Chhattisgarh,Raipur,2021,Rice,3714,Red,7.1,240,36,340,23,30,1268,59,26.5
+Jharkhand,Ranchi,2021,Maize,4312,Red,7.7,311,42,351,20,28,685,67,24
+Assam,Jorhat,2021,Tea,3705,Red,6.3,279,28,309,20,37,715,80,28.5
+Assam,Silchar,2021,Rice,4480,Red,6.3,262,28,342,20,36,715,80,28
+Kerala,Thrissur,2021,Coconut,2531,Red,6.8,298,33,288,18,35,1203,61,26.5
+Kerala,Palakkad,2021,Rice,3275,Red,6.8,272,33,342,18,35,1203,75,26.5
+Gujarat,Anand,2021,Cotton,3602,Red,7.2,285,37,305,15,30,1260,62,22.5
+Gujarat,Rajkot,2021,Groundnut,4145,Red,7.2,233,37,353,15,37,1260,60,26
+Himachal Pradesh,Shimla,2021,Apple,3325,Red,7.3,296,38,356,17,33,1042,50,25
+Andhra Pradesh,Guntur,2022,Rice,4154,Red,7.6,329,41,349,23,38,988,69,30.5
+Andhra Pradesh,Kurnool,2022,Groundnut,3243,Red,7.6,233,41,343,23,35,988,83,29
+Telangana,Warangal,2022,Cotton,2806,Red,7.1,311,36,281,18,38,793,71,28
+Telangana,Nizamabad,2022,Rice,4382,Red,7.1,312,36,362,18,34,793,57,26
+Tamil Nadu,Thanjavur,2022,Rice,3352,Red,7.1,235,36,325,18,36,893,57,27
+Tamil Nadu,Madurai,2022,Millets,3769,Red,7.1,292,36,352,18,33,893,74,25.5
+Karnataka,Mandya,2022,Rice,3818,Red,7.7,233,42,283,17,38,1362,63,27.5
+Karnataka,Raichur,2022,Paddy,4161,Red,7.7,299,42,319,17,29,1362,76,23
+Maharashtra,Pune,2022,Sugarcane,4049,Red,7.3,251,38,301,18,37,1303,54,27.5
+Maharashtra,Nagpur,2022,Soybean,2527,Red,7.3,313,38,323,18,31,1303,77,24.5
+Punjab,Ludhiana,2022,Wheat,3630,Alluvial,7.4,287,39,297,24,30,1079,50,27
+Punjab,Patiala,2022,Rice,3331,Alluvial,7.4,258,39,338,24,31,1079,81,27.5
+Haryana,Hisar,2022,Wheat,3117,Red,7.5,243,40,293,23,37,858,72,30
+Haryana,Karnal,2022,Rice,3796,Red,7.5,305,40,365,23,28,858,66,25.5
+Uttar Pradesh,Meerut,2022,Wheat,3893,Alluvial,7.1,273,36,343,19,37,1154,68,28
+Uttar Pradesh,Varanasi,2022,Rice,4426,Alluvial,7.1,277,36,317,19,30,1154,66,24.5
+Bihar,Patna,2022,Rice,2948,Alluvial,7.4,287,39,367,20,28,1445,78,24
+Bihar,Bhagalpur,2022,Maize,2638,Alluvial,7.4,280,39,350,20,34,1445,68,27
+West Bengal,Burdwan,2022,Rice,3293,Alluvial,6.5,262,30,312,18,29,1283,58,23.5
+West Bengal,Cooch Behar,2022,Jute,2771,Alluvial,6.5,264,30,344,18,39,1283,51,28.5
+Odisha,Cuttack,2022,Rice,3017,Red,6.6,256,31,346,17,37,1262,82,27
+Odisha,Sambalpur,2022,Pulses,3683,Red,6.6,242,31,322,17,39,1262,73,28
+Rajasthan,Jaipur,2022,Bajra,3560,Red,7.5,272,40,322,18,32,933,60,25
+Rajasthan,Kota,2022,Wheat,3779,Red,7.5,310,40,300,18,35,933,54,26.5
+Madhya Pradesh,Bhopal,2022,Soybean,3968,Red,7.5,287,40,357,24,32,919,53,28
+Madhya Pradesh,Indore,2022,Wheat,4273,Red,7.5,309,40,359,24,29,919,68,26.5
+Chhattisgarh,Raipur,2022,Rice,4118,Red,7.1,240,36,340,15,38,1380,78,26.5
+Jharkhand,Ranchi,2022,Maize,3918,Red,7.7,311,42,351,21,38,1416,63,29.5
+Assam,Jorhat,2022,Tea,3930,Red,6.3,279,28,309,20,30,1435,50,25
+Assam,Silchar,2022,Rice,4051,Red,6.3,262,28,342,20,31,1435,56,25.5
+Kerala,Thrissur,2022,Coconut,2829,Red,6.8,298,33,288,20,33,1445,64,26.5
+Kerala,Palakkad,2022,Rice,3266,Red,6.8,272,33,342,20,30,1445,66,25
+Gujarat,Anand,2022,Cotton,3379,Red,7.2,285,37,305,15,39,770,64,27
+Gujarat,Rajkot,2022,Groundnut,3375,Red,7.2,233,37,353,15,35,770,55,25
+Himachal Pradesh,Shimla,2022,Apple,2686,Red,7.3,296,38,356,24,30,969,76,27
+Andhra Pradesh,Guntur,2023,Rice,4399,Red,7.6,329,41,349,21,35,666,84,28
+Andhra Pradesh,Kurnool,2023,Groundnut,3032,Red,7.6,233,41,343,21,36,666,57,28.5
+Telangana,Warangal,2023,Cotton,3265,Red,7.1,311,36,281,20,33,695,60,26.5
+Telangana,Nizamabad,2023,Rice,2715,Red,7.1,312,36,362,20,31,695,55,25.5
+Tamil Nadu,Thanjavur,2023,Rice,3953,Red,7.1,235,36,325,18,37,1443,78,27.5
+Tamil Nadu,Madurai,2023,Millets,3298,Red,7.1,292,36,352,18,30,1443,53,24
+Karnataka,Mandya,2023,Rice,4124,Red,7.7,233,42,283,15,32,1040,54,23.5
+Karnataka,Raichur,2023,Paddy,2629,Red,7.7,299,42,319,15,29,1040,54,22
+Maharashtra,Pune,2023,Sugarcane,2644,Red,7.3,251,38,301,22,28,937,84,25
+Maharashtra,Nagpur,2023,Soybean,4349,Red,7.3,313,38,323,22,29,937,64,25.5
+Punjab,Ludhiana,2023,Wheat,2880,Alluvial,7.4,287,39,297,21,36,1006,80,28.5
+Punjab,Patiala,2023,Rice,2811,Alluvial,7.4,258,39,338,21,39,1006,61,30
+Haryana,Hisar,2023,Wheat,3862,Red,7.5,243,40,293,22,34,1117,82,28
+Haryana,Karnal,2023,Rice,2548,Red,7.5,305,40,365,22,32,1117,53,27
+Uttar Pradesh,Meerut,2023,Wheat,2837,Alluvial,7.1,273,36,343,17,37,1182,62,27
+Uttar Pradesh,Varanasi,2023,Rice,4464,Alluvial,7.1,277,36,317,17,36,1182,69,26.5
+Bihar,Patna,2023,Rice,3337,Alluvial,7.4,287,39,367,24,37,1269,77,30.5
+Bihar,Bhagalpur,2023,Maize,2771,Alluvial,7.4,280,39,350,24,31,1269,76,27.5
+West Bengal,Burdwan,2023,Rice,3710,Alluvial,6.5,262,30,312,21,38,1246,70,29.5
+West Bengal,Cooch Behar,2023,Jute,3419,Alluvial,6.5,264,30,344,21,39,1246,84,30
+Odisha,Cuttack,2023,Rice,4474,Red,6.6,256,31,346,18,38,1273,69,28
+Odisha,Sambalpur,2023,Pulses,2801,Red,6.6,242,31,322,18,37,1273,51,27.5
+Rajasthan,Jaipur,2023,Bajra,3216,Red,7.5,272,40,322,21,32,926,66,26.5
+Rajasthan,Kota,2023,Wheat,3345,Red,7.5,310,40,300,21,33,926,65,27
+Madhya Pradesh,Bhopal,2023,Soybean,3671,Red,7.5,287,40,357,20,35,895,76,27.5
+Madhya Pradesh,Indore,2023,Wheat,4187,Red,7.5,309,40,359,20,31,895,72,25.5
+Chhattisgarh,Raipur,2023,Rice,2890,Red,7.1,240,36,340,17,34,1042,65,25.5
+Jharkhand,Ranchi,2023,Maize,2749,Red,7.7,311,42,351,22,33,1177,74,27.5
+Assam,Jorhat,2023,Tea,2852,Red,6.3,279,28,309,23,28,678,57,25.5
+Assam,Silchar,2023,Rice,2872,Red,6.3,262,28,342,23,36,678,57,29.5
+Kerala,Thrissur,2023,Coconut,2856,Red,6.8,298,33,288,24,32,1329,56,28
+Kerala,Palakkad,2023,Rice,4405,Red,6.8,272,33,342,24,37,1329,80,30.5
+Gujarat,Anand,2023,Cotton,4314,Red,7.2,285,37,305,22,34,967,84,28
+Gujarat,Rajkot,2023,Groundnut,3596,Red,7.2,233,37,353,22,28,967,61,25
+Himachal Pradesh,Shimla,2023,Apple,2617,Red,7.3,296,38,356,19,37,664,57,28
+Andhra Pradesh,Guntur,2024,Rice,4390,Red,7.6,329,41,349,18,34,1383,50,26
+Andhra Pradesh,Kurnool,2024,Groundnut,3167,Red,7.6,233,41,343,18,39,1383,62,28.5
+Telangana,Warangal,2024,Cotton,3859,Red,7.1,311,36,281,21,39,846,54,30
+Telangana,Nizamabad,2024,Rice,3609,Red,7.1,312,36,362,21,33,846,59,27
+Tamil Nadu,Thanjavur,2024,Rice,2705,Red,7.1,235,36,325,15,37,1350,75,26
+Tamil Nadu,Madurai,2024,Millets,4043,Red,7.1,292,36,352,15,39,1350,68,27
+Karnataka,Mandya,2024,Rice,3424,Red,7.7,233,42,283,19,28,924,59,23.5
+Karnataka,Raichur,2024,Paddy,2673,Red,7.7,299,42,319,19,37,924,73,28
+Maharashtra,Pune,2024,Sugarcane,2661,Red,7.3,251,38,301,24,29,1349,51,26.5
+Maharashtra,Nagpur,2024,Soybean,4105,Red,7.3,313,38,323,24,29,1349,80,26.5
+Punjab,Ludhiana,2024,Wheat,3586,Alluvial,7.4,287,39,297,21,34,736,66,27.5
+Punjab,Patiala,2024,Rice,3521,Alluvial,7.4,258,39,338,21,29,736,81,25
+Haryana,Hisar,2024,Wheat,3809,Red,7.5,243,40,293,15,29,1350,54,22
+Haryana,Karnal,2024,Rice,4211,Red,7.5,305,40,365,15,39,1350,66,27
+Uttar Pradesh,Meerut,2024,Wheat,2871,Alluvial,7.1,273,36,343,18,31,743,61,24.5
+Uttar Pradesh,Varanasi,2024,Rice,4393,Alluvial,7.1,277,36,317,18,29,743,53,23.5
+Bihar,Patna,2024,Rice,3701,Alluvial,7.4,287,39,367,22,37,667,61,29.5
+Bihar,Bhagalpur,2024,Maize,4049,Alluvial,7.4,280,39,350,22,37,667,84,29.5
+West Bengal,Burdwan,2024,Rice,4373,Alluvial,6.5,262,30,312,21,37,1406,68,29
+West Bengal,Cooch Behar,2024,Jute,3086,Alluvial,6.5,264,30,344,21,34,1406,76,27.5
+Odisha,Cuttack,2024,Rice,3412,Red,6.6,256,31,346,16,28,901,52,22
+Odisha,Sambalpur,2024,Pulses,3700,Red,6.6,242,31,322,16,36,901,70,26
+Rajasthan,Jaipur,2024,Bajra,2771,Red,7.5,272,40,322,15,35,900,56,25
+Rajasthan,Kota,2024,Wheat,3035,Red,7.5,310,40,300,15,39,900,75,27
+Madhya Pradesh,Bhopal,2024,Soybean,3009,Red,7.5,287,40,357,19,29,804,84,24
+Madhya Pradesh,Indore,2024,Wheat,4363,Red,7.5,309,40,359,19,31,804,78,25
+Chhattisgarh,Raipur,2024,Rice,3781,Red,7.1,240,36,340,15,37,1300,66,26
+Jharkhand,Ranchi,2024,Maize,2554,Red,7.7,311,42,351,23,38,1138,84,30.5
+Assam,Jorhat,2024,Tea,3153,Red,6.3,279,28,309,18,37,963,78,27.5
+Assam,Silchar,2024,Rice,3551,Red,6.3,262,28,342,18,31,963,56,24.5
+Kerala,Thrissur,2024,Coconut,2845,Red,6.8,298,33,288,24,33,719,80,28.5
+Kerala,Palakkad,2024,Rice,3764,Red,6.8,272,33,342,24,36,719,84,30
+Gujarat,Anand,2024,Cotton,3192,Red,7.2,285,37,305,23,32,1438,77,27.5
+Gujarat,Rajkot,2024,Groundnut,4453,Red,7.2,233,37,353,23,33,1438,58,28
+Himachal Pradesh,Shimla,2024,Apple,3570,Red,7.3,296,38,356,15,30,870,60,22.5
+Andhra Pradesh,Guntur,2025,Rice,2528,Red,7.6,329,41,349,18,36,793,63,27
+Andhra Pradesh,Kurnool,2025,Groundnut,4398,Red,7.6,233,41,343,18,30,793,58,24
+Telangana,Warangal,2025,Cotton,3644,Red,7.1,311,36,281,18,32,1353,84,25
+Telangana,Nizamabad,2025,Rice,4206,Red,7.1,312,36,362,18,38,1353,81,28
+Tamil Nadu,Thanjavur,2025,Rice,2928,Red,7.1,235,36,325,23,28,1038,83,25.5
+Tamil Nadu,Madurai,2025,Millets,3944,Red,7.1,292,36,352,23,36,1038,74,29.5
+Karnataka,Mandya,2025,Rice,3024,Red,7.7,233,42,283,20,32,795,69,26
+Karnataka,Raichur,2025,Paddy,3429,Red,7.7,299,42,319,20,37,795,74,28.5
+Maharashtra,Pune,2025,Sugarcane,3099,Red,7.3,251,38,301,21,35,1256,59,28
+Maharashtra,Nagpur,2025,Soybean,4355,Red,7.3,313,38,323,21,31,1256,50,26
+Punjab,Ludhiana,2025,Wheat,4393,Alluvial,7.4,287,39,297,19,37,1094,58,28
+Punjab,Patiala,2025,Rice,4396,Alluvial,7.4,258,39,338,19,36,1094,56,27.5
+Haryana,Hisar,2025,Wheat,3383,Red,7.5,243,40,293,23,31,1368,78,27
+Haryana,Karnal,2025,Rice,2801,Red,7.5,305,40,365,23,29,1368,51,26
+Uttar Pradesh,Meerut,2025,Wheat,3204,Alluvial,7.1,273,36,343,23,32,1048,84,27.5
+Uttar Pradesh,Varanasi,2025,Rice,4210,Alluvial,7.1,277,36,317,23,34,1048,50,28.5
+Bihar,Patna,2025,Rice,3452,Alluvial,7.4,287,39,367,20,32,775,77,26
+Bihar,Bhagalpur,2025,Maize,2715,Alluvial,7.4,280,39,350,20,35,775,80,27.5
+West Bengal,Burdwan,2025,Rice,4369,Alluvial,6.5,262,30,312,20,29,695,69,24.5
+West Bengal,Cooch Behar,2025,Jute,3532,Alluvial,6.5,264,30,344,20,32,695,82,26
+Odisha,Cuttack,2025,Rice,3161,Red,6.6,256,31,346,23,37,1048,66,30
+Odisha,Sambalpur,2025,Pulses,3982,Red,6.6,242,31,322,23,34,1048,52,28.5
+Rajasthan,Jaipur,2025,Bajra,2829,Red,7.5,272,40,322,21,33,836,64,27
+Rajasthan,Kota,2025,Wheat,3150,Red,7.5,310,40,300,21,38,836,55,29.5
+Madhya Pradesh,Bhopal,2025,Soybean,3687,Red,7.5,287,40,357,21,39,1186,82,30
+Madhya Pradesh,Indore,2025,Wheat,3567,Red,7.5,309,40,359,21,39,1186,77,30
+Chhattisgarh,Raipur,2025,Rice,3607,Red,7.1,240,36,340,18,35,1403,62,26.5
+Jharkhand,Ranchi,2025,Maize,3692,Red,7.7,311,42,351,15,32,970,67,23.5
+Assam,Jorhat,2025,Tea,3406,Red,6.3,279,28,309,21,38,1436,81,29.5
+Assam,Silchar,2025,Rice,3164,Red,6.3,262,28,342,21,36,1436,54,28.5
+Kerala,Thrissur,2025,Coconut,3073,Red,6.8,298,33,288,16,37,1051,73,26.5
+Kerala,Palakkad,2025,Rice,2788,Red,6.8,272,33,342,16,28,1051,78,22
+Gujarat,Anand,2025,Cotton,3702,Red,7.2,285,37,305,18,34,783,62,26
+Gujarat,Rajkot,2025,Groundnut,3489,Red,7.2,233,37,353,18,29,783,64,23.5
+Himachal Pradesh,Shimla,2025,Apple,3250,Red,7.3,296,38,356,20,30,665,70,25
+Andhra Pradesh,Kurnool,2019,Groundnut,3424,Red,7.6,233,41,343,23,33,834,53,28
+Tamil Nadu,Thanjavur,2023,Rice,4011,Red,7.1,235,36,325,18,37,1427,82,27.5
+Gujarat,Anand,2026,Cotton,3975,Red,7.2,285,37,305,18,34,868,63,26
+Andhra Pradesh,Guntur,2023,Rice,4573,Red,7.6,329,41,349,21,35,748,79,28
+West Bengal,Cooch Behar,2025,Jute,3280,Alluvial,6.5,264,30,344,21,34,1420,73,27.5
+Kerala,Thrissur,2010,Coconut,4186,Red,6.8,298,33,288,17,29,1180,73,23
+Assam,Silchar,2018,Rice,3661,Red,6.3,262,28,342,21,32,1064,84,26.5
+Madhya Pradesh,Bhopal,2017,Soybean,3980,Red,7.5,287,40,357,17,32,1307,67,24.5
+Uttar Pradesh,Varanasi,2016,Rice,3394,Alluvial,7.1,277,36,317,22,29,798,82,25.5
+Uttar Pradesh,Varanasi,2018,Rice,3733,Alluvial,7.1,277,36,317,15,34,1000,74,24.5
+Haryana,Karnal,2011,Rice,4041,Red,7.5,305,40,365,23,33,1099,80,28
+Chhattisgarh,Raipur,2019,Rice,4191,Red,7.1,240,36,340,23,33,1437,52,28
+Maharashtra,Nagpur,2026,Soybean,4236,Red,7.3,313,38,323,24,29,1331,81,26.5
+Punjab,Ludhiana,2026,Wheat,4482,Alluvial,7.4,287,39,297,19,37,1159,60,28
+Uttar Pradesh,Meerut,2014,Wheat,3315,Alluvial,7.1,273,36,343,22,28,892,83,25
+Chhattisgarh,Raipur,2025,Rice,3113,Red,7.1,240,36,340,17,34,1085,64,25.5
+Karnataka,Mandya,2020,Rice,4383,Red,7.7,233,42,283,24,30,849,61,27
+Madhya Pradesh,Bhopal,2015,Soybean,4509,Red,7.5,287,40,357,19,39,727,86,29
+Uttar Pradesh,Varanasi,2013,Rice,4004,Alluvial,7.1,277,36,317,22,35,717,72,28.5
+Tamil Nadu,Madurai,2020,Millets,4061,Red,7.1,292,36,352,16,30,814,69,23
+Assam,Silchar,2024,Rice,3124,Red,6.3,262,28,342,23,36,679,56,29.5
+Telangana,Nizamabad,2015,Rice,3399,Red,7.1,312,36,362,21,34,1064,56,27.5
+Jharkhand,Ranchi,2012,Maize,3783,Red,7.7,311,42,351,20,38,1269,81,29
+West Bengal,Burdwan,2017,Rice,3781,Alluvial,6.5,262,30,312,21,37,1349,48,29
+Telangana,Nizamabad,2016,Rice,3322,Red,7.1,312,36,362,19,33,1188,67,26
+Tamil Nadu,Thanjavur,2022,Rice,4304,Red,7.1,235,36,325,23,39,1468,58,31
+Rajasthan,Jaipur,2021,Bajra,3246,Red,7.5,272,40,322,18,30,1351,64,24
+Tamil Nadu,Madurai,2025,Millets,4093,Red,7.1,292,36,352,23,36,995,72,29.5
+Haryana,Hisar,2012,Wheat,4555,Red,7.5,243,40,293,23,34,1080,78,28.5
+Bihar,Bhagalpur,2022,Maize,2709,Alluvial,7.4,280,39,350,20,34,1495,72,27
+Tamil Nadu,Thanjavur,2015,Rice,3190,Red,7.1,235,36,325,17,37,960,53,27
+Gujarat,Anand,2025,Cotton,3761,Red,7.2,285,37,305,18,34,861,58,26
+Rajasthan,Jaipur,2012,Bajra,2903,Red,7.5,272,40,322,17,38,907,74,27.5
+Assam,Silchar,2024,Rice,4241,Red,6.3,262,28,342,20,31,1452,54,25.5
+Karnataka,Mandya,2020,Rice,4223,Red,7.7,233,42,283,24,37,709,54,30.5
+Punjab,Patiala,2012,Rice,2725,Alluvial,7.4,258,39,338,23,35,1197,66,29
+Punjab,Ludhiana,2016,Wheat,4316,Alluvial,7.4,287,39,297,20,32,1118,71,26
+Chhattisgarh,Raipur,2017,Rice,3479,Red,7.1,240,36,340,22,39,1414,72,30.5
+Andhra Pradesh,Guntur,2019,Rice,4216,Red,7.6,329,41,349,24,39,671,56,31.5
+Bihar,Patna,2019,Rice,2812,Alluvial,7.4,287,39,367,15,30,922,55,22.5
+Odisha,Cuttack,2019,Rice,2660,Red,6.6,256,31,346,17,30,877,67,23.5
+Karnataka,Mandya,2018,Rice,2877,Red,7.7,233,42,283,21,35,943,74,28
+Telangana,Warangal,2014,Cotton,4255,Red,7.1,311,36,281,19,36,1275,64,27.5
+Telangana,Warangal,2019,Cotton,3111,Red,7.1,311,36,281,24,36,1114,60,30
+Maharashtra,Pune,2019,Sugarcane,4290,Red,7.3,251,38,301,23,35,824,49,29
+Andhra Pradesh,Guntur,2012,Rice,2966,Red,7.6,329,41,349,22,30,1379,69,26
+Odisha,Cuttack,2011,Rice,3304,Red,6.6,256,31,346,23,37,1025,72,30
+Odisha,Cuttack,2021,Rice,3934,Red,6.6,256,31,346,17,38,680,71,27.5
+Haryana,Karnal,2014,Rice,2924,Red,7.5,305,40,365,19,33,1232,55,26
+Karnataka,Raichur,2021,Paddy,4464,Red,7.7,299,42,319,24,39,704,82,31.5
+Himachal Pradesh,Shimla,2014,Apple,4407,Red,7.3,296,38,356,23,35,1110,81,29
+Madhya Pradesh,Indore,2020,Wheat,3559,Red,7.5,309,40,359,21,35,927,77,28
+Tamil Nadu,Thanjavur,2019,Rice,2904,Red,7.1,235,36,325,24,29,1468,80,26.5
+Madhya Pradesh,Bhopal,2014,Soybean,4377,Red,7.5,287,40,357,19,31,764,60,25
+Punjab,Patiala,2023,Rice,3469,Alluvial,7.4,258,39,338,24,31,1126,82,27.5
+Punjab,Patiala,2024,Rice,3406,Alluvial,7.4,258,39,338,24,31,1162,77,27.5
+Andhra Pradesh,Kurnool,2018,Groundnut,3812,Red,7.6,233,41,343,18,31,1256,76,24.5
+Tamil Nadu,Thanjavur,2019,Rice,3232,Red,7.1,235,36,325,24,30,1312,80,27
+Tamil Nadu,Madurai,2018,Millets,4205,Red,7.1,292,36,352,24,32,1443,53,28
+Uttar Pradesh,Varanasi,2011,Rice,3794,Alluvial,7.1,277,36,317,18,30,1230,80,24
+Kerala,Palakkad,2015,Rice,3619,Red,6.8,272,33,342,23,38,1057,86,30.5
+Karnataka,Raichur,2024,Paddy,2952,Red,7.7,299,42,319,19,37,1018,74,28
+Maharashtra,Pune,2022,Sugarcane,4603,Red,7.3,251,38,301,19,35,1223,45,27
+Haryana,Karnal,2021,Rice,4536,Red,7.5,305,40,365,16,33,796,85,24.5
+Rajasthan,Jaipur,2021,Bajra,2691,Red,7.5,272,40,322,17,39,1111,67,28
+Andhra Pradesh,Kurnool,2025,Groundnut,3192,Red,7.6,233,41,343,21,36,617,58,28.5
+Madhya Pradesh,Bhopal,2014,Soybean,3045,Red,7.5,287,40,357,17,31,1180,73,24
+Punjab,Ludhiana,2026,Wheat,4663,Alluvial,7.4,287,39,297,19,37,1062,54,28
+Madhya Pradesh,Indore,2021,Wheat,3255,Red,7.5,309,40,359,20,36,803,73,28
+Bihar,Bhagalpur,2020,Maize,3424,Alluvial,7.4,280,39,350,15,39,846,46,27
+Assam,Silchar,2019,Rice,4476,Red,6.3,262,28,342,21,38,907,73,29.5
+West Bengal,Cooch Behar,2015,Jute,4692,Alluvial,6.5,264,30,344,18,29,1157,79,23.5
+Uttar Pradesh,Meerut,2022,Wheat,4518,Alluvial,7.1,273,36,343,24,38,1317,62,31
+Tamil Nadu,Thanjavur,2017,Rice,3332,Red,7.1,235,36,325,24,30,1202,83,27
+Haryana,Karnal,2026,Rice,4322,Red,7.5,305,40,365,15,39,1404,64,27
+Tamil Nadu,Thanjavur,2013,Rice,4005,Red,7.1,235,36,325,21,37,1081,73,29
+Rajasthan,Jaipur,2015,Bajra,3605,Red,7.5,272,40,322,18,33,1121,75,25.5
+Kerala,Thrissur,2022,Coconut,2727,Red,6.8,298,33,288,18,35,1111,61,26.5
+Kerala,Palakkad,2025,Rice,3888,Red,6.8,272,33,342,24,36,783,79,30
+Madhya Pradesh,Bhopal,2026,Soybean,3068,Red,7.5,287,40,357,19,29,761,82,24
+Odisha,Cuttack,2012,Rice,4506,Red,6.6,256,31,346,21,29,897,66,25
+Uttar Pradesh,Varanasi,2016,Rice,3436,Alluvial,7.1,277,36,317,17,35,1182,67,26
+Odisha,Cuttack,2013,Rice,3345,Red,6.6,256,31,346,23,37,1026,69,30
+Andhra Pradesh,Guntur,2016,Rice,3689,Red,7.6,329,41,349,17,29,1129,81,23
+West Bengal,Cooch Behar,2016,Jute,3144,Alluvial,6.5,264,30,344,19,33,739,75,26
+Odisha,Sambalpur,2018,Pulses,2730,Red,6.6,242,31,322,21,35,1457,63,28
+Punjab,Patiala,2014,Rice,4097,Alluvial,7.4,258,39,338,23,29,1063,57,26
+Bihar,Bhagalpur,2019,Maize,3471,Alluvial,7.4,280,39,350,15,39,944,48,27
+West Bengal,Burdwan,2021,Rice,4472,Alluvial,6.5,262,30,312,16,39,1251,63,27.5
+Uttar Pradesh,Varanasi,2017,Rice,3548,Alluvial,7.1,277,36,317,15,34,981,75,24.5
+Telangana,Nizamabad,2014,Rice,3213,Red,7.1,312,36,362,19,33,1286,69,26
+Odisha,Cuttack,2024,Rice,4606,Red,6.6,256,31,346,18,38,1323,68,28
+Assam,Silchar,2013,Rice,4076,Red,6.3,262,28,342,20,33,1277,76,26.5
+Rajasthan,Jaipur,2020,Bajra,3325,Red,7.5,272,40,322,22,29,1351,61,25.5
+Madhya Pradesh,Bhopal,2022,Soybean,3044,Red,7.5,287,40,357,20,28,697,64,24
+Madhya Pradesh,Bhopal,2017,Soybean,3046,Red,7.5,287,40,357,20,28,1240,67,24
+Uttar Pradesh,Meerut,2027,Wheat,3334,Alluvial,7.1,273,36,343,23,32,1147,84,27.5
+Punjab,Ludhiana,2015,Wheat,4199,Alluvial,7.4,287,39,297,22,32,1310,69,27
+Rajasthan,Kota,2014,Wheat,3732,Red,7.5,310,40,300,18,30,770,62,24
+Tamil Nadu,Madurai,2025,Millets,4294,Red,7.1,292,36,352,15,39,1257,70,27
+Rajasthan,Kota,2020,Wheat,2951,Red,7.5,310,40,300,22,33,1335,55,27.5
+Rajasthan,Jaipur,2024,Bajra,3392,Red,7.5,272,40,322,21,32,953,67,26.5
+Kerala,Palakkad,2011,Rice,4396,Red,6.8,272,33,342,24,37,1324,77,30.5
+Haryana,Karnal,2013,Rice,4141,Red,7.5,305,40,365,23,33,1221,77,28
+Bihar,Bhagalpur,2015,Maize,2954,Alluvial,7.4,280,39,350,19,38,820,65,28.5
+Uttar Pradesh,Varanasi,2024,Rice,4624,Alluvial,7.1,277,36,317,19,30,1161,69,24.5
+West Bengal,Burdwan,2023,Rice,4481,Alluvial,6.5,262,30,312,16,39,1237,67,27.5
+West Bengal,Burdwan,2012,Rice,3399,Alluvial,6.5,262,30,312,21,39,885,78,30
+Tamil Nadu,Madurai,2016,Millets,2980,Red,7.1,292,36,352,24,29,645,69,26.5
+Andhra Pradesh,Guntur,2022,Rice,4405,Red,7.6,329,41,349,23,38,909,67,30.5
+Rajasthan,Jaipur,2024,Bajra,3833,Red,7.5,272,40,322,18,32,925,64,25
+Rajasthan,Jaipur,2017,Bajra,3740,Red,7.5,272,40,322,18,33,1201,69,25.5
+Telangana,Warangal,2017,Cotton,3107,Red,7.1,311,36,281,24,36,1181,64,30
+Odisha,Cuttack,2025,Rice,3450,Red,6.6,256,31,346,23,37,1056,63,30
+Haryana,Karnal,2013,Rice,2966,Red,7.5,305,40,365,19,33,1260,52,26
+Assam,Silchar,2020,Rice,4447,Red,6.3,262,28,342,22,29,1242,69,25.5
+Gujarat,Anand,2021,Cotton,3668,Red,7.2,285,37,305,15,30,1345,64,22.5
+Kerala,Thrissur,2015,Coconut,3486,Red,6.8,298,33,288,23,39,1066,60,31
+Rajasthan,Jaipur,2012,Bajra,2740,Red,7.5,272,40,322,17,38,911,75,27.5
+Odisha,Cuttack,2025,Rice,3288,Red,6.6,256,31,346,23,37,1075,63,30
+Punjab,Patiala,2014,Rice,4223,Alluvial,7.4,258,39,338,23,29,1085,60,26
+Gujarat,Rajkot,2011,Groundnut,3691,Red,7.2,233,37,353,22,32,1312,79,27
+Maharashtra,Pune,2018,Sugarcane,4052,Red,7.3,251,38,301,16,36,577,86,26
+Himachal Pradesh,Shimla,2017,Apple,2728,Red,7.3,296,38,356,22,39,825,64,30.5
+Bihar,Patna,2024,Rice,3072,Alluvial,7.4,287,39,367,20,28,1532,82,24
+Bihar,Bhagalpur,2011,Maize,2729,Alluvial,7.4,280,39,350,15,28,1082,49,21.5
+Tamil Nadu,Madurai,2027,Millets,4141,Red,7.1,292,36,352,23,36,1082,71,29.5
+Bihar,Bhagalpur,2010,Maize,2881,Alluvial,7.4,280,39,350,15,28,988,55,21.5
+Chhattisgarh,Raipur,2016,Rice,3691,Red,7.1,240,36,340,15,29,1406,72,22
+Uttar Pradesh,Varanasi,2021,Rice,3740,Alluvial,7.1,277,36,317,22,28,1400,51,25
+Odisha,Sambalpur,2022,Pulses,2983,Red,6.6,242,31,322,22,28,947,70,25
+Madhya Pradesh,Indore,2011,Wheat,3804,Red,7.5,309,40,359,21,35,916,79,28
+Kerala,Thrissur,2016,Coconut,3469,Red,6.8,298,33,288,23,39,1088,53,31
+Tamil Nadu,Madurai,2011,Millets,4270,Red,7.1,292,36,352,19,36,1202,81,27.5
+Odisha,Sambalpur,2014,Pulses,3309,Red,6.6,242,31,322,23,28,1027,77,25.5
+Andhra Pradesh,Kurnool,2025,Groundnut,4472,Red,7.6,233,41,343,18,30,816,60,24
+Kerala,Palakkad,2018,Rice,4119,Red,6.8,272,33,342,22,35,1337,70,28.5
+Odisha,Sambalpur,2025,Pulses,4035,Red,6.6,242,31,322,23,34,1008,47,28.5
+Telangana,Nizamabad,2025,Rice,3801,Red,7.1,312,36,362,21,33,856,60,27
+Assam,Silchar,2012,Rice,3988,Red,6.3,262,28,342,20,33,1315,77,26.5
+Andhra Pradesh,Kurnool,2027,Groundnut,4691,Red,7.6,233,41,343,18,30,739,53,24
+Chhattisgarh,Raipur,2021,Rice,3952,Red,7.1,240,36,340,23,30,1286,61,26.5
+Punjab,Patiala,2018,Rice,2654,Alluvial,7.4,258,39,338,17,34,1179,81,25.5
+Odisha,Cuttack,2019,Rice,3714,Red,6.6,256,31,346,21,38,1471,75,29.5
+Madhya Pradesh,Indore,2022,Wheat,3155,Red,7.5,309,40,359,20,36,635,71,28
+Rajasthan,Kota,2017,Wheat,3671,Red,7.5,310,40,300,22,35,973,56,28.5
+Andhra Pradesh,Guntur,2021,Rice,4348,Red,7.6,329,41,349,24,39,655,59,31.5
+Andhra Pradesh,Guntur,2023,Rice,3205,Red,7.6,329,41,349,19,29,829,84,24
+Telangana,Warangal,2025,Cotton,4091,Red,7.1,311,36,281,21,39,764,55,30
+Gujarat,Anand,2012,Cotton,3062,Red,7.2,285,37,305,20,39,648,59,29.5
+Rajasthan,Jaipur,2026,Bajra,2996,Red,7.5,272,40,322,15,35,973,53,25
+Uttar Pradesh,Meerut,2017,Wheat,3550,Alluvial,7.1,273,36,343,15,32,988,57,23.5
+Haryana,Karnal,2017,Rice,3683,Red,7.5,305,40,365,17,37,1194,72,27
+Haryana,Karnal,2013,Rice,3931,Red,7.5,305,40,365,23,33,1195,80,28
+Haryana,Karnal,2021,Rice,4180,Red,7.5,305,40,365,21,35,1251,55,28
+Uttar Pradesh,Meerut,2018,Wheat,3391,Alluvial,7.1,273,36,343,15,32,1172,60,23.5
+Punjab,Ludhiana,2018,Wheat,3626,Alluvial,7.4,287,39,297,18,34,1127,50,26
+West Bengal,Burdwan,2015,Rice,3485,Alluvial,6.5,262,30,312,18,30,1176,84,24
+Uttar Pradesh,Meerut,2019,Wheat,4659,Alluvial,7.1,273,36,343,22,35,1351,69,28.5
+Rajasthan,Kota,2016,Wheat,3601,Red,7.5,310,40,300,18,30,728,70,24
+Uttar Pradesh,Varanasi,2012,Rice,4166,Alluvial,7.1,277,36,317,22,35,740,75,28.5
+Rajasthan,Kota,2019,Wheat,2724,Red,7.5,310,40,300,22,33,1310,59,27.5
+Punjab,Ludhiana,2022,Wheat,3735,Alluvial,7.4,287,39,297,24,30,1011,48,27
+Karnataka,Raichur,2024,Paddy,4299,Red,7.7,299,42,319,17,29,1292,71,23
+Gujarat,Anand,2017,Cotton,3909,Red,7.2,285,37,305,17,30,735,65,23.5
+Haryana,Karnal,2010,Rice,3987,Red,7.5,305,40,365,21,38,1284,80,29.5
+Jharkhand,Ranchi,2017,Maize,3044,Red,7.7,311,42,351,15,28,988,77,21.5
+Punjab,Ludhiana,2013,Wheat,3329,Alluvial,7.4,287,39,297,23,30,988,71,26.5
+Rajasthan,Jaipur,2025,Bajra,2882,Red,7.5,272,40,322,15,35,923,56,25
+Telangana,Warangal,2020,Cotton,3984,Red,7.1,311,36,281,20,38,1009,74,29
+Punjab,Patiala,2013,Rice,4190,Alluvial,7.4,258,39,338,23,29,1075,61,26
+Bihar,Patna,2018,Rice,2713,Alluvial,7.4,287,39,367,21,31,1290,56,26
+West Bengal,Burdwan,2016,Rice,4574,Alluvial,6.5,262,30,312,19,35,828,51,27
+Rajasthan,Kota,2013,Wheat,4195,Red,7.5,310,40,300,16,33,847,46,24.5
+Punjab,Ludhiana,2013,Wheat,3332,Alluvial,7.4,287,39,297,23,30,1112,71,26.5
+Haryana,Hisar,2014,Wheat,2813,Red,7.5,243,40,293,19,39,1203,75,29
+Assam,Jorhat,2021,Tea,2634,Red,6.3,279,28,309,21,30,939,48,25.5
+Jharkhand,Ranchi,2012,Maize,3096,Red,7.7,311,42,351,22,33,863,74,27.5
+Tamil Nadu,Madurai,2025,Millets,4124,Red,7.1,292,36,352,15,39,1422,65,27
+Assam,Jorhat,2012,Tea,2997,Red,6.3,279,28,309,20,28,1322,75,24
+Odisha,Cuttack,2014,Rice,3601,Red,6.6,256,31,346,23,34,1023,79,28.5
+West Bengal,Burdwan,2022,Rice,3585,Alluvial,6.5,262,30,312,18,29,1325,56,23.5
+Punjab,Patiala,2027,Rice,4466,Alluvial,7.4,258,39,338,19,36,1109,55,27.5
+Rajasthan,Kota,2014,Wheat,4221,Red,7.5,310,40,300,18,36,1021,76,27
+Uttar Pradesh,Meerut,2012,Wheat,3060,Alluvial,7.1,273,36,343,18,37,1202,55,27.5
+Punjab,Patiala,2020,Rice,3746,Alluvial,7.4,258,39,338,24,39,724,57,31.5
+Jharkhand,Ranchi,2022,Maize,4427,Red,7.7,311,42,351,20,28,603,71,24
+Kerala,Thrissur,2020,Coconut,2834,Red,6.8,298,33,288,22,30,1507,83,26
+Tamil Nadu,Madurai,2026,Millets,4224,Red,7.1,292,36,352,23,36,961,73,29.5
+Uttar Pradesh,Varanasi,2024,Rice,4687,Alluvial,7.1,277,36,317,18,29,838,50,23.5
+Assam,Silchar,2017,Rice,4546,Red,6.3,262,28,342,20,34,778,58,27
+Haryana,Karnal,2020,Rice,4063,Red,7.5,305,40,365,23,34,832,67,28.5
+Odisha,Cuttack,2021,Rice,3636,Red,6.6,256,31,346,22,33,835,79,27.5
+Punjab,Patiala,2013,Rice,4313,Alluvial,7.4,258,39,338,17,33,939,78,25
+West Bengal,Burdwan,2020,Rice,4380,Alluvial,6.5,262,30,312,17,32,1391,75,24.5
+Gujarat,Rajkot,2024,Groundnut,3764,Red,7.2,233,37,353,22,28,1060,64,25
+Bihar,Bhagalpur,2015,Maize,2966,Alluvial,7.4,280,39,350,19,38,768,73,28.5
+Bihar,Patna,2010,Rice,4558,Alluvial,7.4,287,39,367,15,31,1006,77,23
+Andhra Pradesh,Guntur,2016,Rice,3557,Red,7.6,329,41,349,17,29,1139,84,23
+Himachal Pradesh,Shimla,2022,Apple,3454,Red,7.3,296,38,356,16,37,902,55,26.5
+Odisha,Cuttack,2021,Rice,4616,Red,6.6,256,31,346,19,30,722,51,24.5
+Assam,Jorhat,2018,Tea,3021,Red,6.3,279,28,309,21,36,1384,66,28.5
+Tamil Nadu,Madurai,2019,Millets,4157,Red,7.1,292,36,352,24,32,1431,50,28
+Odisha,Sambalpur,2016,Pulses,2679,Red,6.6,242,31,322,21,34,1229,87,27.5
+Assam,Silchar,2020,Rice,4634,Red,6.3,262,28,342,21,38,847,65,29.5
+Telangana,Nizamabad,2014,Rice,3565,Red,7.1,312,36,362,21,34,1000,60,27.5
+Karnataka,Mandya,2015,Rice,4056,Red,7.7,233,42,283,24,31,1288,57,27.5
+Telangana,Nizamabad,2020,Rice,3877,Red,7.1,312,36,362,20,30,1092,53,25
+Kerala,Palakkad,2025,Rice,3897,Red,6.8,272,33,342,24,36,797,88,30
+Madhya Pradesh,Bhopal,2026,Soybean,3123,Red,7.5,287,40,357,19,29,868,79,24
+Tamil Nadu,Madurai,2025,Millets,4189,Red,7.1,292,36,352,23,36,1111,78,29.5
+Gujarat,Rajkot,2018,Groundnut,2986,Red,7.2,233,37,353,17,36,845,81,26.5
+Uttar Pradesh,Meerut,2011,Wheat,3136,Alluvial,7.1,273,36,343,18,37,1138,55,27.5
+Punjab,Ludhiana,2018,Wheat,3081,Alluvial,7.4,287,39,297,17,31,1247,63,24
+Telangana,Nizamabad,2013,Rice,3924,Red,7.1,312,36,362,23,38,864,66,30.5
+Madhya Pradesh,Bhopal,2014,Soybean,3128,Red,7.5,287,40,357,17,31,1292,70,24
+Andhra Pradesh,Guntur,2012,Rice,3638,Red,7.6,329,41,349,18,29,696,76,23.5
+Jharkhand,Ranchi,2025,Maize,2864,Red,7.7,311,42,351,22,33,1117,78,27.5
+Madhya Pradesh,Indore,2013,Wheat,3795,Red,7.5,309,40,359,21,35,922,75,28
+Gujarat,Rajkot,2019,Groundnut,3252,Red,7.2,233,37,353,20,35,1173,83,27.5
+Gujarat,Rajkot,2016,Groundnut,3005,Red,7.2,233,37,353,17,36,825,77,26.5
+Assam,Silchar,2022,Rice,4303,Red,6.3,262,28,342,20,31,1531,54,25.5
+Andhra Pradesh,Kurnool,2022,Groundnut,2873,Red,7.6,233,41,343,19,35,769,72,27
+Gujarat,Anand,2012,Cotton,3800,Red,7.2,285,37,305,22,28,1276,70,25
+Telangana,Warangal,2011,Cotton,4145,Red,7.1,311,36,281,17,34,1189,72,25.5
+Telangana,Nizamabad,2025,Rice,3780,Red,7.1,312,36,362,21,33,810,54,27
+Odisha,Sambalpur,2022,Pulses,3982,Red,6.6,242,31,322,17,39,1179,72,28
+Kerala,Palakkad,2012,Rice,4217,Red,6.8,272,33,342,17,30,1035,75,23.5
+Telangana,Warangal,2027,Cotton,3759,Red,7.1,311,36,281,18,32,1406,81,25
+West Bengal,Burdwan,2022,Rice,4350,Alluvial,6.5,262,30,312,17,32,1328,80,24.5
+Assam,Jorhat,2022,Tea,3871,Red,6.3,279,28,309,20,37,768,76,28.5
+Tamil Nadu,Thanjavur,2016,Rice,3907,Red,7.1,235,36,325,15,35,1309,52,25
+Assam,Silchar,2018,Rice,4545,Red,6.3,262,28,342,20,34,904,57,27
+Telangana,Warangal,2015,Cotton,4147,Red,7.1,311,36,281,21,31,877,60,26
+Andhra Pradesh,Kurnool,2017,Groundnut,3573,Red,7.6,233,41,343,18,31,1259,75,24.5
+Odisha,Cuttack,2025,Rice,3631,Red,6.6,256,31,346,16,28,825,50,22
+Kerala,Thrissur,2013,Coconut,2812,Red,6.8,298,33,288,21,30,1279,73,25.5
+West Bengal,Cooch Behar,2026,Jute,3269,Alluvial,6.5,264,30,344,21,34,1397,74,27.5
+Bihar,Bhagalpur,2013,Maize,3921,Alluvial,7.4,280,39,350,24,28,1333,73,26
+Madhya Pradesh,Bhopal,2023,Soybean,3425,Red,7.5,287,40,357,19,36,882,54,27.5
+Tamil Nadu,Madurai,2017,Millets,3250,Red,7.1,292,36,352,15,36,1247,66,25.5
+Assam,Jorhat,2014,Tea,3173,Red,6.3,279,28,309,17,34,683,65,25.5
+Bihar,Bhagalpur,2017,Maize,3104,Alluvial,7.4,280,39,350,17,30,1276,78,23.5
+Maharashtra,Pune,2010,Sugarcane,3434,Red,7.3,251,38,301,20,34,1099,77,27
+Karnataka,Raichur,2013,Paddy,3761,Red,7.7,299,42,319,18,31,792,65,24.5
+Rajasthan,Jaipur,2018,Bajra,3692,Red,7.5,272,40,322,18,33,1139,67,25.5
+Odisha,Cuttack,2017,Rice,2662,Red,6.6,256,31,346,17,30,826,71,23.5
+Himachal Pradesh,Shimla,2020,Apple,2984,Red,7.3,296,38,356,23,39,1296,51,31
+Chhattisgarh,Raipur,2020,Rice,4289,Red,7.1,240,36,340,23,33,1420,45,28
+Karnataka,Raichur,2025,Paddy,3505,Red,7.7,299,42,319,20,37,807,74,28.5
+Himachal Pradesh,Shimla,2017,Apple,2812,Red,7.3,296,38,356,22,39,691,64,30.5
+Bihar,Bhagalpur,2026,Maize,2866,Alluvial,7.4,280,39,350,20,35,832,82,27.5
+Andhra Pradesh,Kurnool,2017,Groundnut,4525,Red,7.6,233,41,343,17,39,1055,47,28
+Odisha,Sambalpur,2015,Pulses,3295,Red,6.6,242,31,322,18,29,1198,65,23.5
+Madhya Pradesh,Indore,2024,Wheat,4500,Red,7.5,309,40,359,19,31,902,73,25
+Kerala,Palakkad,2013,Rice,4292,Red,6.8,272,33,342,24,37,1455,80,30.5
+Rajasthan,Kota,2025,Wheat,3634,Red,7.5,310,40,300,21,33,953,66,27
+Telangana,Nizamabad,2016,Rice,3676,Red,7.1,312,36,362,16,37,682,80,26.5
+Kerala,Thrissur,2018,Coconut,2914,Red,6.8,298,33,288,22,30,1401,82,26
+Karnataka,Mandya,2018,Rice,4124,Red,7.7,233,42,283,17,39,1441,63,28
+Andhra Pradesh,Kurnool,2012,Groundnut,3956,Red,7.6,233,41,343,20,32,874,50,26
+Kerala,Palakkad,2026,Rice,3077,Red,6.8,272,33,342,16,28,1108,75,22
+Odisha,Cuttack,2018,Rice,3753,Red,6.6,256,31,346,21,38,1504,84,29.5
+Maharashtra,Pune,2025,Sugarcane,2832,Red,7.3,251,38,301,24,29,1444,46,26.5
+Kerala,Palakkad,2023,Rice,3494,Red,6.8,272,33,342,18,35,1140,74,26.5
+Odisha,Sambalpur,2019,Pulses,4469,Red,6.6,242,31,322,17,33,887,66,25
+Bihar,Bhagalpur,2010,Maize,2683,Alluvial,7.4,280,39,350,15,28,1049,52,21.5
+Bihar,Bhagalpur,2020,Maize,3630,Alluvial,7.4,280,39,350,15,39,812,46,27
+Haryana,Hisar,2019,Wheat,4207,Red,7.5,243,40,293,17,32,1206,79,24.5
+Uttar Pradesh,Meerut,2020,Wheat,4519,Alluvial,7.1,273,36,343,22,35,1367,71,28.5
+Assam,Jorhat,2022,Tea,4215,Red,6.3,279,28,309,20,30,1354,52,25
+Punjab,Ludhiana,2026,Wheat,4506,Alluvial,7.4,287,39,297,19,37,1171,53,28
+Madhya Pradesh,Bhopal,2018,Soybean,3404,Red,7.5,287,40,357,21,30,1036,73,25.5
+West Bengal,Burdwan,2022,Rice,4393,Alluvial,6.5,262,30,312,16,39,1072,64,27.5
+Rajasthan,Kota,2024,Wheat,3569,Red,7.5,310,40,300,21,33,848,66,27
+Uttar Pradesh,Meerut,2020,Wheat,4401,Alluvial,7.1,273,36,343,18,36,809,56,27
+West Bengal,Cooch Behar,2012,Jute,3842,Alluvial,6.5,264,30,344,21,34,851,53,27.5
+Punjab,Patiala,2013,Rice,2778,Alluvial,7.4,258,39,338,23,35,1179,66,29
+Himachal Pradesh,Shimla,2024,Apple,2742,Red,7.3,296,38,356,24,30,969,77,27
+Kerala,Thrissur,2024,Coconut,3064,Red,6.8,298,33,288,24,32,1420,58,28
+Jharkhand,Ranchi,2018,Maize,3664,Red,7.7,311,42,351,23,31,663,82,27
+Karnataka,Raichur,2012,Paddy,3635,Red,7.7,299,42,319,18,31,898,58,24.5
+Odisha,Sambalpur,2027,Pulses,4058,Red,6.6,242,31,322,23,34,965,48,28.5
+Madhya Pradesh,Indore,2019,Wheat,4301,Red,7.5,309,40,359,20,35,1240,56,27.5
+Haryana,Hisar,2014,Wheat,2842,Red,7.5,243,40,293,19,39,1338,73,29
+Karnataka,Mandya,2016,Rice,3094,Red,7.7,233,42,283,21,35,990,73,28
+Uttar Pradesh,Meerut,2019,Wheat,4206,Alluvial,7.1,273,36,343,18,36,699,63,27
+Andhra Pradesh,Kurnool,2019,Groundnut,3675,Red,7.6,233,41,343,18,31,1330,82,24.5
+Karnataka,Raichur,2019,Paddy,2811,Red,7.7,299,42,319,17,29,1355,74,23
+Tamil Nadu,Thanjavur,2022,Rice,3591,Red,7.1,235,36,325,18,36,847,59,27
+Karnataka,Mandya,2019,Rice,4357,Red,7.7,233,42,283,24,30,866,62,27
+Andhra Pradesh,Guntur,2023,Rice,4523,Red,7.6,329,41,349,21,35,620,88,28
+Haryana,Karnal,2015,Rice,3757,Red,7.5,305,40,365,20,28,1300,66,24
+Punjab,Patiala,2022,Rice,3846,Alluvial,7.4,258,39,338,22,37,1110,60,29.5
+Gujarat,Anand,2011,Cotton,3883,Red,7.2,285,37,305,22,28,1360,67,25
+Haryana,Hisar,2021,Wheat,3099,Red,7.5,243,40,293,21,35,1414,83,28
+Bihar,Bhagalpur,2026,Maize,4347,Alluvial,7.4,280,39,350,22,37,719,81,29.5
+Punjab,Ludhiana,2025,Wheat,3643,Alluvial,7.4,287,39,297,21,34,759,63,27.5
+Punjab,Patiala,2024,Rice,3745,Alluvial,7.4,258,39,338,21,29,825,78,25
+Uttar Pradesh,Varanasi,2014,Rice,3572,Alluvial,7.1,277,36,317,22,29,909,87,25.5
+Telangana,Nizamabad,2017,Rice,3779,Red,7.1,312,36,362,17,28,640,52,22.5
+Odisha,Sambalpur,2012,Pulses,2966,Red,6.6,242,31,322,21,38,884,58,29.5
+Rajasthan,Jaipur,2025,Bajra,2957,Red,7.5,272,40,322,21,33,793,63,27
+Gujarat,Rajkot,2023,Groundnut,3682,Red,7.2,233,37,353,22,28,1022,64,25
+Haryana,Karnal,2016,Rice,3747,Red,7.5,305,40,365,20,28,1341,63,24
+Haryana,Hisar,2025,Wheat,3889,Red,7.5,243,40,293,15,29,1449,53,22
+Himachal Pradesh,Shimla,2012,Apple,3390,Red,7.3,296,38,356,20,34,1094,73,27
+Rajasthan,Kota,2014,Wheat,3663,Red,7.5,310,40,300,18,30,728,71,24
+Madhya Pradesh,Indore,2013,Wheat,2837,Red,7.5,309,40,359,18,30,1055,61,24
+Madhya Pradesh,Indore,2025,Wheat,4479,Red,7.5,309,40,359,19,31,720,79,25
+Haryana,Karnal,2025,Rice,2699,Red,7.5,305,40,365,22,32,1092,49,27
+Assam,Silchar,2026,Rice,3697,Red,6.3,262,28,342,18,31,1045,59,24.5
+Rajasthan,Kota,2024,Wheat,3201,Red,7.5,310,40,300,15,39,858,77,27
+Madhya Pradesh,Bhopal,2023,Soybean,3889,Red,7.5,287,40,357,20,35,993,73,27.5
+Karnataka,Raichur,2018,Paddy,4434,Red,7.7,299,42,319,24,37,977,52,30.5
+Madhya Pradesh,Indore,2010,Wheat,3095,Red,7.5,309,40,359,17,38,1440,56,27.5
+Maharashtra,Nagpur,2025,Soybean,4446,Red,7.3,313,38,323,22,29,859,62,25.5
+Rajasthan,Jaipur,2010,Bajra,2875,Red,7.5,272,40,322,17,38,762,80,27.5
+Madhya Pradesh,Indore,2027,Wheat,3807,Red,7.5,309,40,359,21,39,1161,74,30
+Telangana,Nizamabad,2021,Rice,3677,Red,7.1,312,36,362,17,38,1020,87,27.5
+Tamil Nadu,Thanjavur,2014,Rice,3977,Red,7.1,235,36,325,21,37,949,64,29
+Bihar,Patna,2026,Rice,3675,Alluvial,7.4,287,39,367,20,32,844,79,26
+Madhya Pradesh,Bhopal,2018,Soybean,3331,Red,7.5,287,40,357,21,30,1073,70,25.5
+Haryana,Hisar,2019,Wheat,3565,Red,7.5,243,40,293,16,38,752,62,27
+Gujarat,Rajkot,2013,Groundnut,4233,Red,7.2,233,37,353,20,33,669,83,26.5
+Tamil Nadu,Madurai,2023,Millets,3974,Red,7.1,292,36,352,18,33,968,78,25.5
+West Bengal,Cooch Behar,2010,Jute,4508,Alluvial,6.5,264,30,344,22,38,674,79,30
+Telangana,Warangal,2023,Cotton,3494,Red,7.1,311,36,281,20,33,728,58,26.5
+Punjab,Ludhiana,2019,Wheat,3142,Alluvial,7.4,287,39,297,15,33,1156,80,24
+Jharkhand,Ranchi,2016,Maize,3313,Red,7.7,311,42,351,22,36,1022,70,29
+Odisha,Sambalpur,2020,Pulses,4094,Red,6.6,242,31,322,19,33,853,76,26
+West Bengal,Burdwan,2013,Rice,3459,Alluvial,6.5,262,30,312,22,33,859,77,27.5
+Uttar Pradesh,Varanasi,2012,Rice,3318,Alluvial,7.1,277,36,317,23,34,662,74,28.5
+Himachal Pradesh,Shimla,2022,Apple,2891,Red,7.3,296,38,356,24,30,948,80,27
+Punjab,Patiala,2016,Rice,3964,Alluvial,7.4,258,39,338,22,28,1437,81,25
+Gujarat,Rajkot,2023,Groundnut,4347,Red,7.2,233,37,353,15,37,1253,55,26
+Maharashtra,Pune,2016,Sugarcane,4779,Red,7.3,251,38,301,23,36,1289,57,29.5
+Assam,Silchar,2023,Rice,4759,Red,6.3,262,28,342,20,36,738,76,28
+Tamil Nadu,Thanjavur,2018,Rice,3302,Red,7.1,235,36,325,24,30,1239,75,27
+Rajasthan,Kota,2017,Wheat,3759,Red,7.5,310,40,300,22,35,980,57,28.5
+Kerala,Palakkad,2026,Rice,2924,Red,6.8,272,33,342,16,28,1064,78,22
+Kerala,Palakkad,2026,Rice,3086,Red,6.8,272,33,342,16,28,990,77,22
+Haryana,Hisar,2023,Wheat,3968,Red,7.5,243,40,293,22,34,1139,82,28
+Jharkhand,Ranchi,2015,Maize,3209,Red,7.7,311,42,351,15,28,1061,77,21.5
+Gujarat,Rajkot,2019,Groundnut,3199,Red,7.2,233,37,353,24,29,723,63,26.5
+Maharashtra,Pune,2015,Sugarcane,3729,Red,7.3,251,38,301,23,36,1335,60,29.5
+Punjab,Ludhiana,2015,Wheat,3411,Alluvial,7.4,287,39,297,23,30,1167,71,26.5
+Odisha,Sambalpur,2023,Pulses,2972,Red,6.6,242,31,322,22,28,993,78,25
+Madhya Pradesh,Indore,2012,Wheat,3691,Red,7.5,309,40,359,21,35,973,82,28
+Uttar Pradesh,Meerut,2017,Wheat,3050,Alluvial,7.1,273,36,343,17,35,1104,67,26
+Kerala,Palakkad,2014,Rice,2922,Red,6.8,272,33,342,21,37,1294,70,29
+Rajasthan,Kota,2016,Wheat,4146,Red,7.5,310,40,300,20,31,1287,49,25.5
+Haryana,Hisar,2022,Wheat,3878,Red,7.5,243,40,293,23,35,872,57,29
+Telangana,Nizamabad,2012,Rice,2887,Red,7.1,312,36,362,17,29,1012,82,23
+Odisha,Sambalpur,2011,Pulses,2722,Red,6.6,242,31,322,23,29,907,78,26
+Haryana,Karnal,2012,Rice,4017,Red,7.5,305,40,365,23,33,1090,80,28
+Odisha,Sambalpur,2011,Pulses,2981,Red,6.6,242,31,322,21,38,938,54,29.5
+Kerala,Palakkad,2018,Rice,4083,Red,6.8,272,33,342,22,35,1512,68,28.5
+Uttar Pradesh,Varanasi,2019,Rice,4531,Alluvial,7.1,277,36,317,18,36,810,83,27
+Gujarat,Rajkot,2012,Groundnut,2874,Red,7.2,233,37,353,18,33,1137,57,25.5
+Madhya Pradesh,Bhopal,2012,Soybean,3701,Red,7.5,287,40,357,17,32,1386,69,24.5
+Madhya Pradesh,Indore,2025,Wheat,4451,Red,7.5,309,40,359,20,31,983,74,25.5
+Bihar,Patna,2021,Rice,2703,Alluvial,7.4,287,39,367,15,30,815,55,22.5
+Gujarat,Anand,2025,Cotton,3250,Red,7.2,285,37,305,23,32,1528,81,27.5
+Rajasthan,Jaipur,2015,Bajra,3563,Red,7.5,272,40,322,18,33,1074,78,25.5
+Rajasthan,Kota,2021,Wheat,3496,Red,7.5,310,40,300,18,29,1260,55,23.5
+Himachal Pradesh,Shimla,2011,Apple,3352,Red,7.3,296,38,356,20,34,1171,70,27
+Uttar Pradesh,Meerut,2013,Wheat,3040,Alluvial,7.1,273,36,343,18,37,1208,50,27.5
+Kerala,Thrissur,2013,Coconut,3993,Red,6.8,298,33,288,23,32,877,76,27.5
+Uttar Pradesh,Varanasi,2023,Rice,4541,Alluvial,7.1,277,36,317,19,30,1055,69,24.5
+Punjab,Ludhiana,2019,Wheat,3570,Alluvial,7.4,287,39,297,19,30,786,57,24.5
+Punjab,Patiala,2016,Rice,4052,Alluvial,7.4,258,39,338,22,28,1383,74,25
+Assam,Silchar,2014,Rice,3926,Red,6.3,262,28,342,23,39,782,74,31
+West Bengal,Cooch Behar,2012,Jute,2762,Alluvial,6.5,264,30,344,22,31,776,48,26.5
+Maharashtra,Pune,2025,Sugarcane,2749,Red,7.3,251,38,301,24,29,1378,51,26.5
+Telangana,Nizamabad,2020,Rice,3152,Red,7.1,312,36,362,23,28,1056,69,25.5
+Chhattisgarh,Raipur,2021,Rice,2826,Red,7.1,240,36,340,17,34,811,78,25.5
+Gujarat,Anand,2020,Cotton,4086,Red,7.2,285,37,305,20,28,1265,73,24
+Jharkhand,Ranchi,2015,Maize,3198,Red,7.7,311,42,351,18,33,786,65,25.5
+West Bengal,Burdwan,2017,Rice,3679,Alluvial,6.5,262,30,312,21,37,1435,51,29
+Telangana,Warangal,2020,Cotton,4196,Red,7.1,311,36,281,23,34,1016,58,28.5
+Punjab,Ludhiana,2018,Wheat,3572,Alluvial,7.4,287,39,297,19,30,802,61,24.5
+Madhya Pradesh,Indore,2022,Wheat,4372,Red,7.5,309,40,359,24,29,968,64,26.5
+West Bengal,Cooch Behar,2019,Jute,2978,Alluvial,6.5,264,30,344,21,34,876,70,27.5
+Rajasthan,Jaipur,2020,Bajra,3210,Red,7.5,272,40,322,22,29,1352,67,25.5
+Telangana,Warangal,2014,Cotton,4057,Red,7.1,311,36,281,21,31,972,58,26
+West Bengal,Cooch Behar,2014,Jute,4490,Alluvial,6.5,264,30,344,22,30,951,71,26
+Telangana,Nizamabad,2011,Rice,3058,Red,7.1,312,36,362,17,29,1189,80,23
+Bihar,Bhagalpur,2013,Maize,4664,Alluvial,7.4,280,39,350,18,34,1453,75,26
+Haryana,Karnal,2022,Rice,4191,Red,7.5,305,40,365,21,35,1306,59,28
+Rajasthan,Kota,2017,Wheat,3643,Red,7.5,310,40,300,22,35,1106,61,28.5
+Haryana,Karnal,2013,Rice,3114,Red,7.5,305,40,365,19,33,1315,53,26
+Andhra Pradesh,Kurnool,2020,Groundnut,4304,Red,7.6,233,41,343,21,30,1144,66,25.5
+West Bengal,Burdwan,2025,Rice,4458,Alluvial,6.5,262,30,312,21,37,1336,72,29
+Maharashtra,Pune,2023,Sugarcane,2784,Red,7.3,251,38,301,22,28,991,80,25
+Bihar,Patna,2025,Rice,3737,Alluvial,7.4,287,39,367,20,32,846,79,26
+Rajasthan,Kota,2012,Wheat,4153,Red,7.5,310,40,300,16,33,860,51,24.5
+Uttar Pradesh,Varanasi,2027,Rice,4433,Alluvial,7.1,277,36,317,23,34,949,47,28.5
+Karnataka,Mandya,2023,Rice,4350,Red,7.7,233,42,283,16,31,1386,83,23.5
+Bihar,Patna,2016,Rice,3596,Alluvial,7.4,287,39,367,17,30,1291,65,23.5
+Andhra Pradesh,Kurnool,2017,Groundnut,3734,Red,7.6,233,41,343,18,31,1257,81,24.5
+Uttar Pradesh,Varanasi,2018,Rice,3580,Alluvial,7.1,277,36,317,24,29,693,81,26.5
+Karnataka,Raichur,2010,Paddy,3179,Red,7.7,299,42,319,17,32,1524,65,24.5
+Madhya Pradesh,Indore,2022,Wheat,4404,Red,7.5,309,40,359,24,29,853,66,26.5
+Punjab,Ludhiana,2024,Wheat,3025,Alluvial,7.4,287,39,297,21,36,1105,75,28.5
+Madhya Pradesh,Indore,2015,Wheat,4137,Red,7.5,309,40,359,19,39,640,81,29
+Gujarat,Rajkot,2019,Groundnut,3265,Red,7.2,233,37,353,20,35,1144,82,27.5
+Bihar,Patna,2014,Rice,3961,Alluvial,7.4,287,39,367,24,32,1111,71,28
+Odisha,Cuttack,2019,Rice,4437,Red,6.6,256,31,346,19,30,705,53,24.5
+Kerala,Thrissur,2020,Coconut,3051,Red,6.8,298,33,288,20,33,1396,64,26.5
+Tamil Nadu,Thanjavur,2019,Rice,3272,Red,7.1,235,36,325,24,30,1212,74,27
+Maharashtra,Nagpur,2026,Soybean,4580,Red,7.3,313,38,323,21,31,1160,45,26
+Tamil Nadu,Madurai,2014,Millets,3003,Red,7.1,292,36,352,17,31,909,57,24
+Jharkhand,Ranchi,2017,Maize,3238,Red,7.7,311,42,351,15,28,915,83,21.5
+Madhya Pradesh,Indore,2019,Wheat,3514,Red,7.5,309,40,359,21,35,1076,72,28
+Tamil Nadu,Thanjavur,2019,Rice,4598,Red,7.1,235,36,325,16,29,823,64,22.5
+Assam,Jorhat,2018,Tea,3036,Red,6.3,279,28,309,21,36,1286,58,28.5
+Assam,Silchar,2016,Rice,3525,Red,6.3,262,28,342,24,28,1455,58,26
+Jharkhand,Ranchi,2020,Maize,4027,Red,7.7,311,42,351,20,33,759,57,26.5
+Rajasthan,Kota,2016,Wheat,3549,Red,7.5,310,40,300,18,30,888,69,24
+Karnataka,Raichur,2025,Paddy,2717,Red,7.7,299,42,319,15,29,1074,55,22
+Madhya Pradesh,Bhopal,2013,Soybean,3171,Red,7.5,287,40,357,21,32,906,65,26.5
+Uttar Pradesh,Meerut,2025,Wheat,3413,Alluvial,7.1,273,36,343,23,32,951,85,27.5
+Kerala,Palakkad,2025,Rice,3978,Red,6.8,272,33,342,24,36,665,79,30
+Maharashtra,Nagpur,2021,Soybean,3496,Red,7.3,313,38,323,24,30,688,63,27
+Punjab,Ludhiana,2016,Wheat,4325,Alluvial,7.4,287,39,297,20,32,1269,68,26
+Karnataka,Raichur,2011,Paddy,3305,Red,7.7,299,42,319,17,32,1435,71,24.5
+Andhra Pradesh,Guntur,2025,Rice,4568,Red,7.6,329,41,349,21,35,603,81,28
+Punjab,Patiala,2024,Rice,2904,Alluvial,7.4,258,39,338,21,39,1101,58,30
+Kerala,Palakkad,2012,Rice,4358,Red,6.8,272,33,342,24,37,1484,71,30.5
+Bihar,Patna,2016,Rice,3701,Alluvial,7.4,287,39,367,17,30,1371,72,23.5
+Tamil Nadu,Madurai,2021,Millets,4258,Red,7.1,292,36,352,23,35,1415,68,29
+Bihar,Bhagalpur,2019,Maize,3731,Alluvial,7.4,280,39,350,21,39,1187,72,30
+Madhya Pradesh,Indore,2012,Wheat,3742,Red,7.5,309,40,359,21,35,1009,83,28
+Uttar Pradesh,Meerut,2026,Wheat,3160,Alluvial,7.1,273,36,343,18,31,779,58,24.5
+Assam,Silchar,2020,Rice,4265,Red,6.3,262,28,342,21,29,1340,67,25
+Andhra Pradesh,Guntur,2016,Rice,3620,Red,7.6,329,41,349,16,35,1246,56,25.5
+Uttar Pradesh,Varanasi,2023,Rice,4707,Alluvial,7.1,277,36,317,19,30,1203,64,24.5
+Gujarat,Anand,2020,Cotton,3788,Red,7.2,285,37,305,24,33,769,83,28.5
+Punjab,Ludhiana,2022,Wheat,3913,Alluvial,7.4,287,39,297,24,30,1167,48,27
+Gujarat,Rajkot,2026,Groundnut,3747,Red,7.2,233,37,353,18,29,847,65,23.5
+Chhattisgarh,Raipur,2020,Rice,3191,Red,7.1,240,36,340,23,30,1497,68,26.5
+Maharashtra,Pune,2021,Sugarcane,2983,Red,7.3,251,38,301,24,39,710,84,31.5
+Karnataka,Mandya,2016,Rice,3946,Red,7.7,233,42,283,22,32,925,80,27
+Bihar,Bhagalpur,2013,Maize,3940,Alluvial,7.4,280,39,350,24,28,1345,81,26
+Madhya Pradesh,Bhopal,2025,Soybean,3258,Red,7.5,287,40,357,19,29,852,85,24
+Gujarat,Rajkot,2014,Groundnut,4014,Red,7.2,233,37,353,16,33,1211,62,24.5
+Gujarat,Rajkot,2014,Groundnut,2912,Red,7.2,233,37,353,18,33,1112,61,25.5
+Rajasthan,Kota,2020,Wheat,3231,Red,7.5,310,40,300,17,36,1058,71,26.5
+Odisha,Sambalpur,2022,Pulses,2917,Red,6.6,242,31,322,22,28,859,78,25
+Karnataka,Mandya,2022,Rice,3961,Red,7.7,233,42,283,17,38,1318,64,27.5
+Karnataka,Mandya,2012,Rice,4703,Red,7.7,233,42,283,17,32,1470,52,24.5
+Andhra Pradesh,Kurnool,2019,Groundnut,3340,Red,7.6,233,41,343,23,33,889,51,28
+Telangana,Warangal,2016,Cotton,4717,Red,7.1,311,36,281,16,31,838,85,23.5
+Assam,Silchar,2027,Rice,3431,Red,6.3,262,28,342,21,36,1359,58,28.5
+Bihar,Bhagalpur,2012,Maize,3661,Alluvial,7.4,280,39,350,24,39,1163,63,31.5
+Bihar,Bhagalpur,2021,Maize,3479,Alluvial,7.4,280,39,350,16,29,969,79,22.5
+Karnataka,Raichur,2020,Paddy,3339,Red,7.7,299,42,319,23,31,1067,69,27
+Himachal Pradesh,Shimla,2025,Apple,3527,Red,7.3,296,38,356,20,30,714,69,25
+Madhya Pradesh,Bhopal,2025,Soybean,3962,Red,7.5,287,40,357,20,35,795,74,27.5
+Maharashtra,Pune,2023,Sugarcane,4238,Red,7.3,251,38,301,18,37,1269,57,27.5
+Madhya Pradesh,Indore,2018,Wheat,3799,Red,7.5,309,40,359,17,30,1299,73,23.5
+West Bengal,Cooch Behar,2024,Jute,3511,Alluvial,6.5,264,30,344,21,39,1283,84,30
+Madhya Pradesh,Bhopal,2013,Soybean,3605,Red,7.5,287,40,357,18,30,1164,61,24
+Telangana,Nizamabad,2014,Rice,3211,Red,7.1,312,36,362,19,33,1291,69,26
+Uttar Pradesh,Varanasi,2017,Rice,3719,Alluvial,7.1,277,36,317,15,34,990,79,24.5
+Uttar Pradesh,Meerut,2010,Wheat,4365,Alluvial,7.1,273,36,343,23,38,795,74,30.5
+Karnataka,Mandya,2025,Rice,4348,Red,7.7,233,42,283,15,32,1049,54,23.5
+Madhya Pradesh,Indore,2017,Wheat,3565,Red,7.5,309,40,359,19,28,824,58,23.5
+Bihar,Patna,2018,Rice,3517,Alluvial,7.4,287,39,367,18,31,1010,61,24.5
+West Bengal,Cooch Behar,2013,Jute,3799,Alluvial,6.5,264,30,344,21,34,1009,55,27.5
+Himachal Pradesh,Shimla,2022,Apple,2868,Red,7.3,296,38,356,24,30,1023,79,27
+Rajasthan,Kota,2010,Wheat,3471,Red,7.5,310,40,300,17,33,836,69,25
+Uttar Pradesh,Varanasi,2019,Rice,3706,Alluvial,7.1,277,36,317,22,28,1364,47,25
+Odisha,Sambalpur,2019,Pulses,2839,Red,6.6,242,31,322,21,35,1475,59,28
+Bihar,Patna,2020,Rice,2865,Alluvial,7.4,287,39,367,15,30,786,53,22.5
+Telangana,Nizamabad,2016,Rice,3201,Red,7.1,312,36,362,19,33,1356,68,26
+West Bengal,Burdwan,2018,Rice,4509,Alluvial,6.5,262,30,312,19,35,735,58,27
+Gujarat,Rajkot,2017,Groundnut,2975,Red,7.2,233,37,353,17,36,744,73,26.5
+Punjab,Ludhiana,2016,Wheat,4145,Alluvial,7.4,287,39,297,22,32,1389,68,27
+Andhra Pradesh,Guntur,2024,Rice,4643,Red,7.6,329,41,349,18,34,1367,48,26
+Karnataka,Mandya,2021,Rice,4398,Red,7.7,233,42,283,16,31,1335,80,23.5
+Punjab,Patiala,2026,Rice,3724,Alluvial,7.4,258,39,338,21,29,725,80,25
+Himachal Pradesh,Shimla,2023,Apple,2852,Red,7.3,296,38,356,24,30,945,71,27
+West Bengal,Cooch Behar,2016,Jute,2701,Alluvial,6.5,264,30,344,20,34,1411,78,27
+Maharashtra,Pune,2024,Sugarcane,2815,Red,7.3,251,38,301,22,28,866,81,25
+Assam,Silchar,2010,Rice,4470,Red,6.3,262,28,342,17,39,1383,74,28
+Madhya Pradesh,Indore,2018,Wheat,4017,Red,7.5,309,40,359,17,30,1280,74,23.5
+Odisha,Cuttack,2013,Rice,3562,Red,6.6,256,31,346,23,34,849,74,28.5
+Assam,Jorhat,2014,Tea,4383,Red,6.3,279,28,309,23,35,822,81,29
+Haryana,Hisar,2021,Wheat,3856,Red,7.5,243,40,293,23,35,733,64,29
+Assam,Jorhat,2025,Tea,3516,Red,6.3,279,28,309,21,38,1382,81,29.5
+Odisha,Sambalpur,2025,Pulses,4172,Red,6.6,242,31,322,23,34,1078,48,28.5
+Odisha,Sambalpur,2011,Pulses,2703,Red,6.6,242,31,322,23,29,980,77,26
+Haryana,Karnal,2026,Rice,3062,Red,7.5,305,40,365,23,29,1321,55,26
+Maharashtra,Pune,2013,Sugarcane,2587,Red,7.3,251,38,301,23,29,1284,76,26
+Rajasthan,Kota,2018,Wheat,2830,Red,7.5,310,40,300,18,31,1029,58,24.5
+Tamil Nadu,Thanjavur,2022,Rice,4297,Red,7.1,235,36,325,23,39,1348,52,31
+Jharkhand,Ranchi,2010,Maize,3731,Red,7.7,311,42,351,20,38,1106,79,29
+Andhra Pradesh,Kurnool,2012,Groundnut,3462,Red,7.6,233,41,343,22,32,1377,52,27
+Himachal Pradesh,Shimla,2020,Apple,3164,Red,7.3,296,38,356,23,37,1157,62,30
+Kerala,Thrissur,2010,Coconut,4166,Red,6.8,298,33,288,17,29,1108,72,23
+Haryana,Hisar,2025,Wheat,3935,Red,7.5,243,40,293,22,34,1191,78,28
+Andhra Pradesh,Guntur,2025,Rice,2631,Red,7.6,329,41,349,18,36,764,61,27
+Odisha,Sambalpur,2019,Pulses,4457,Red,6.6,242,31,322,17,33,856,59,25
+Andhra Pradesh,Kurnool,2027,Groundnut,4466,Red,7.6,233,41,343,18,30,738,53,24
+Bihar,Bhagalpur,2017,Maize,4313,Alluvial,7.4,280,39,350,18,29,968,74,23.5
+Tamil Nadu,Madurai,2015,Millets,2966,Red,7.1,292,36,352,24,29,601,66,26.5
+Bihar,Patna,2010,Rice,4697,Alluvial,7.4,287,39,367,15,31,1101,72,23
+Haryana,Karnal,2014,Rice,2765,Red,7.5,305,40,365,15,34,1013,64,24.5
+Assam,Silchar,2015,Rice,4396,Red,6.3,262,28,342,17,38,803,51,27.5
+Madhya Pradesh,Indore,2021,Wheat,3292,Red,7.5,309,40,359,20,36,698,71,28
+Haryana,Hisar,2019,Wheat,3487,Red,7.5,243,40,293,16,38,745,67,27
+Uttar Pradesh,Varanasi,2021,Rice,3762,Alluvial,7.1,277,36,317,22,28,1321,47,25
+Andhra Pradesh,Guntur,2014,Rice,4205,Red,7.6,329,41,349,17,32,1208,78,24.5
+Odisha,Sambalpur,2024,Pulses,3733,Red,6.6,242,31,322,17,39,1205,76,28
+Kerala,Thrissur,2012,Coconut,3052,Red,6.8,298,33,288,24,29,1425,56,26.5
+Kerala,Thrissur,2027,Coconut,3367,Red,6.8,298,33,288,16,37,1105,69,26.5
+Telangana,Nizamabad,2017,Rice,4117,Red,7.1,312,36,362,24,37,1124,74,30.5
+Gujarat,Rajkot,2012,Groundnut,3882,Red,7.2,233,37,353,22,32,1428,80,27
+Karnataka,Raichur,2016,Paddy,3330,Red,7.7,299,42,319,21,34,980,58,27.5
+Rajasthan,Kota,2017,Wheat,4020,Red,7.5,310,40,300,20,31,1290,49,25.5
+Tamil Nadu,Madurai,2015,Millets,4352,Red,7.1,292,36,352,15,34,1024,50,24.5
+Madhya Pradesh,Indore,2026,Wheat,3803,Red,7.5,309,40,359,21,39,1200,77,30
+Bihar,Patna,2016,Rice,3353,Alluvial,7.4,287,39,367,22,31,630,69,26.5
+Chhattisgarh,Raipur,2024,Rice,3892,Red,7.1,240,36,340,15,37,1310,70,26
+Odisha,Cuttack,2020,Rice,4644,Red,6.6,256,31,346,19,30,843,52,24.5
+Andhra Pradesh,Kurnool,2017,Groundnut,4656,Red,7.6,233,41,343,17,39,1194,48,28
+Jharkhand,Ranchi,2019,Maize,3723,Red,7.7,311,42,351,23,31,804,82,27
+Tamil Nadu,Thanjavur,2018,Rice,3074,Red,7.1,235,36,325,24,29,1413,79,26.5
+Madhya Pradesh,Bhopal,2014,Soybean,4377,Red,7.5,287,40,357,19,31,732,63,25
+Assam,Silchar,2023,Rice,3154,Red,6.3,262,28,342,23,36,601,52,29.5
+Maharashtra,Pune,2014,Sugarcane,3755,Red,7.3,251,38,301,23,36,1382,59,29.5
+Bihar,Patna,2026,Rice,3814,Alluvial,7.4,287,39,367,22,37,573,64,29.5
+Uttar Pradesh,Meerut,2025,Wheat,3148,Alluvial,7.1,273,36,343,18,31,783,62,24.5
+Madhya Pradesh,Bhopal,2025,Soybean,3247,Red,7.5,287,40,357,19,29,742,86,24
+Andhra Pradesh,Kurnool,2014,Groundnut,3274,Red,7.6,233,41,343,20,31,1450,84,25.5
+Punjab,Ludhiana,2023,Wheat,3152,Alluvial,7.4,287,39,297,21,36,1077,77,28.5
+Kerala,Thrissur,2018,Coconut,4049,Red,6.8,298,33,288,15,33,880,65,24
+Kerala,Palakkad,2023,Rice,3489,Red,6.8,272,33,342,18,35,1141,70,26.5
+West Bengal,Burdwan,2027,Rice,4519,Alluvial,6.5,262,30,312,20,29,657,71,24.5
+Punjab,Ludhiana,2021,Wheat,3938,Alluvial,7.4,287,39,297,22,36,1068,73,29
+Andhra Pradesh,Kurnool,2026,Groundnut,3245,Red,7.6,233,41,343,18,39,1455,59,28.5
+Andhra Pradesh,Guntur,2022,Rice,3513,Red,7.6,329,41,349,21,36,1301,66,28.5
+Kerala,Thrissur,2017,Coconut,4055,Red,6.8,298,33,288,15,33,869,70,24
+Uttar Pradesh,Varanasi,2014,Rice,4109,Alluvial,7.1,277,36,317,19,31,983,53,25
+Karnataka,Mandya,2016,Rice,2934,Red,7.7,233,42,283,21,35,971,70,28
+Maharashtra,Pune,2017,Sugarcane,4613,Red,7.3,251,38,301,23,36,1390,54,29.5
+Karnataka,Raichur,2026,Paddy,2909,Red,7.7,299,42,319,19,37,981,73,28
+Tamil Nadu,Thanjavur,2015,Rice,3594,Red,7.1,235,36,325,15,30,1062,83,22.5
+Telangana,Warangal,2016,Cotton,4234,Red,7.1,311,36,281,19,36,1214,64,27.5
+Madhya Pradesh,Bhopal,2025,Soybean,3838,Red,7.5,287,40,357,21,39,1153,85,30
+Chhattisgarh,Raipur,2020,Rice,2953,Red,7.1,240,36,340,17,34,927,75,25.5
+Kerala,Palakkad,2021,Rice,3401,Red,6.8,272,33,342,18,35,1274,73,26.5
+Bihar,Bhagalpur,2013,Maize,3903,Alluvial,7.4,280,39,350,24,28,1316,73,26
+Gujarat,Rajkot,2010,Groundnut,3691,Red,7.2,233,37,353,22,32,1321,78,27
+Madhya Pradesh,Indore,2021,Wheat,3124,Red,7.5,309,40,359,20,36,780,67,28
+Haryana,Hisar,2027,Wheat,3576,Red,7.5,243,40,293,23,31,1313,76,27
+Maharashtra,Pune,2022,Sugarcane,4490,Red,7.3,251,38,301,19,35,1207,53,27
+Kerala,Thrissur,2017,Coconut,3954,Red,6.8,298,33,288,17,36,688,66,26.5
+Andhra Pradesh,Guntur,2027,Rice,2663,Red,7.6,329,41,349,18,36,795,64,27
+Kerala,Thrissur,2024,Coconut,3019,Red,6.8,298,33,288,20,33,1535,60,26.5
+Maharashtra,Pune,2014,Sugarcane,3994,Red,7.3,251,38,301,16,28,1205,53,22
+Assam,Jorhat,2017,Tea,3566,Red,6.3,279,28,309,21,34,1002,55,27.5
+West Bengal,Burdwan,2022,Rice,4247,Alluvial,6.5,262,30,312,16,39,1192,70,27.5
+West Bengal,Cooch Behar,2014,Jute,2823,Alluvial,6.5,264,30,344,22,31,805,54,26.5
+Telangana,Nizamabad,2017,Rice,3627,Red,7.1,312,36,362,16,37,729,77,26.5
+Rajasthan,Jaipur,2013,Bajra,3581,Red,7.5,272,40,322,18,33,1012,74,25.5
+Rajasthan,Jaipur,2022,Bajra,3413,Red,7.5,272,40,322,18,30,1321,59,24
+Kerala,Palakkad,2020,Rice,4025,Red,6.8,272,33,342,22,35,1407,70,28.5
+West Bengal,Cooch Behar,2016,Jute,2738,Alluvial,6.5,264,30,344,20,34,1499,73,27
+Andhra Pradesh,Kurnool,2013,Groundnut,3336,Red,7.6,233,41,343,20,31,1281,82,25.5
+Rajasthan,Kota,2017,Wheat,2846,Red,7.5,310,40,300,18,31,1184,57,24.5
+Tamil Nadu,Thanjavur,2025,Rice,2868,Red,7.1,235,36,325,15,37,1377,73,26
+Kerala,Palakkad,2012,Rice,4544,Red,6.8,272,33,342,23,30,858,77,26.5
+Tamil Nadu,Thanjavur,2015,Rice,3534,Red,7.1,235,36,325,24,37,665,61,30.5
+Maharashtra,Nagpur,2016,Soybean,2733,Red,7.3,313,38,323,23,34,1289,82,28.5
+Assam,Silchar,2024,Rice,4337,Red,6.3,262,28,342,20,31,1480,53,25.5
+Assam,Silchar,2025,Rice,3796,Red,6.3,262,28,342,18,31,1045,52,24.5
+Telangana,Warangal,2019,Cotton,4189,Red,7.1,311,36,281,23,34,1012,55,28.5
+West Bengal,Cooch Behar,2015,Jute,4577,Alluvial,6.5,264,30,344,18,29,1235,82,23.5
+Telangana,Warangal,2027,Cotton,3928,Red,7.1,311,36,281,18,32,1363,83,25
+Punjab,Patiala,2022,Rice,3554,Alluvial,7.4,258,39,338,24,31,1141,78,27.5
+Punjab,Patiala,2010,Rice,3995,Alluvial,7.4,258,39,338,21,30,1057,54,25.5
+Andhra Pradesh,Kurnool,2018,Groundnut,3680,Red,7.6,233,41,343,18,31,1218,77,24.5
+Assam,Jorhat,2011,Tea,3699,Red,6.3,279,28,309,20,38,603,81,29
+Odisha,Cuttack,2011,Rice,4599,Red,6.6,256,31,346,21,29,898,63,25
+Assam,Jorhat,2021,Tea,4200,Red,6.3,279,28,309,22,29,1258,55,25.5
+Assam,Jorhat,2011,Tea,3612,Red,6.3,279,28,309,20,38,689,76,29
+Madhya Pradesh,Bhopal,2023,Soybean,3511,Red,7.5,287,40,357,19,36,776,53,27.5
+Bihar,Bhagalpur,2015,Maize,3106,Alluvial,7.4,280,39,350,17,30,1217,83,23.5
+Karnataka,Raichur,2016,Paddy,3565,Red,7.7,299,42,319,22,34,903,79,28
+Chhattisgarh,Raipur,2016,Rice,3693,Red,7.1,240,36,340,15,29,1456,71,22
+Kerala,Thrissur,2024,Coconut,3115,Red,6.8,298,33,288,24,33,694,78,28.5
+Maharashtra,Pune,2013,Sugarcane,4300,Red,7.3,251,38,301,16,39,1269,78,27.5
+Odisha,Cuttack,2025,Rice,3527,Red,6.6,256,31,346,16,28,869,55,22
+Assam,Jorhat,2013,Tea,3738,Red,6.3,279,28,309,20,38,653,75,29
+Gujarat,Anand,2014,Cotton,4237,Red,7.2,285,37,305,16,33,1249,75,24.5
+Kerala,Thrissur,2023,Coconut,2724,Red,6.8,298,33,288,18,35,1132,58,26.5
+Bihar,Bhagalpur,2020,Maize,3610,Alluvial,7.4,280,39,350,15,39,930,52,27
+Maharashtra,Nagpur,2023,Soybean,4421,Red,7.3,313,38,323,22,29,902,61,25.5
+Rajasthan,Jaipur,2019,Bajra,4040,Red,7.5,272,40,322,22,32,1132,53,27
+Madhya Pradesh,Indore,2018,Wheat,3399,Red,7.5,309,40,359,21,35,1000,74,28
+Telangana,Nizamabad,2024,Rice,4503,Red,7.1,312,36,362,18,34,873,57,26
+Karnataka,Raichur,2019,Paddy,2662,Red,7.7,299,42,319,17,29,1420,75,23
+West Bengal,Burdwan,2019,Rice,3763,Alluvial,6.5,262,30,312,21,37,1276,53,29
+Punjab,Ludhiana,2017,Wheat,3164,Alluvial,7.4,287,39,297,17,31,1101,68,24
+Gujarat,Rajkot,2010,Groundnut,3697,Red,7.2,233,37,353,22,32,1316,84,27
+Kerala,Thrissur,2011,Coconut,4155,Red,6.8,298,33,288,17,29,1040,67,23
+Punjab,Ludhiana,2017,Wheat,3243,Alluvial,7.4,287,39,297,17,31,1168,66,24
+Bihar,Patna,2014,Rice,3920,Alluvial,7.4,287,39,367,24,32,1032,69,28
+Maharashtra,Pune,2012,Sugarcane,3309,Red,7.3,251,38,301,20,34,1032,73,27
+Madhya Pradesh,Indore,2017,Wheat,3628,Red,7.5,309,40,359,19,28,662,56,23.5
+Kerala,Palakkad,2025,Rice,2915,Red,6.8,272,33,342,16,28,1015,82,22
+West Bengal,Cooch Behar,2019,Jute,2626,Alluvial,6.5,264,30,344,21,28,1252,67,24.5
+Maharashtra,Pune,2018,Sugarcane,4180,Red,7.3,251,38,301,23,35,926,57,29
+Gujarat,Rajkot,2013,Groundnut,3762,Red,7.2,233,37,353,19,30,698,62,24.5
+Assam,Silchar,2020,Rice,4630,Red,6.3,262,28,342,21,38,981,67,29.5
+West Bengal,Cooch Behar,2012,Jute,2656,Alluvial,6.5,264,30,344,22,31,793,47,26.5
+Karnataka,Raichur,2017,Paddy,2574,Red,7.7,299,42,319,17,29,1356,73,23
+Chhattisgarh,Raipur,2018,Rice,3388,Red,7.1,240,36,340,22,39,1315,67,30.5
+Uttar Pradesh,Meerut,2012,Wheat,2834,Alluvial,7.1,273,36,343,22,30,823,50,26
+Assam,Silchar,2019,Rice,3770,Red,6.3,262,28,342,21,32,1117,77,26.5
+Gujarat,Anand,2021,Cotton,4473,Red,7.2,285,37,305,18,34,692,74,26
+Rajasthan,Jaipur,2016,Bajra,2917,Red,7.5,272,40,322,20,39,1341,64,29.5
+Odisha,Cuttack,2021,Rice,3948,Red,6.6,256,31,346,17,38,764,68,27.5
+Assam,Jorhat,2022,Tea,3884,Red,6.3,279,28,309,20,37,757,78,28.5
+Kerala,Thrissur,2023,Coconut,3034,Red,6.8,298,33,288,24,32,1282,55,28
+Bihar,Patna,2023,Rice,4316,Alluvial,7.4,287,39,367,16,34,1032,65,25
+Maharashtra,Pune,2012,Sugarcane,2603,Red,7.3,251,38,301,23,29,1438,81,26
+Andhra Pradesh,Guntur,2020,Rice,4310,Red,7.6,329,41,349,24,39,687,61,31.5
+Uttar Pradesh,Meerut,2021,Wheat,4598,Alluvial,7.1,273,36,343,24,38,1229,62,31
+Punjab,Patiala,2022,Rice,3881,Alluvial,7.4,258,39,338,22,37,1169,65,29.5
+West Bengal,Burdwan,2010,Rice,3330,Alluvial,6.5,262,30,312,22,39,752,67,30.5
+Maharashtra,Nagpur,2024,Soybean,4605,Red,7.3,313,38,323,22,29,904,61,25.5
+Karnataka,Mandya,2021,Rice,4349,Red,7.7,233,42,283,16,31,1400,75,23.5
+Kerala,Palakkad,2020,Rice,3288,Red,6.8,272,33,342,21,29,1080,68,25
+Uttar Pradesh,Meerut,2021,Wheat,4660,Alluvial,7.1,273,36,343,24,38,1262,61,31
+Bihar,Patna,2023,Rice,4388,Alluvial,7.4,287,39,367,16,34,959,73,25
+Rajasthan,Kota,2013,Wheat,3657,Red,7.5,310,40,300,16,29,1287,52,22.5
+Kerala,Palakkad,2021,Rice,3399,Red,6.8,272,33,342,21,29,1114,67,25
+Bihar,Patna,2014,Rice,4034,Alluvial,7.4,287,39,367,18,28,1437,63,23
+Gujarat,Rajkot,2016,Groundnut,3067,Red,7.2,233,37,353,17,36,821,73,26.5
+Haryana,Hisar,2014,Wheat,2773,Red,7.5,243,40,293,19,39,1185,69,29
+Karnataka,Raichur,2014,Paddy,4089,Red,7.7,299,42,319,24,31,1305,64,27.5
+Rajasthan,Kota,2024,Wheat,3554,Red,7.5,310,40,300,21,33,968,66,27
+Odisha,Cuttack,2012,Rice,3757,Red,6.6,256,31,346,23,34,1002,76,28.5
+Uttar Pradesh,Varanasi,2025,Rice,4538,Alluvial,7.1,277,36,317,17,36,1242,72,26.5
+Uttar Pradesh,Varanasi,2018,Rice,3715,Alluvial,7.1,277,36,317,15,34,1152,75,24.5
+Haryana,Hisar,2016,Wheat,3153,Red,7.5,243,40,293,20,32,1345,48,26
+Punjab,Patiala,2023,Rice,3578,Alluvial,7.4,258,39,338,24,31,1106,79,27.5
+Tamil Nadu,Thanjavur,2023,Rice,3499,Red,7.1,235,36,325,18,36,846,54,27
+Punjab,Ludhiana,2017,Wheat,3405,Alluvial,7.4,287,39,297,19,30,707,65,24.5
+Rajasthan,Kota,2025,Wheat,3195,Red,7.5,310,40,300,15,39,968,74,27
+Tamil Nadu,Thanjavur,2019,Rice,2862,Red,7.1,235,36,325,24,29,1369,81,26.5
+West Bengal,Cooch Behar,2012,Jute,4432,Alluvial,6.5,264,30,344,22,38,728,73,30
+West Bengal,Burdwan,2022,Rice,4479,Alluvial,6.5,262,30,312,17,32,1301,77,24.5
+Rajasthan,Kota,2025,Wheat,3593,Red,7.5,310,40,300,21,33,970,69,27
+Haryana,Hisar,2019,Wheat,3644,Red,7.5,243,40,293,17,30,704,62,23.5
+Odisha,Sambalpur,2018,Pulses,2815,Red,6.6,242,31,322,21,35,1510,62,28
+Himachal Pradesh,Shimla,2022,Apple,2844,Red,7.3,296,38,356,24,30,1050,72,27
+Maharashtra,Nagpur,2019,Soybean,4668,Red,7.3,313,38,323,16,31,619,74,23.5
+Haryana,Hisar,2017,Wheat,3393,Red,7.5,243,40,293,22,34,794,63,28
+Karnataka,Mandya,2019,Rice,4289,Red,7.7,233,42,283,24,30,866,58,27
+Karnataka,Mandya,2019,Rice,3940,Red,7.7,233,42,283,17,39,1387,71,28
+Uttar Pradesh,Meerut,2023,Wheat,3049,Alluvial,7.1,273,36,343,17,37,1275,65,27
+Rajasthan,Jaipur,2021,Bajra,3400,Red,7.5,272,40,322,18,30,1237,62,24
+Punjab,Ludhiana,2025,Wheat,3727,Alluvial,7.4,287,39,297,21,34,819,65,27.5
+Bihar,Patna,2020,Rice,3099,Alluvial,7.4,287,39,367,18,37,743,73,27.5
+West Bengal,Burdwan,2018,Rice,4434,Alluvial,6.5,262,30,312,19,35,744,50,27
+Telangana,Warangal,2017,Cotton,3021,Red,7.1,311,36,281,24,36,1118,58,30
+Kerala,Palakkad,2022,Rice,3560,Red,6.8,272,33,342,20,30,1362,65,25
+Assam,Silchar,2018,Rice,4652,Red,6.3,262,28,342,20,34,747,56,27
+Kerala,Palakkad,2026,Rice,2998,Red,6.8,272,33,342,16,28,969,81,22
+Punjab,Patiala,2014,Rice,4113,Alluvial,7.4,258,39,338,20,34,1144,80,27
+Tamil Nadu,Thanjavur,2018,Rice,3904,Red,7.1,235,36,325,15,35,1402,55,25
+Assam,Silchar,2012,Rice,4168,Red,6.3,262,28,342,20,33,1276,77,26.5
+Madhya Pradesh,Indore,2023,Wheat,3979,Red,7.5,309,40,359,19,30,697,50,24.5
+Bihar,Bhagalpur,2016,Maize,2885,Alluvial,7.4,280,39,350,19,38,737,68,28.5
+Punjab,Patiala,2019,Rice,4046,Alluvial,7.4,258,39,338,19,37,778,66,28
+Uttar Pradesh,Meerut,2020,Wheat,4574,Alluvial,7.1,273,36,343,22,35,1360,76,28.5
+Gujarat,Anand,2014,Cotton,4085,Red,7.2,285,37,305,16,33,1304,83,24.5
+Uttar Pradesh,Meerut,2024,Wheat,4148,Alluvial,7.1,273,36,343,19,37,1195,64,28
+Rajasthan,Kota,2018,Wheat,3603,Red,7.5,310,40,300,22,35,989,60,28.5
+Assam,Silchar,2019,Rice,3613,Red,6.3,262,28,342,21,32,1078,84,26.5
+Kerala,Thrissur,2022,Coconut,2771,Red,6.8,298,33,288,18,35,1206,61,26.5
+Bihar,Bhagalpur,2023,Maize,2767,Alluvial,7.4,280,39,350,20,34,1390,66,27
+Maharashtra,Pune,2018,Sugarcane,4548,Red,7.3,251,38,301,23,36,1282,55,29.5
+Chhattisgarh,Raipur,2011,Rice,3531,Red,7.1,240,36,340,18,39,1356,59,28.5
+Maharashtra,Pune,2016,Sugarcane,3824,Red,7.3,251,38,301,23,36,1396,53,29.5
+Punjab,Ludhiana,2014,Wheat,4199,Alluvial,7.4,287,39,297,20,32,1146,67,26
+Odisha,Cuttack,2018,Rice,3793,Red,6.6,256,31,346,24,29,1108,66,26.5
+Odisha,Sambalpur,2024,Pulses,3077,Red,6.6,242,31,322,18,37,1178,46,27.5
+Rajasthan,Kota,2024,Wheat,4003,Red,7.5,310,40,300,18,35,918,49,26.5
+Kerala,Thrissur,2017,Coconut,4011,Red,6.8,298,33,288,17,36,661,65,26.5
+Tamil Nadu,Thanjavur,2023,Rice,4266,Red,7.1,235,36,325,23,39,1478,61,31
+Andhra Pradesh,Guntur,2016,Rice,3702,Red,7.6,329,41,349,16,35,1275,56,25.5
+Rajasthan,Kota,2017,Wheat,3719,Red,7.5,310,40,300,22,35,971,54,28.5
+Rajasthan,Kota,2021,Wheat,4188,Red,7.5,310,40,300,15,29,786,77,22
+Gujarat,Rajkot,2012,Groundnut,3000,Red,7.2,233,37,353,18,33,1227,56,25.5
+Maharashtra,Nagpur,2021,Soybean,3936,Red,7.3,313,38,323,19,31,1318,81,25
+Rajasthan,Jaipur,2027,Bajra,3049,Red,7.5,272,40,322,21,33,890,67,27
+Rajasthan,Kota,2024,Wheat,3958,Red,7.5,310,40,300,18,35,885,53,26.5
+Rajasthan,Jaipur,2018,Bajra,3231,Red,7.5,272,40,322,22,29,1325,60,25.5
+West Bengal,Burdwan,2014,Rice,3544,Alluvial,6.5,262,30,312,22,32,888,60,27
+Haryana,Hisar,2026,Wheat,4022,Red,7.5,243,40,293,15,29,1349,58,22
+Haryana,Karnal,2025,Rice,2834,Red,7.5,305,40,365,22,32,1076,54,27
+Andhra Pradesh,Guntur,2019,Rice,2836,Red,7.6,329,41,349,18,32,1364,54,25
+Assam,Jorhat,2019,Tea,3483,Red,6.3,279,28,309,21,34,1150,50,27.5
+Andhra Pradesh,Kurnool,2026,Groundnut,4520,Red,7.6,233,41,343,18,30,847,56,24
+Assam,Silchar,2025,Rice,3814,Red,6.3,262,28,342,18,31,968,59,24.5
+Assam,Jorhat,2023,Tea,2907,Red,6.3,279,28,309,23,28,611,55,25.5
+Uttar Pradesh,Meerut,2020,Wheat,4260,Alluvial,7.1,273,36,343,18,36,653,54,27
+Jharkhand,Ranchi,2013,Maize,3281,Red,7.7,311,42,351,18,33,837,59,25.5
+Maharashtra,Nagpur,2026,Soybean,4643,Red,7.3,313,38,323,21,31,1204,45,26
+Punjab,Ludhiana,2011,Wheat,3051,Alluvial,7.4,287,39,297,21,29,1054,64,25
+Tamil Nadu,Thanjavur,2026,Rice,3083,Red,7.1,235,36,325,23,28,1102,81,25.5
+Punjab,Ludhiana,2025,Wheat,3784,Alluvial,7.4,287,39,297,21,34,709,62,27.5
+Odisha,Sambalpur,2019,Pulses,2804,Red,6.6,242,31,322,21,35,1456,61,28
+Punjab,Patiala,2026,Rice,3808,Alluvial,7.4,258,39,338,21,29,782,81,25
+Punjab,Ludhiana,2015,Wheat,3410,Alluvial,7.4,287,39,297,23,30,1149,70,26.5
+Chhattisgarh,Raipur,2013,Rice,3844,Red,7.1,240,36,340,17,38,950,55,27.5
+West Bengal,Burdwan,2015,Rice,3428,Alluvial,6.5,262,30,312,22,32,987,57,27
+Rajasthan,Jaipur,2013,Bajra,3499,Red,7.5,272,40,322,18,33,1007,70,25.5
+Tamil Nadu,Madurai,2018,Millets,3187,Red,7.1,292,36,352,24,31,1303,77,27.5
+Bihar,Patna,2021,Rice,4328,Alluvial,7.4,287,39,367,16,34,893,67,25
+Andhra Pradesh,Kurnool,2013,Groundnut,3526,Red,7.6,233,41,343,18,34,643,72,26
+Assam,Silchar,2023,Rice,4341,Red,6.3,262,28,342,20,31,1338,58,25.5
+Telangana,Nizamabad,2013,Rice,3923,Red,7.1,312,36,362,23,38,935,64,30.5
+Maharashtra,Pune,2021,Sugarcane,2968,Red,7.3,251,38,301,24,39,660,77,31.5
+Madhya Pradesh,Bhopal,2012,Soybean,3736,Red,7.5,287,40,357,18,30,1082,60,24
+Odisha,Sambalpur,2014,Pulses,3327,Red,6.6,242,31,322,23,28,854,77,25.5
+Karnataka,Raichur,2023,Paddy,2707,Red,7.7,299,42,319,15,29,1060,51,22
+Punjab,Patiala,2014,Rice,2609,Alluvial,7.4,258,39,338,23,35,1327,66,29
+West Bengal,Burdwan,2026,Rice,4458,Alluvial,6.5,262,30,312,20,29,598,65,24.5
+Madhya Pradesh,Bhopal,2019,Soybean,3140,Red,7.5,287,40,357,20,28,1209,63,24
+Madhya Pradesh,Bhopal,2014,Soybean,3083,Red,7.5,287,40,357,17,31,1189,70,24
+Rajasthan,Jaipur,2013,Bajra,3443,Red,7.5,272,40,322,16,31,1323,62,23.5
+Madhya Pradesh,Indore,2024,Wheat,4372,Red,7.5,309,40,359,24,29,936,63,26.5
+Bihar,Patna,2024,Rice,3602,Alluvial,7.4,287,39,367,24,37,1182,74,30.5
+Bihar,Patna,2026,Rice,3782,Alluvial,7.4,287,39,367,22,37,570,56,29.5
+Madhya Pradesh,Indore,2020,Wheat,3224,Red,7.5,309,40,359,20,36,733,65,28
+Bihar,Bhagalpur,2018,Maize,3743,Alluvial,7.4,280,39,350,21,39,1274,72,30
+Karnataka,Mandya,2012,Rice,3792,Red,7.7,233,42,283,18,33,957,58,25.5
+Punjab,Ludhiana,2020,Wheat,2638,Alluvial,7.4,287,39,297,24,33,711,74,28.5
+Uttar Pradesh,Meerut,2020,Wheat,4603,Alluvial,7.1,273,36,343,22,35,1378,72,28.5
+Karnataka,Mandya,2019,Rice,4349,Red,7.7,233,42,283,24,30,892,57,27
+Telangana,Nizamabad,2011,Rice,3379,Red,7.1,312,36,362,23,35,1369,58,29
+Jharkhand,Ranchi,2016,Maize,4057,Red,7.7,311,42,351,17,39,901,73,28
+Uttar Pradesh,Meerut,2010,Wheat,4318,Alluvial,7.1,273,36,343,23,38,669,78,30.5
+Rajasthan,Kota,2016,Wheat,4130,Red,7.5,310,40,300,20,31,1434,48,25.5
+Himachal Pradesh,Shimla,2021,Apple,3441,Red,7.3,296,38,356,17,33,1098,45,25
+Uttar Pradesh,Meerut,2024,Wheat,3002,Alluvial,7.1,273,36,343,18,31,650,56,24.5
+Odisha,Sambalpur,2023,Pulses,3880,Red,6.6,242,31,322,17,39,1177,75,28
+West Bengal,Burdwan,2021,Rice,4089,Alluvial,6.5,262,30,312,21,34,914,78,27.5
+Rajasthan,Kota,2021,Wheat,3432,Red,7.5,310,40,300,18,29,1357,57,23.5
+Andhra Pradesh,Guntur,2018,Rice,3744,Red,7.6,329,41,349,17,29,1078,88,23
+Tamil Nadu,Thanjavur,2013,Rice,4054,Red,7.1,235,36,325,21,37,978,68,29
+Odisha,Sambalpur,2010,Pulses,2993,Red,6.6,242,31,322,21,38,938,51,29.5
+Tamil Nadu,Madurai,2016,Millets,4362,Red,7.1,292,36,352,15,34,944,53,24.5
+Maharashtra,Pune,2026,Sugarcane,2903,Red,7.3,251,38,301,24,29,1392,55,26.5
+Bihar,Patna,2017,Rice,3462,Alluvial,7.4,287,39,367,22,31,724,66,26.5
+Odisha,Sambalpur,2014,Pulses,2764,Red,6.6,242,31,322,21,34,1232,83,27.5
+Maharashtra,Pune,2026,Sugarcane,2743,Red,7.3,251,38,301,24,29,1437,46,26.5
+Maharashtra,Pune,2011,Sugarcane,3533,Red,7.3,251,38,301,20,34,1096,81,27
+Chhattisgarh,Raipur,2012,Rice,3898,Red,7.1,240,36,340,17,38,1101,54,27.5
+Uttar Pradesh,Varanasi,2026,Rice,4463,Alluvial,7.1,277,36,317,23,34,993,46,28.5
+Jharkhand,Ranchi,2011,Maize,3139,Red,7.7,311,42,351,22,33,869,67,27.5
+Bihar,Bhagalpur,2026,Maize,2976,Alluvial,7.4,280,39,350,20,35,836,82,27.5
+Punjab,Ludhiana,2011,Wheat,4195,Alluvial,7.4,287,39,297,17,31,991,49,24
+Haryana,Hisar,2021,Wheat,2967,Red,7.5,243,40,293,21,35,1290,84,28
+Maharashtra,Pune,2016,Sugarcane,4729,Red,7.3,251,38,301,23,36,1321,62,29.5
+Andhra Pradesh,Guntur,2021,Rice,3260,Red,7.6,329,41,349,19,29,802,78,24
+Maharashtra,Nagpur,2023,Soybean,3906,Red,7.3,313,38,323,19,31,1250,75,25
+Bihar,Patna,2025,Rice,3968,Alluvial,7.4,287,39,367,22,37,751,61,29.5
+Telangana,Nizamabad,2024,Rice,3787,Red,7.1,312,36,362,21,33,877,59,27
+Andhra Pradesh,Kurnool,2020,Groundnut,4212,Red,7.6,233,41,343,24,38,680,63,31
+Uttar Pradesh,Meerut,2011,Wheat,4241,Alluvial,7.1,273,36,343,23,38,802,71,30.5
+Assam,Jorhat,2014,Tea,2960,Red,6.3,279,28,309,20,28,1237,76,24
+Madhya Pradesh,Indore,2019,Wheat,3616,Red,7.5,309,40,359,21,35,1033,79,28
+Karnataka,Mandya,2024,Rice,4081,Red,7.7,233,42,283,17,38,1270,65,27.5
+Bihar,Patna,2015,Rice,3717,Alluvial,7.4,287,39,367,17,30,1227,70,23.5
+Gujarat,Anand,2013,Cotton,3164,Red,7.2,285,37,305,20,39,653,60,29.5
+Odisha,Cuttack,2017,Rice,3875,Red,6.6,256,31,346,17,39,695,77,28
+Kerala,Thrissur,2014,Coconut,3404,Red,6.8,298,33,288,23,39,1099,55,31
+Madhya Pradesh,Indore,2025,Wheat,4242,Red,7.5,309,40,359,20,31,925,76,25.5
+Punjab,Ludhiana,2017,Wheat,3504,Alluvial,7.4,287,39,297,19,30,651,64,24.5
+Uttar Pradesh,Varanasi,2027,Rice,4446,Alluvial,7.1,277,36,317,23,34,1034,53,28.5
+Bihar,Bhagalpur,2014,Maize,3651,Alluvial,7.4,280,39,350,24,39,1185,63,31.5
+Rajasthan,Jaipur,2015,Bajra,2873,Red,7.5,272,40,322,20,39,1238,65,29.5
+Madhya Pradesh,Bhopal,2021,Soybean,3237,Red,7.5,287,40,357,18,30,840,71,24
+Kerala,Thrissur,2020,Coconut,3898,Red,6.8,298,33,288,21,35,985,72,28
+Rajasthan,Jaipur,2016,Bajra,2941,Red,7.5,272,40,322,20,39,1406,62,29.5
+Tamil Nadu,Madurai,2017,Millets,4295,Red,7.1,292,36,352,15,34,1002,47,24.5
+Telangana,Warangal,2016,Cotton,4311,Red,7.1,311,36,281,19,36,1336,64,27.5
+Haryana,Hisar,2023,Wheat,3964,Red,7.5,243,40,293,22,34,1109,83,28
+Telangana,Warangal,2021,Cotton,4009,Red,7.1,311,36,281,20,38,1014,74,29
+Maharashtra,Nagpur,2021,Soybean,3895,Red,7.3,313,38,323,19,31,1243,74,25
+Gujarat,Rajkot,2022,Groundnut,3510,Red,7.2,233,37,353,15,35,788,53,25
+West Bengal,Burdwan,2019,Rice,4209,Alluvial,6.5,262,30,312,21,34,1014,76,27.5
+Maharashtra,Nagpur,2024,Soybean,4642,Red,7.3,313,38,323,22,29,964,67,25.5
+West Bengal,Cooch Behar,2023,Jute,2996,Alluvial,6.5,264,30,344,18,39,1339,54,28.5
+Bihar,Patna,2013,Rice,3901,Alluvial,7.4,287,39,367,24,32,1108,70,28
+Bihar,Bhagalpur,2022,Maize,3575,Alluvial,7.4,280,39,350,16,29,883,74,22.5
+Uttar Pradesh,Varanasi,2013,Rice,4156,Alluvial,7.1,277,36,317,22,35,769,76,28.5
+Rajasthan,Jaipur,2025,Bajra,2862,Red,7.5,272,40,322,15,35,868,51,25
+Odisha,Cuttack,2027,Rice,3234,Red,6.6,256,31,346,23,37,980,64,30
+Haryana,Karnal,2025,Rice,4421,Red,7.5,305,40,365,15,39,1356,68,27
+Madhya Pradesh,Indore,2025,Wheat,4411,Red,7.5,309,40,359,20,31,840,68,25.5
+Himachal Pradesh,Shimla,2024,Apple,3675,Red,7.3,296,38,356,15,30,807,56,22.5
+Madhya Pradesh,Bhopal,2012,Soybean,3847,Red,7.5,287,40,357,17,32,1430,70,24.5
+Odisha,Sambalpur,2017,Pulses,3726,Red,6.6,242,31,322,24,32,1098,57,28
+Karnataka,Raichur,2017,Paddy,3531,Red,7.7,299,42,319,21,34,984,63,27.5
+Odisha,Sambalpur,2011,Pulses,2704,Red,6.6,242,31,322,23,29,1000,82,26
+Kerala,Thrissur,2023,Coconut,2581,Red,6.8,298,33,288,18,35,1125,65,26.5
+Telangana,Warangal,2012,Cotton,3980,Red,7.1,311,36,281,17,34,1005,65,25.5
+Gujarat,Rajkot,2011,Groundnut,4157,Red,7.2,233,37,353,20,33,724,80,26.5
+Uttar Pradesh,Varanasi,2024,Rice,4681,Alluvial,7.1,277,36,317,18,29,833,48,23.5
+West Bengal,Cooch Behar,2026,Jute,3380,Alluvial,6.5,264,30,344,21,34,1448,76,27.5
+West Bengal,Cooch Behar,2014,Jute,2674,Alluvial,6.5,264,30,344,22,31,873,47,26.5
+Uttar Pradesh,Varanasi,2016,Rice,3381,Alluvial,7.1,277,36,317,22,29,940,78,25.5
+Punjab,Ludhiana,2011,Wheat,3199,Alluvial,7.4,287,39,297,21,29,910,68,25
+Odisha,Sambalpur,2024,Pulses,3846,Red,6.6,242,31,322,16,36,968,67,26
+Gujarat,Rajkot,2021,Groundnut,3166,Red,7.2,233,37,353,24,29,766,67,26.5
+Uttar Pradesh,Meerut,2021,Wheat,4488,Alluvial,7.1,273,36,343,24,38,1353,62,31
+Karnataka,Mandya,2016,Rice,3979,Red,7.7,233,42,283,22,32,859,81,27
+Assam,Silchar,2017,Rice,3641,Red,6.3,262,28,342,21,32,1045,77,26.5
+Chhattisgarh,Raipur,2018,Rice,2722,Red,7.1,240,36,340,22,34,674,75,28
+Andhra Pradesh,Kurnool,2012,Groundnut,3899,Red,7.6,233,41,343,20,32,789,46,26
+Bihar,Bhagalpur,2022,Maize,3220,Alluvial,7.4,280,39,350,18,36,923,79,27
+West Bengal,Burdwan,2016,Rice,4554,Alluvial,6.5,262,30,312,19,35,669,51,27
+Bihar,Patna,2013,Rice,3889,Alluvial,7.4,287,39,367,18,28,1340,56,23
+Maharashtra,Nagpur,2023,Soybean,4449,Red,7.3,313,38,323,22,29,918,62,25.5
+Andhra Pradesh,Kurnool,2013,Groundnut,3306,Red,7.6,233,41,343,20,31,1395,80,25.5
+Bihar,Bhagalpur,2017,Maize,4514,Alluvial,7.4,280,39,350,22,37,717,75,29.5
+Uttar Pradesh,Varanasi,2017,Rice,3492,Alluvial,7.1,277,36,317,15,34,1055,82,24.5
+Uttar Pradesh,Varanasi,2016,Rice,3589,Alluvial,7.1,277,36,317,22,29,836,84,25.5
+Punjab,Patiala,2024,Rice,3782,Alluvial,7.4,258,39,338,21,29,813,78,25
+Karnataka,Raichur,2020,Paddy,4628,Red,7.7,299,42,319,24,39,671,83,31.5
+Tamil Nadu,Madurai,2017,Millets,4444,Red,7.1,292,36,352,15,34,1026,48,24.5
+Telangana,Warangal,2013,Cotton,4047,Red,7.1,311,36,281,23,35,1438,70,29
+Bihar,Bhagalpur,2010,Maize,2763,Alluvial,7.4,280,39,350,15,28,1048,56,21.5
+Uttar Pradesh,Varanasi,2021,Rice,4245,Alluvial,7.1,277,36,317,16,35,1316,84,25.5
+Karnataka,Mandya,2015,Rice,4617,Red,7.7,233,42,283,21,39,1212,72,30
+Telangana,Warangal,2012,Cotton,4090,Red,7.1,311,36,281,17,34,1120,72,25.5
+Madhya Pradesh,Bhopal,2018,Soybean,3049,Red,7.5,287,40,357,20,28,1196,62,24
+Kerala,Thrissur,2015,Coconut,2880,Red,6.8,298,33,288,21,30,1246,77,25.5
+Chhattisgarh,Raipur,2016,Rice,3757,Red,7.1,240,36,340,15,28,1046,72,21.5
+Odisha,Sambalpur,2012,Pulses,3200,Red,6.6,242,31,322,23,28,871,75,25.5
+Tamil Nadu,Thanjavur,2017,Rice,3640,Red,7.1,235,36,325,15,30,1082,82,22.5
+Karnataka,Raichur,2016,Paddy,3554,Red,7.7,299,42,319,22,34,943,78,28
+Kerala,Palakkad,2023,Rice,4513,Red,6.8,272,33,342,24,37,1307,79,30.5
+Assam,Jorhat,2017,Tea,4158,Red,6.3,279,28,309,20,34,899,69,27
+Karnataka,Raichur,2019,Paddy,4251,Red,7.7,299,42,319,24,37,886,47,30.5
+West Bengal,Cooch Behar,2010,Jute,4429,Alluvial,6.5,264,30,344,22,38,657,75,30
+Haryana,Karnal,2022,Rice,4041,Red,7.5,305,40,365,21,35,1309,56,28
+Andhra Pradesh,Kurnool,2012,Groundnut,3503,Red,7.6,233,41,343,22,32,1415,59,27
+Madhya Pradesh,Indore,2024,Wheat,4461,Red,7.5,309,40,359,20,31,887,73,25.5
+Telangana,Nizamabad,2021,Rice,3780,Red,7.1,312,36,362,17,38,980,78,27.5
+Kerala,Palakkad,2021,Rice,3036,Red,6.8,272,33,342,20,37,1342,62,28.5
+Telangana,Nizamabad,2018,Rice,2996,Red,7.1,312,36,362,23,28,1134,77,25.5
+Rajasthan,Jaipur,2024,Bajra,3327,Red,7.5,272,40,322,21,32,1022,69,26.5
+Bihar,Bhagalpur,2026,Maize,4145,Alluvial,7.4,280,39,350,22,37,650,81,29.5
+Telangana,Nizamabad,2020,Rice,3736,Red,7.1,312,36,362,20,30,1073,53,25
+Karnataka,Mandya,2018,Rice,2982,Red,7.7,233,42,283,21,35,987,76,28
+Punjab,Patiala,2016,Rice,4050,Alluvial,7.4,258,39,338,22,28,1307,76,25
+Haryana,Hisar,2022,Wheat,3023,Red,7.5,243,40,293,21,35,1300,79,28
+Haryana,Karnal,2012,Rice,2974,Red,7.5,305,40,365,19,33,1278,54,26
+Telangana,Nizamabad,2016,Rice,3732,Red,7.1,312,36,362,16,37,729,79,26.5
+Bihar,Patna,2023,Rice,4359,Alluvial,7.4,287,39,367,16,34,849,74,25
+Haryana,Hisar,2017,Wheat,3454,Red,7.5,243,40,293,22,34,753,64,28
+Tamil Nadu,Madurai,2024,Millets,3495,Red,7.1,292,36,352,18,30,1361,55,24
+Odisha,Sambalpur,2020,Pulses,3140,Red,6.6,242,31,322,17,38,659,71,27.5
+Odisha,Cuttack,2021,Rice,3923,Red,6.6,256,31,346,17,38,693,63,27.5
+West Bengal,Cooch Behar,2021,Jute,2848,Alluvial,6.5,264,30,344,17,32,1320,54,24.5
+Odisha,Cuttack,2014,Rice,3638,Red,6.6,256,31,346,23,34,935,80,28.5
+Odisha,Sambalpur,2022,Pulses,3753,Red,6.6,242,31,322,17,39,1360,76,28
+Bihar,Patna,2017,Rice,3720,Alluvial,7.4,287,39,367,17,30,1250,68,23.5
+Bihar,Bhagalpur,2023,Maize,3007,Alluvial,7.4,280,39,350,24,31,1275,77,27.5
+Odisha,Cuttack,2023,Rice,3663,Red,6.6,256,31,346,22,33,926,79,27.5
+Chhattisgarh,Raipur,2021,Rice,3914,Red,7.1,240,36,340,23,30,1356,58,26.5
+Haryana,Karnal,2022,Rice,3970,Red,7.5,305,40,365,23,28,945,66,25.5
+Bihar,Patna,2015,Rice,3309,Alluvial,7.4,287,39,367,19,37,882,67,28
+Uttar Pradesh,Varanasi,2021,Rice,4220,Alluvial,7.1,277,36,317,16,35,1300,81,25.5
+Bihar,Bhagalpur,2024,Maize,4197,Alluvial,7.4,280,39,350,22,37,632,87,29.5
+Rajasthan,Kota,2015,Wheat,3709,Red,7.5,310,40,300,18,30,794,65,24
+Rajasthan,Jaipur,2023,Bajra,3336,Red,7.5,272,40,322,18,30,1310,68,24
+Haryana,Hisar,2018,Wheat,3538,Red,7.5,243,40,293,22,34,775,64,28
+Telangana,Warangal,2017,Cotton,3736,Red,7.1,311,36,281,17,31,606,75,24
+Telangana,Warangal,2022,Cotton,3849,Red,7.1,311,36,281,24,36,934,77,30
+Jharkhand,Ranchi,2016,Maize,3945,Red,7.7,311,42,351,17,39,948,69,28
+Punjab,Ludhiana,2015,Wheat,3181,Alluvial,7.4,287,39,297,23,30,984,73,26.5
+Maharashtra,Pune,2018,Sugarcane,4407,Red,7.3,251,38,301,23,35,800,50,29
+Assam,Silchar,2019,Rice,4370,Red,6.3,262,28,342,21,29,1418,65,25
+Karnataka,Mandya,2013,Rice,4102,Red,7.7,233,42,283,24,31,1307,58,27.5
+Odisha,Sambalpur,2021,Pulses,4055,Red,6.6,242,31,322,19,33,901,70,26
+Himachal Pradesh,Shimla,2020,Apple,3039,Red,7.3,296,38,356,23,39,1266,48,31
+Madhya Pradesh,Bhopal,2020,Soybean,3247,Red,7.5,287,40,357,21,30,949,64,25.5
+Assam,Silchar,2016,Rice,4592,Red,6.3,262,28,342,17,38,682,47,27.5
+Telangana,Nizamabad,2013,Rice,3260,Red,7.1,312,36,362,23,35,1447,54,29
+Uttar Pradesh,Meerut,2017,Wheat,3113,Alluvial,7.1,273,36,343,17,35,1175,65,26
+Punjab,Ludhiana,2017,Wheat,3552,Alluvial,7.4,287,39,297,19,30,761,59,24.5
+Chhattisgarh,Raipur,2014,Rice,3864,Red,7.1,240,36,340,17,38,942,52,27.5
+Himachal Pradesh,Shimla,2017,Apple,3045,Red,7.3,296,38,356,16,36,1108,63,26
+West Bengal,Burdwan,2025,Rice,4571,Alluvial,6.5,262,30,312,21,37,1476,71,29
+Andhra Pradesh,Guntur,2026,Rice,2631,Red,7.6,329,41,349,18,36,731,63,27
+Madhya Pradesh,Bhopal,2017,Soybean,3920,Red,7.5,287,40,357,17,32,1286,71,24.5
+Karnataka,Mandya,2010,Rice,4706,Red,7.7,233,42,283,17,32,1541,53,24.5
+Maharashtra,Pune,2012,Sugarcane,2806,Red,7.3,251,38,301,23,29,1380,83,26
+Kerala,Palakkad,2026,Rice,4044,Red,6.8,272,33,342,24,36,753,81,30
+Rajasthan,Jaipur,2021,Bajra,3400,Red,7.5,272,40,322,18,30,1377,68,24
+Assam,Jorhat,2019,Tea,3104,Red,6.3,279,28,309,21,36,1357,65,28.5
+Rajasthan,Jaipur,2022,Bajra,3321,Red,7.5,272,40,322,18,30,1328,67,24
+Gujarat,Anand,2011,Cotton,3968,Red,7.2,285,37,305,22,28,1318,62,25
+Uttar Pradesh,Varanasi,2022,Rice,4469,Alluvial,7.1,277,36,317,24,29,1420,61,26.5
+Maharashtra,Nagpur,2015,Soybean,3272,Red,7.3,313,38,323,23,34,794,70,28.5
+Jharkhand,Ranchi,2015,Maize,3245,Red,7.7,311,42,351,15,28,896,84,21.5
+Assam,Silchar,2015,Rice,3565,Red,6.3,262,28,342,24,28,1357,52,26
+Andhra Pradesh,Guntur,2023,Rice,4448,Red,7.6,329,41,349,23,38,912,70,30.5
+Karnataka,Mandya,2024,Rice,4024,Red,7.7,233,42,283,17,38,1314,66,27.5
+Haryana,Karnal,2017,Rice,2872,Red,7.5,305,40,365,22,33,684,80,27.5
+Kerala,Thrissur,2012,Coconut,4147,Red,6.8,298,33,288,23,32,939,76,27.5
+Odisha,Cuttack,2026,Rice,3694,Red,6.6,256,31,346,16,28,935,47,22
+Andhra Pradesh,Kurnool,2024,Groundnut,3124,Red,7.6,233,41,343,21,36,631,53,28.5
+Odisha,Cuttack,2023,Rice,4744,Red,6.6,256,31,346,18,38,1343,71,28
+Kerala,Thrissur,2012,Coconut,4088,Red,6.8,298,33,288,23,32,985,83,27.5
+Uttar Pradesh,Meerut,2016,Wheat,3172,Alluvial,7.1,273,36,343,17,35,1071,67,26
+Assam,Silchar,2023,Rice,4704,Red,6.3,262,28,342,20,36,812,78,28
+Gujarat,Anand,2012,Cotton,4327,Red,7.2,285,37,305,18,29,1088,52,23.5
+Tamil Nadu,Thanjavur,2014,Rice,3115,Red,7.1,235,36,325,17,37,982,57,27
+Haryana,Hisar,2018,Wheat,3692,Red,7.5,243,40,293,17,30,719,71,23.5
+Madhya Pradesh,Bhopal,2022,Soybean,3618,Red,7.5,287,40,357,19,36,703,52,27.5
+Chhattisgarh,Raipur,2018,Rice,3245,Red,7.1,240,36,340,23,30,1510,68,26.5
+Assam,Silchar,2015,Rice,3518,Red,6.3,262,28,342,24,28,1359,57,26
+Tamil Nadu,Thanjavur,2026,Rice,2889,Red,7.1,235,36,325,15,37,1401,76,26
+Haryana,Hisar,2013,Wheat,2824,Red,7.5,243,40,293,15,28,999,49,21.5
+Odisha,Cuttack,2013,Rice,3629,Red,6.6,256,31,346,23,34,873,73,28.5
+Karnataka,Mandya,2015,Rice,4523,Red,7.7,233,42,283,21,39,1307,72,30
+Himachal Pradesh,Shimla,2026,Apple,3738,Red,7.3,296,38,356,15,30,825,55,22.5
+West Bengal,Burdwan,2013,Rice,3445,Alluvial,6.5,262,30,312,22,33,852,79,27.5
+Madhya Pradesh,Indore,2017,Wheat,3539,Red,7.5,309,40,359,19,28,814,54,23.5
+Gujarat,Anand,2021,Cotton,4304,Red,7.2,285,37,305,18,34,638,75,26
+West Bengal,Cooch Behar,2014,Jute,2706,Alluvial,6.5,264,30,344,22,31,798,54,26.5
+Madhya Pradesh,Indore,2022,Wheat,3219,Red,7.5,309,40,359,20,36,710,66,28
+Gujarat,Anand,2019,Cotton,4103,Red,7.2,285,37,305,20,28,1170,77,24
+Karnataka,Raichur,2022,Paddy,4251,Red,7.7,299,42,319,17,29,1363,77,23
+Tamil Nadu,Madurai,2018,Millets,3280,Red,7.1,292,36,352,24,31,1253,75,27.5
+West Bengal,Cooch Behar,2015,Jute,4643,Alluvial,6.5,264,30,344,22,30,1011,66,26
+Jharkhand,Ranchi,2025,Maize,3029,Red,7.7,311,42,351,22,33,1211,73,27.5
+Maharashtra,Pune,2013,Sugarcane,2733,Red,7.3,251,38,301,23,29,1310,78,26
+West Bengal,Cooch Behar,2026,Jute,3707,Alluvial,6.5,264,30,344,20,32,715,85,26
+Maharashtra,Pune,2016,Sugarcane,3928,Red,7.3,251,38,301,23,31,893,65,27
+Gujarat,Rajkot,2016,Groundnut,4069,Red,7.2,233,37,353,16,33,1226,64,24.5
+Madhya Pradesh,Indore,2013,Wheat,3068,Red,7.5,309,40,359,17,37,1252,60,27
+Haryana,Karnal,2019,Rice,3218,Red,7.5,305,40,365,17,32,641,75,24.5
+Karnataka,Raichur,2013,Paddy,3749,Red,7.7,299,42,319,18,31,875,61,24.5
+Chhattisgarh,Raipur,2015,Rice,4260,Red,7.1,240,36,340,21,33,673,63,27
+West Bengal,Cooch Behar,2020,Jute,3737,Alluvial,6.5,264,30,344,17,36,1192,57,26.5
+Tamil Nadu,Thanjavur,2018,Rice,3282,Red,7.1,235,36,325,24,30,1197,80,27
+Madhya Pradesh,Indore,2018,Wheat,4270,Red,7.5,309,40,359,20,35,1229,55,27.5
+Chhattisgarh,Raipur,2016,Rice,3823,Red,7.1,240,36,340,15,29,1390,69,22
+Chhattisgarh,Raipur,2024,Rice,3893,Red,7.1,240,36,340,15,37,1282,61,26
+Uttar Pradesh,Meerut,2011,Wheat,4193,Alluvial,7.1,273,36,343,23,38,747,75,30.5
+Rajasthan,Kota,2015,Wheat,3557,Red,7.5,310,40,300,18,30,833,66,24
+Madhya Pradesh,Bhopal,2013,Soybean,3174,Red,7.5,287,40,357,21,32,1004,66,26.5
+Uttar Pradesh,Varanasi,2019,Rice,3682,Alluvial,7.1,277,36,317,15,34,993,78,24.5
+Uttar Pradesh,Meerut,2025,Wheat,3159,Alluvial,7.1,273,36,343,18,31,670,61,24.5
+Bihar,Patna,2024,Rice,3945,Alluvial,7.4,287,39,367,22,37,707,64,29.5
+Andhra Pradesh,Guntur,2011,Rice,3676,Red,7.6,329,41,349,18,29,672,78,23.5
+Rajasthan,Kota,2014,Wheat,4082,Red,7.5,310,40,300,18,36,1185,68,27
+Jharkhand,Ranchi,2018,Maize,3731,Red,7.7,311,42,351,23,31,724,83,27
+Madhya Pradesh,Indore,2015,Wheat,4166,Red,7.5,309,40,359,19,39,756,84,29
+Himachal Pradesh,Shimla,2024,Apple,3647,Red,7.3,296,38,356,15,30,941,60,22.5
+Odisha,Cuttack,2014,Rice,3789,Red,6.6,256,31,346,23,34,948,81,28.5
+Tamil Nadu,Madurai,2026,Millets,4233,Red,7.1,292,36,352,23,36,1073,75,29.5
+Haryana,Karnal,2018,Rice,2929,Red,7.5,305,40,365,22,33,712,79,27.5
+Haryana,Hisar,2022,Wheat,3786,Red,7.5,243,40,293,23,35,883,63,29
+Odisha,Cuttack,2016,Rice,3647,Red,6.6,256,31,346,21,39,1353,86,30
+Telangana,Warangal,2012,Cotton,4135,Red,7.1,311,36,281,23,35,1311,65,29
+Kerala,Thrissur,2021,Coconut,3079,Red,6.8,298,33,288,20,33,1216,66,26.5
+Madhya Pradesh,Bhopal,2011,Soybean,3724,Red,7.5,287,40,357,17,32,1330,73,24.5
+Rajasthan,Kota,2013,Wheat,4084,Red,7.5,310,40,300,18,36,1198,73,27
+Haryana,Hisar,2022,Wheat,3138,Red,7.5,243,40,293,21,35,1282,81,28
+Andhra Pradesh,Kurnool,2015,Groundnut,3932,Red,7.6,233,41,343,16,32,1178,52,24
+Tamil Nadu,Madurai,2023,Millets,3385,Red,7.1,292,36,352,18,30,1431,49,24
+Rajasthan,Jaipur,2013,Bajra,4551,Red,7.5,272,40,322,16,28,834,60,22
+Bihar,Patna,2021,Rice,4491,Alluvial,7.4,287,39,367,16,34,1034,73,25
+Haryana,Hisar,2022,Wheat,3127,Red,7.5,243,40,293,21,35,1375,84,28
+Uttar Pradesh,Varanasi,2014,Rice,3457,Alluvial,7.1,277,36,317,22,29,879,80,25.5
+Punjab,Patiala,2017,Rice,2811,Alluvial,7.4,258,39,338,17,34,1163,76,25.5
+Uttar Pradesh,Meerut,2014,Wheat,3215,Alluvial,7.1,273,36,343,22,28,781,79,25
+Himachal Pradesh,Shimla,2021,Apple,3476,Red,7.3,296,38,356,16,37,906,57,26.5
+Karnataka,Raichur,2019,Paddy,4450,Red,7.7,299,42,319,24,37,878,54,30.5
+Maharashtra,Pune,2022,Sugarcane,4533,Red,7.3,251,38,301,19,35,1227,46,27
+Punjab,Patiala,2026,Rice,4448,Alluvial,7.4,258,39,338,19,36,1051,60,27.5
+Kerala,Thrissur,2014,Coconut,4123,Red,6.8,298,33,288,23,32,826,76,27.5
+Assam,Silchar,2012,Rice,4043,Red,6.3,262,28,342,20,33,1262,76,26.5
+Punjab,Ludhiana,2011,Wheat,4217,Alluvial,7.4,287,39,297,17,31,931,45,24
+Andhra Pradesh,Guntur,2016,Rice,4366,Red,7.6,329,41,349,17,32,1194,78,24.5
+Andhra Pradesh,Kurnool,2013,Groundnut,3498,Red,7.6,233,41,343,18,34,666,77,26
+Andhra Pradesh,Kurnool,2023,Groundnut,3006,Red,7.6,233,41,343,19,35,737,70,27
+Karnataka,Mandya,2023,Rice,3959,Red,7.7,233,42,283,17,38,1404,59,27.5
+Rajasthan,Kota,2013,Wheat,4128,Red,7.5,310,40,300,18,36,1154,68,27
+Madhya Pradesh,Bhopal,2026,Soybean,3108,Red,7.5,287,40,357,19,29,743,84,24
+Madhya Pradesh,Indore,2025,Wheat,3688,Red,7.5,309,40,359,21,39,1263,76,30
+Rajasthan,Kota,2018,Wheat,3773,Red,7.5,310,40,300,22,35,1007,60,28.5
+Telangana,Warangal,2019,Cotton,3130,Red,7.1,311,36,281,24,36,1039,61,30
+Uttar Pradesh,Meerut,2013,Wheat,3069,Alluvial,7.1,273,36,343,18,37,1199,58,27.5
+Karnataka,Mandya,2013,Rice,3798,Red,7.7,233,42,283,18,33,964,63,25.5
+Chhattisgarh,Raipur,2026,Rice,4054,Red,7.1,240,36,340,15,37,1347,61,26
+Andhra Pradesh,Kurnool,2022,Groundnut,4363,Red,7.6,233,41,343,21,30,1265,64,25.5
+Gujarat,Anand,2014,Cotton,4369,Red,7.2,285,37,305,18,29,1120,52,23.5
+Odisha,Cuttack,2023,Rice,3246,Red,6.6,256,31,346,17,37,1331,83,27
+Kerala,Palakkad,2019,Rice,4097,Red,6.8,272,33,342,22,35,1374,72,28.5
+West Bengal,Burdwan,2019,Rice,3586,Alluvial,6.5,262,30,312,21,37,1344,47,29
+Andhra Pradesh,Kurnool,2012,Groundnut,3901,Red,7.6,233,41,343,20,32,788,52,26
+Gujarat,Rajkot,2020,Groundnut,3989,Red,7.2,233,37,353,18,37,634,82,27.5
+Madhya Pradesh,Indore,2012,Wheat,2755,Red,7.5,309,40,359,18,30,1192,61,24
+Odisha,Sambalpur,2025,Pulses,4087,Red,6.6,242,31,322,23,34,1050,55,28.5
+Kerala,Thrissur,2013,Coconut,2985,Red,6.8,298,33,288,21,30,1242,78,25.5
+Punjab,Ludhiana,2019,Wheat,3637,Alluvial,7.4,287,39,297,18,34,1093,51,26
+Andhra Pradesh,Kurnool,2024,Groundnut,3323,Red,7.6,233,41,343,21,36,712,57,28.5
+Punjab,Patiala,2022,Rice,3803,Alluvial,7.4,258,39,338,22,37,1003,64,29.5
+West Bengal,Burdwan,2023,Rice,3973,Alluvial,6.5,262,30,312,21,38,1205,65,29.5
+Tamil Nadu,Madurai,2023,Millets,3899,Red,7.1,292,36,352,18,33,960,76,25.5
+Haryana,Karnal,2020,Rice,3932,Red,7.5,305,40,365,23,34,760,67,28.5
+Tamil Nadu,Thanjavur,2018,Rice,3361,Red,7.1,235,36,325,24,30,1215,77,27
+Chhattisgarh,Raipur,2013,Rice,4058,Red,7.1,240,36,340,21,33,747,61,27
+Telangana,Warangal,2016,Cotton,3577,Red,7.1,311,36,281,17,31,576,70,24
+Andhra Pradesh,Kurnool,2016,Groundnut,4566,Red,7.6,233,41,343,17,39,1070,53,28
+Tamil Nadu,Madurai,2016,Millets,3175,Red,7.1,292,36,352,15,36,1346,67,25.5
+Assam,Silchar,2014,Rice,4043,Red,6.3,262,28,342,23,39,665,74,31
+Kerala,Thrissur,2025,Coconut,3131,Red,6.8,298,33,288,24,32,1233,52,28
+Telangana,Warangal,2015,Cotton,4668,Red,7.1,311,36,281,16,31,815,87,23.5
+Punjab,Ludhiana,2012,Wheat,3037,Alluvial,7.4,287,39,297,21,29,1031,66,25
+Tamil Nadu,Madurai,2012,Millets,3538,Red,7.1,292,36,352,19,34,766,76,26.5
+Odisha,Sambalpur,2018,Pulses,3843,Red,6.6,242,31,322,24,32,1061,59,28
+Karnataka,Raichur,2015,Paddy,3593,Red,7.7,299,42,319,22,34,859,73,28
+Chhattisgarh,Raipur,2022,Rice,2926,Red,7.1,240,36,340,17,34,925,76,25.5
+Odisha,Cuttack,2025,Rice,3598,Red,6.6,256,31,346,16,28,950,50,22
+Madhya Pradesh,Indore,2024,Wheat,4244,Red,7.5,309,40,359,20,31,937,76,25.5
+Jharkhand,Ranchi,2012,Maize,3581,Red,7.7,311,42,351,20,38,1239,77,29
+West Bengal,Cooch Behar,2022,Jute,3255,Alluvial,6.5,264,30,344,16,30,1153,52,23
+Punjab,Ludhiana,2020,Wheat,2689,Alluvial,7.4,287,39,297,24,33,624,79,28.5
+Andhra Pradesh,Guntur,2018,Rice,3970,Red,7.6,329,41,349,23,32,952,54,27.5
+Andhra Pradesh,Kurnool,2023,Groundnut,2866,Red,7.6,233,41,343,19,35,754,70,27
+Himachal Pradesh,Shimla,2018,Apple,3004,Red,7.3,296,38,356,23,39,1424,50,31
+Maharashtra,Pune,2019,Sugarcane,2919,Red,7.3,251,38,301,24,39,656,82,31.5
+West Bengal,Burdwan,2014,Rice,3412,Alluvial,6.5,262,30,312,18,30,1199,80,24
+Bihar,Bhagalpur,2025,Maize,2869,Alluvial,7.4,280,39,350,20,35,803,79,27.5
+Rajasthan,Jaipur,2020,Bajra,2806,Red,7.5,272,40,322,17,39,1044,66,28
+Jharkhand,Ranchi,2019,Maize,3879,Red,7.7,311,42,351,23,31,814,74,27
+Tamil Nadu,Madurai,2018,Millets,3219,Red,7.1,292,36,352,24,31,1330,76,27.5
+Assam,Jorhat,2013,Tea,2852,Red,6.3,279,28,309,20,28,1312,78,24
+West Bengal,Cooch Behar,2012,Jute,2731,Alluvial,6.5,264,30,344,22,31,828,55,26.5
+Maharashtra,Pune,2025,Sugarcane,3358,Red,7.3,251,38,301,21,35,1285,62,28
+West Bengal,Cooch Behar,2015,Jute,4510,Alluvial,6.5,264,30,344,18,29,1185,84,23.5
+Rajasthan,Kota,2016,Wheat,3729,Red,7.5,310,40,300,18,30,841,65,24
+Himachal Pradesh,Shimla,2025,Apple,3494,Red,7.3,296,38,356,20,30,695,73,25
+Andhra Pradesh,Guntur,2020,Rice,3545,Red,7.6,329,41,349,21,36,1171,67,28.5
+Uttar Pradesh,Meerut,2010,Wheat,4309,Alluvial,7.1,273,36,343,23,38,815,70,30.5
+Bihar,Patna,2018,Rice,3290,Alluvial,7.4,287,39,367,22,31,684,71,26.5
+Assam,Jorhat,2017,Tea,4236,Red,6.3,279,28,309,20,34,884,70,27
+Telangana,Nizamabad,2027,Rice,4347,Red,7.1,312,36,362,18,38,1278,79,28
+Andhra Pradesh,Guntur,2020,Rice,4210,Red,7.6,329,41,349,24,39,666,60,31.5
+Tamil Nadu,Thanjavur,2012,Rice,3968,Red,7.1,235,36,325,21,37,1053,71,29
+Tamil Nadu,Madurai,2021,Millets,2903,Red,7.1,292,36,352,15,31,1141,57,23
+West Bengal,Cooch Behar,2023,Jute,3635,Alluvial,6.5,264,30,344,21,39,1156,86,30
+Punjab,Ludhiana,2011,Wheat,3176,Alluvial,7.4,287,39,297,21,29,1054,64,25
+Uttar Pradesh,Meerut,2017,Wheat,2992,Alluvial,7.1,273,36,343,17,35,1067,65,26
+West Bengal,Burdwan,2013,Rice,3377,Alluvial,6.5,262,30,312,18,30,1210,79,24
+Maharashtra,Pune,2013,Sugarcane,2695,Red,7.3,251,38,301,23,29,1389,76,26
+Assam,Jorhat,2011,Tea,3737,Red,6.3,279,28,309,20,38,569,75,29
+Punjab,Ludhiana,2025,Wheat,3778,Alluvial,7.4,287,39,297,21,34,833,65,27.5
+West Bengal,Cooch Behar,2023,Jute,3035,Alluvial,6.5,264,30,344,18,39,1373,52,28.5
+Uttar Pradesh,Varanasi,2014,Rice,3408,Alluvial,7.1,277,36,317,22,29,875,82,25.5
+Madhya Pradesh,Bhopal,2026,Soybean,3103,Red,7.5,287,40,357,19,29,744,79,24
+Maharashtra,Nagpur,2020,Soybean,3304,Red,7.3,313,38,323,23,33,881,66,28
+Gujarat,Anand,2017,Cotton,3911,Red,7.2,285,37,305,17,30,758,71,23.5
+Karnataka,Mandya,2021,Rice,4455,Red,7.7,233,42,283,16,31,1443,81,23.5
+Odisha,Sambalpur,2024,Pulses,3757,Red,6.6,242,31,322,17,39,1244,73,28
+Gujarat,Rajkot,2013,Groundnut,3886,Red,7.2,233,37,353,19,30,721,56,24.5
+Kerala,Thrissur,2025,Coconut,3127,Red,6.8,298,33,288,24,32,1368,55,28
+Bihar,Patna,2025,Rice,3607,Alluvial,7.4,287,39,367,24,37,1318,77,30.5
+Bihar,Bhagalpur,2020,Maize,3602,Alluvial,7.4,280,39,350,21,39,1321,71,30
+Andhra Pradesh,Guntur,2011,Rice,3441,Red,7.6,329,41,349,18,29,589,79,23.5
+Telangana,Warangal,2013,Cotton,3890,Red,7.1,311,36,281,23,28,885,54,25.5
+Telangana,Nizamabad,2014,Rice,3999,Red,7.1,312,36,362,23,38,740,61,30.5
+Telangana,Warangal,2014,Cotton,3973,Red,7.1,311,36,281,23,28,744,56,25.5
+Bihar,Patna,2021,Rice,2651,Alluvial,7.4,287,39,367,15,30,852,54,22.5
+Karnataka,Raichur,2022,Paddy,2658,Red,7.7,299,42,319,16,38,1332,49,27
+Tamil Nadu,Thanjavur,2022,Rice,4316,Red,7.1,235,36,325,23,39,1356,52,31
+Odisha,Sambalpur,2020,Pulses,2828,Red,6.6,242,31,322,21,35,1399,66,28
+Gujarat,Rajkot,2014,Groundnut,3910,Red,7.2,233,37,353,19,30,617,59,24.5
+Chhattisgarh,Raipur,2026,Rice,3975,Red,7.1,240,36,340,15,37,1297,61,26
+Odisha,Cuttack,2020,Rice,4043,Red,6.6,256,31,346,17,38,672,68,27.5
+Gujarat,Anand,2014,Cotton,4539,Red,7.2,285,37,305,18,29,1243,57,23.5
+Madhya Pradesh,Indore,2021,Wheat,3081,Red,7.5,309,40,359,20,36,648,73,28
+Odisha,Sambalpur,2012,Pulses,2967,Red,6.6,242,31,322,21,38,874,56,29.5
+Assam,Silchar,2019,Rice,3813,Red,6.3,262,28,342,21,32,1146,75,26.5
+Jharkhand,Ranchi,2025,Maize,2812,Red,7.7,311,42,351,22,33,1082,72,27.5
+Punjab,Ludhiana,2025,Wheat,3809,Alluvial,7.4,287,39,297,21,34,671,64,27.5
+Chhattisgarh,Raipur,2021,Rice,4138,Red,7.1,240,36,340,23,33,1338,47,28
+Uttar Pradesh,Varanasi,2025,Rice,4452,Alluvial,7.1,277,36,317,23,34,985,47,28.5
+Maharashtra,Nagpur,2013,Soybean,4489,Red,7.3,313,38,323,16,31,1293,83,23.5
+Madhya Pradesh,Bhopal,2023,Soybean,3879,Red,7.5,287,40,357,20,35,871,79,27.5
+Uttar Pradesh,Meerut,2016,Wheat,4139,Alluvial,7.1,273,36,343,24,32,695,62,28
+Kerala,Thrissur,2022,Coconut,2596,Red,6.8,298,33,288,18,35,1152,59,26.5
+Kerala,Thrissur,2022,Coconut,3835,Red,6.8,298,33,288,21,35,1056,73,28
+Haryana,Karnal,2013,Rice,4004,Red,7.5,305,40,365,23,33,1079,77,28
+Telangana,Warangal,2025,Cotton,3756,Red,7.1,311,36,281,18,32,1411,82,25
+Maharashtra,Pune,2013,Sugarcane,2774,Red,7.3,251,38,301,23,29,1430,78,26
+Karnataka,Mandya,2024,Rice,3958,Red,7.7,233,42,283,17,38,1391,59,27.5
+Maharashtra,Nagpur,2021,Soybean,4007,Red,7.3,313,38,323,19,31,1253,77,25
+Telangana,Warangal,2021,Cotton,4141,Red,7.1,311,36,281,17,36,1065,65,26.5
+Gujarat,Anand,2013,Cotton,4460,Red,7.2,285,37,305,18,29,1138,60,23.5
+Rajasthan,Jaipur,2012,Bajra,3453,Red,7.5,272,40,322,16,31,1245,60,23.5
+Maharashtra,Nagpur,2020,Soybean,3373,Red,7.3,313,38,323,23,33,815,60,28
+Assam,Jorhat,2011,Tea,3637,Red,6.3,279,28,309,20,38,664,76,29
+Jharkhand,Ranchi,2018,Maize,3837,Red,7.7,311,42,351,23,31,814,75,27
+Assam,Jorhat,2017,Tea,3708,Red,6.3,279,28,309,21,34,1121,49,27.5
+Uttar Pradesh,Varanasi,2014,Rice,4118,Alluvial,7.1,277,36,317,22,35,802,68,28.5
+Karnataka,Raichur,2013,Paddy,3919,Red,7.7,299,42,319,18,32,792,54,25
+Tamil Nadu,Thanjavur,2021,Rice,4220,Red,7.1,235,36,325,23,39,1427,55,31
+Maharashtra,Nagpur,2020,Soybean,3664,Red,7.3,313,38,323,24,30,714,64,27
+Assam,Jorhat,2017,Tea,3565,Red,6.3,279,28,309,24,39,1263,79,31.5
+Odisha,Cuttack,2020,Rice,4637,Red,6.6,256,31,346,19,30,816,48,24.5
+Bihar,Patna,2026,Rice,3540,Alluvial,7.4,287,39,367,20,32,798,81,26
+Maharashtra,Pune,2017,Sugarcane,4072,Red,7.3,251,38,301,23,31,849,68,27
+Gujarat,Anand,2025,Cotton,3474,Red,7.2,285,37,305,23,32,1410,72,27.5
+Karnataka,Mandya,2020,Rice,4260,Red,7.7,233,42,283,24,30,841,55,27
+Telangana,Nizamabad,2020,Rice,3780,Red,7.1,312,36,362,20,30,970,59,25
+Bihar,Patna,2017,Rice,3483,Alluvial,7.4,287,39,367,22,31,616,67,26.5
+Andhra Pradesh,Kurnool,2018,Groundnut,4599,Red,7.6,233,41,343,17,39,1058,48,28
+Karnataka,Raichur,2015,Paddy,4301,Red,7.7,299,42,319,21,30,1214,57,25.5
+Rajasthan,Jaipur,2018,Bajra,3710,Red,7.5,272,40,322,18,33,1037,66,25.5
+Haryana,Hisar,2023,Wheat,3996,Red,7.5,243,40,293,22,34,1184,81,28
+Andhra Pradesh,Kurnool,2018,Groundnut,4609,Red,7.6,233,41,343,17,39,1067,48,28
+Uttar Pradesh,Meerut,2018,Wheat,4279,Alluvial,7.1,273,36,343,18,36,841,57,27
+Telangana,Nizamabad,2019,Rice,3889,Red,7.1,312,36,362,20,30,941,53,25
+Tamil Nadu,Madurai,2012,Millets,2607,Red,7.1,292,36,352,21,38,1070,79,29.5
+Maharashtra,Nagpur,2018,Soybean,4718,Red,7.3,313,38,323,16,31,748,76,23.5
+Assam,Jorhat,2016,Tea,4112,Red,6.3,279,28,309,20,34,791,73,27
+West Bengal,Cooch Behar,2024,Jute,3194,Alluvial,6.5,264,30,344,21,34,1338,78,27.5
+Karnataka,Mandya,2021,Rice,4353,Red,7.7,233,42,283,16,31,1348,81,23.5
+Maharashtra,Pune,2013,Sugarcane,4138,Red,7.3,251,38,301,16,39,1225,78,27.5
+Punjab,Ludhiana,2012,Wheat,3758,Alluvial,7.4,287,39,297,23,33,1175,60,28
+Punjab,Patiala,2026,Rice,4518,Alluvial,7.4,258,39,338,19,36,1052,52,27.5
+Telangana,Warangal,2017,Cotton,3054,Red,7.1,311,36,281,24,36,1182,67,30
+Telangana,Warangal,2012,Cotton,4031,Red,7.1,311,36,281,23,28,887,50,25.5
+Tamil Nadu,Madurai,2013,Millets,2594,Red,7.1,292,36,352,21,38,963,79,29.5
+Karnataka,Raichur,2019,Paddy,2653,Red,7.7,299,42,319,17,29,1433,74,23
+Jharkhand,Ranchi,2019,Maize,4068,Red,7.7,311,42,351,20,33,695,52,26.5
+Madhya Pradesh,Indore,2012,Wheat,2733,Red,7.5,309,40,359,18,30,1041,64,24
+Rajasthan,Jaipur,2026,Bajra,3015,Red,7.5,272,40,322,15,35,972,55,25
+Bihar,Patna,2013,Rice,3861,Alluvial,7.4,287,39,367,18,28,1320,64,23
+Madhya Pradesh,Indore,2019,Wheat,3459,Red,7.5,309,40,359,18,29,850,70,23.5
+Haryana,Karnal,2013,Rice,2975,Red,7.5,305,40,365,15,34,1002,57,24.5
+Jharkhand,Ranchi,2023,Maize,4397,Red,7.7,311,42,351,20,28,746,66,24
+Telangana,Nizamabad,2020,Rice,2922,Red,7.1,312,36,362,23,28,1046,73,25.5
+Jharkhand,Ranchi,2019,Maize,4060,Red,7.7,311,42,351,20,33,645,51,26.5
+Andhra Pradesh,Kurnool,2020,Groundnut,4227,Red,7.6,233,41,343,21,30,1246,60,25.5
+Haryana,Hisar,2010,Wheat,4638,Red,7.5,243,40,293,21,37,1301,53,29
+Jharkhand,Ranchi,2013,Maize,4136,Red,7.7,311,42,351,23,38,975,77,30.5
+Punjab,Ludhiana,2014,Wheat,3404,Alluvial,7.4,287,39,297,23,30,998,65,26.5
+Tamil Nadu,Madurai,2017,Millets,3257,Red,7.1,292,36,352,24,31,1183,72,27.5
+Tamil Nadu,Thanjavur,2023,Rice,4041,Red,7.1,235,36,325,18,37,1352,79,27.5
+Jharkhand,Ranchi,2022,Maize,4056,Red,7.7,311,42,351,21,38,1409,60,29.5
+Uttar Pradesh,Varanasi,2013,Rice,4087,Alluvial,7.1,277,36,317,19,31,976,51,25
+Assam,Silchar,2016,Rice,3507,Red,6.3,262,28,342,24,28,1349,60,26
+Karnataka,Mandya,2025,Rice,4198,Red,7.7,233,42,283,15,32,954,52,23.5
+Tamil Nadu,Madurai,2013,Millets,2673,Red,7.1,292,36,352,21,38,1068,81,29.5
+Karnataka,Raichur,2022,Paddy,3193,Red,7.7,299,42,319,23,31,1042,68,27
+Tamil Nadu,Madurai,2010,Millets,3750,Red,7.1,292,36,352,19,34,702,76,26.5
+Punjab,Ludhiana,2011,Wheat,4294,Alluvial,7.4,287,39,297,17,31,843,51,24
+Haryana,Hisar,2023,Wheat,3937,Red,7.5,243,40,293,22,34,1094,77,28
+Uttar Pradesh,Varanasi,2023,Rice,4263,Alluvial,7.1,277,36,317,24,29,1333,64,26.5
+Madhya Pradesh,Indore,2011,Wheat,3754,Red,7.5,309,40,359,21,35,918,80,28
+Andhra Pradesh,Kurnool,2018,Groundnut,3615,Red,7.6,233,41,343,18,31,1249,76,24.5
+Telangana,Warangal,2022,Cotton,3918,Red,7.1,311,36,281,24,36,1119,77,30
+Maharashtra,Nagpur,2021,Soybean,4036,Red,7.3,313,38,323,19,31,1266,76,25
+Gujarat,Rajkot,2017,Groundnut,3342,Red,7.2,233,37,353,22,38,1319,70,30
+Assam,Jorhat,2017,Tea,4134,Red,6.3,279,28,309,20,34,793,67,27
+Assam,Jorhat,2026,Tea,3432,Red,6.3,279,28,309,18,37,1057,79,27.5
+West Bengal,Burdwan,2012,Rice,3265,Alluvial,6.5,262,30,312,21,39,1002,76,30
+Tamil Nadu,Thanjavur,2023,Rice,4092,Red,7.1,235,36,325,18,37,1450,76,27.5
+Telangana,Nizamabad,2025,Rice,4335,Red,7.1,312,36,362,18,38,1409,80,28
+Uttar Pradesh,Meerut,2011,Wheat,4295,Alluvial,7.1,273,36,343,23,38,795,69,30.5
+West Bengal,Cooch Behar,2018,Jute,3804,Alluvial,6.5,264,30,344,17,36,1133,61,26.5
+Andhra Pradesh,Kurnool,2016,Groundnut,3954,Red,7.6,233,41,343,17,31,1272,66,24
+Haryana,Karnal,2024,Rice,2691,Red,7.5,305,40,365,22,32,1058,48,27
+Haryana,Karnal,2025,Rice,3031,Red,7.5,305,40,365,23,29,1438,51,26
+Gujarat,Anand,2027,Cotton,3777,Red,7.2,285,37,305,18,34,721,65,26
+Gujarat,Rajkot,2011,Groundnut,4180,Red,7.2,233,37,353,20,33,795,76,26.5
+Assam,Jorhat,2019,Tea,2980,Red,6.3,279,28,309,21,36,1406,61,28.5
+Uttar Pradesh,Varanasi,2024,Rice,4519,Alluvial,7.1,277,36,317,19,30,1058,63,24.5
+Maharashtra,Pune,2021,Sugarcane,4544,Red,7.3,251,38,301,20,32,992,65,26
+Jharkhand,Ranchi,2012,Maize,3662,Red,7.7,311,42,351,20,38,1135,83,29
+Bihar,Patna,2011,Rice,3685,Alluvial,7.4,287,39,367,24,37,1282,66,30.5
+Andhra Pradesh,Kurnool,2013,Groundnut,3343,Red,7.6,233,41,343,20,31,1345,80,25.5

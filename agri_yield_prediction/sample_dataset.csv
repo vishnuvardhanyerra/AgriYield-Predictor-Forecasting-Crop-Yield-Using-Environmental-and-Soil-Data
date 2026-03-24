@@ -1,0 +1,11 @@
+state,district,year,crop,temperature,rainfall,humidity,soiltype,nitrogen,phosphorus,potassium
+Andhra Pradesh,Anantapur,2024,Rice,28.5,120.4,70.2,Alluvial,45.2,22.1,35.6
+Karnataka,Dharwad,2024,Cotton,26.8,85.5,62.1,Red,38.5,18.2,28.4
+Maharashtra,Nashik,2024,Paddy,25.2,150.8,75.4,Alluvial,42.1,20.5,32.8
+Punjab,Ludhiana,2024,Pulses,24.5,60.2,55.8,Alluvial,35.4,25.6,30.2
+Tamil Nadu,Thanjavur,2024,Rice,29.8,110.2,72.4,Alluvial,48.2,21.4,36.5
+Uttar Pradesh,Varanasi,2024,Pulses,27.4,95.6,65.2,Red,40.2,19.8,31.2
+Andhra Pradesh,Guntur,2024,Cotton,28.1,105.4,68.2,Alluvial,44.5,23.1,34.8
+Karnataka,Belagavi,2024,Paddy,24.8,135.2,78.5,Red,39.8,17.5,29.4
+Maharashtra,Pune,2024,Rice,26.2,115.6,71.2,Alluvial,43.2,21.8,33.5
+Punjab,Amritsar,2024,Cotton,27.5,75.4,58.4,Alluvial,37.6,19.2,27.8
